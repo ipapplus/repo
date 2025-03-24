@@ -5,7 +5,7 @@
     "banners": [
         {
             "url": "https://a7m.dev/CydiaIcon.png",
-            "title": "ربي أني مسني الضر وأنت أرحم الراحمين",
+            "title": "Welcome",
             "package": "sa.ipapplus.autorepomanager",
             "hideShadow": false
         }
