@@ -1,10 +1,9 @@
 <!DOCTYPE html>
-<html lang="en" dir="rtl">
+<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>a7m.dev</title>
-    <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" rel="stylesheet">
     <style>
         :root {
             --primary-dark: #1e293b;
@@ -12,7 +11,7 @@
             --secondary: #94a3b8;
             --background-gradient: linear-gradient(135deg, #0f172a 0%, #1e293b 100%);
             --card-background: rgba(71, 85, 105, 0.2);
-            --blur-effect: blur(15px);
+            --blur-effect: blur(10px);
             --text-light: rgba(255, 255, 255, 0.9);
         }
 
@@ -92,10 +91,6 @@
             cursor: pointer;
         }
 
-        .button i {
-            font-size: 1.2rem;
-        }
-
         .button:hover {
             background: var(--primary-dark);
             transform: translateY(-3px);
@@ -137,34 +132,20 @@
         <img src="CydiaIcon.png" alt="Profile Picture">
         <h1>Ahmed</h1>
 
-        <a href="sileo://source/https://a7m.dev" target="_blank" class="button">
-            <i class="fas fa-box-open"></i> Sileo
-        </a>
+        <a href="sileo://source/https://a7m.dev" target="_blank" class="button">Sileo</a>
         
-        <a href="https://x.com/ipapplus" target="_blank" class="button">
-            <i class="fab fa-twitter"></i> Twitter
-        </a>
+        <a href="https://x.com/ipapplus" target="_blank" class="button">Twitter</a>
         
-        <a href="https://github.com/ipapplus" target="_blank" class="button">
-            <i class="fab fa-github"></i> Github
-        </a>
+        <a href="https://github.com/ipapplus" target="_blank" class="button">Github</a>
 
-        <button class="button" onclick="toggleLinks()">
-            <i class="fas fa-ellipsis-h"></i> المزيد
-        </button>
+        <button class="button" onclick="toggleLinks()">المزيد</button>
 
         <div class="hidden-links" id="more-links">
-            <a href="https://github.com/ipapplus/Dopamine2-roothide/releases/download/tipa/roothide-Dopamine2-v16.tipa" target="_blank" class="button">
-                <i class="fas fa-cogs"></i> roothide_b16.ipa
-            </a>
+            <a href="https://github.com/ipapplus/Dopamine2-roothide/releases/download/tipa/roothide-Dopamine2-v16.tipa" target="_blank" class="button">roothide_b16.ipa</a>
 
-            <a href="https://live.kwikmotion.com/sbrksaquranradiolive/ksaquranradio/chunks.m3u8" target="_blank" class="button">
-                <i class="fas fa-microphone"></i> إذاعة القرآن
-            </a>
+            <a href="https://live.kwikmotion.com/sbrksaquranradiolive/ksaquranradio/chunks.m3u8" target="_blank" class="button">إذاعة القرآن</a>
 
-            <a href="http://n08.radiojar.com/dktga74wdd3vv?rj-ttl=5&rj-tok=AAABk6IjRw8Agk32ONglYT_gqA" target="_blank" class="button">
-                <i class="fas fa-mosque"></i> إذاعة المسجد النبوي
-            </a>
+            <a href="http://n08.radiojar.com/dktga74wdd3vv?rj-ttl=5&rj-tok=AAABk6IjRw8Agk32ONglYT_gqA" target="_blank" class="button">إذاعة المسجد النبوي</a>
         </div>
     </div>
 
