@@ -2,7 +2,6 @@
 
 BASE_DIR="./file"
 OUTPUT_FILE="Packages"
-RELEASE_FILE="Release"
 ARCHS=("arm" "arm64" "arm64e")
 
 for ARCH in "${ARCHS[@]}"; do
@@ -32,20 +31,3 @@ for ARCH in "${ARCHS[@]}"; do
         apt-ftparchive packages "$ARCH_DIR" >> "$OUTPUT_FILE"
     fi
 done
-
-MD5_PACKAGES=$(md5sum "$OUTPUT_FILE" | awk '{print $1}')
-SIZE_PACKAGES=$(stat -c %s "$OUTPUT_FILE")
-
-cat > "$RELEASE_FILE" <<EOF
-Origin:  ‏​‏  Λ7M | Repo
-Label:  ‏​‏  Λ7M | Repo
-Suite: stable
-Version: 1.0
-Codename:  ‏​‏  Λ7M | Repo
-Architecture: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
-Components: main
-Description: rootful & rootless & roothide
-Icon: https://a7m.dev/CydiaIcon.png
-MD5Sum:
- $MD5_PACKAGES $SIZE_PACKAGES Packages
-EOF
