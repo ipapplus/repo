@@ -4,15 +4,9 @@
     "itemCornerRadius": 10,
     "banners": [
         {
-            "url": "https://i.imgur.com/eIICUmP.jpeg",
-            "title": "Welcome",
-            "package": "sa.ipapplus.autorepomanager",
-            "hideShadow": false
-        },
-        {
             "url": "https://i.imgur.com/xAIYmyc.jpeg", 
             "title": "Instagram (Arabic Localized)", 
-            "package": "com.ipapplus.instarab", 
+            "package": "com.ipapplus.instarab",
             "hideShadow": false
         }
     ]
