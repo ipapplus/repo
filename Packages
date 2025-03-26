@@ -90,6 +90,23 @@ Name: AutoRepoManager
 Icon: https://i.imgur.com/ZKCJQvf.jpeg
 Author: ipapplus
 
+Package: com.raulsaeed.bhtiktok++
+Architecture: iphoneos-arm
+Version: 1.9.3
+Section: Tweaks
+Maintainer: raul saeed
+Installed-Size: 1124
+Depends: mobilesubstrate
+Filename: ./file/arm/BHTikTok++.1.9.3.arm.deb
+Size: 198240
+MD5sum: 2c9abca4ebe6cf5162f027b76050503f
+SHA1: 30982f50d159cd734a4b24076e9d5d27e82eaa40
+SHA256: 317eeb4ba6618a7aa088ff8a9634a5981b8a49db101f7132269bf5a11a24a20d
+SHA512: bdde5daf693aadd74974ce6df103e6b1266570b131723836f2a3a9f0f68eaed60a43a8209d568be86fd9f24ab31018509fa7bd0768404c2614655601b7372c2b
+Description: An awesome tweak for TikTok!
+Name: BHTikTok++
+Author: raul saeed
+
 Package: com.cydiaabdullah.cacloud
 Architecture: iphoneos-arm
 Version: 2.1
@@ -139,6 +156,25 @@ SHA512: f7a0d548e32ff0cf7ee169434171a84e81190c4180171f01d3f43bae765cd560fed6c969
 Description: This theme was Inevitable. You installing it is bound to happen. ;€
 Name: Inevitable
 Author: Ray Delvalle <raydelvalle@me.com>
+
+Package: com.dvntm.infuseplus
+Architecture: iphoneos-arm
+Version: 2.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 1016
+Depends: mobilesubstrate
+Filename: ./file/arm/InfusePlus.2.0.1.arm.deb
+Size: 280520
+MD5sum: 050e6e28d0c8a3a0f1e46e4bba5b7c30
+SHA1: 773ba11f14c6cd7c4fdd5446333686acea2eef39
+SHA256: 0112919999b4ee4ca31ea0c20fbe47f99784370e4be3f16cc032e07d0e8e8103
+SHA512: 7c09c2cd93c5f6781099c3c72d9b4714b0c5f818d55a56f16fe0ee577f3d49aee5da08f16ef6ae972cca61d9898f5c765607833768b1fb7db9eee6f7f9fdd621
+Description: Enhancer for Infuse app
+Name: Infuse Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
 
 Package: com.ipapplus.instarab
 Architecture: iphoneos-arm
@@ -248,6 +284,44 @@ Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm
+Version: 5.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16344
+Depends: mobilesubstrate
+Filename: ./file/arm/YTLite.5.1.arm.deb
+Size: 6178520
+MD5sum: 80ec8002252123d9a4522c9d38b22f81
+SHA1: 3504c402bde276dfd8b22a758d9f6def0a044579
+SHA256: a208ca5be6db364a4048240dcfadfaa9f2ad95922d8c5f539668b812b8499f0f
+SHA512: 3b8568c58afa37acaa3aecc0e478703eac18f98a8e169bce5c51db321540b23bf27b4832c0d88a9d12dfe08259ef5dc93f4b997c9f63cdca31478fb4768d558a
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
+
+Package: com.ginsu.ytmusicultimate
+Architecture: iphoneos-arm
+Version: 2.3.1
+Section: Tweaks
+Maintainer: dayanch96 & ginsu
+Installed-Size: 19208
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm/YTMusicUltimate.2.3.1.arm.deb
+Size: 7456448
+MD5sum: 9179b61b5ca8cbdee8b34b28b9e40803
+SHA1: 41a28373f68d452658d660a0edba018ffb766ee3
+SHA256: 425ea8e49e11f3d687e4ef47a2b7ccadbb83af30c3df4573f23d4c058bd79e9d
+SHA512: 12457b2ba4b7d0258cd6faf8afdb4818583e491e22246c0c087f44dcd28d9c586df7c4d534ab104ae06ebf4dccd0158490566a9c03a22cf1f3b94147d200b4e8
+Description: YouTube Music Premium
+Name: YTMusicUltimate
+Author: dayanch96 & ginsu
+Icon: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/main/Resources/depiction.json
 
 Package: com.randy420.tools
 Architecture: iphoneos-arm64
@@ -443,6 +517,23 @@ MD5sum: 645fde324adea3745de09b0a0d52345e
 SHA1: 34a8f65a0d3744e37cba094a73950f482acccabb
 SHA256: eea0ac85a12a79c1edc84ec88cf935053c0facc3e51e5da09e987e439fd8cfdd
 SHA512: f8cc27ed42104612fbc6b0defac482615c47f05a46e45928eb574e01a77f7ee52ca0dcdd09204e24d16d744eb69843548ee688400fe5dd4a045fe63f16222e55
+Description: An awesome tweak for TikTok!
+Name: BHTikTok++
+Author: raul saeed
+
+Package: com.raulsaeed.bhtiktok++
+Architecture: iphoneos-arm64
+Version: 1.9.3
+Section: Tweaks
+Maintainer: raul saeed
+Installed-Size: 1124
+Depends: mobilesubstrate
+Filename: ./file/arm64/BHTikTok++.1.9.3.arm64.deb
+Size: 197884
+MD5sum: 87f958ff68b5f3b1da5bca7eb80b9c0c
+SHA1: f2da759285dba4890d642303e6a125fbb1462b6a
+SHA256: 6bd11e1d6b4e753a99913e3f806f2519f3c192e8c35134e3fef2a40f7af537f9
+SHA512: d76382adb939200f9ba3957072e97e26bf60c1e3238a9e95dba41c42e6793a81677823d1a3a87edea27fa26a16bf1299876e6993cc2fb6eb835e7c615653ef64
 Description: An awesome tweak for TikTok!
 Name: BHTikTok++
 Author: raul saeed
@@ -1239,6 +1330,25 @@ SHA512: 20653d1bdb9b45e20907ca93902bcbe742bbd1a2bdd196d369b1f1d3c45957555e5f4bbb
 Description: This theme was Inevitable. You installing it is bound to happen. ;€
 Name: Inevitable
 Author: Ray Delvalle <raydelvalle@me.com>
+
+Package: com.dvntm.infuseplus
+Architecture: iphoneos-arm64
+Version: 2.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 1016
+Depends: mobilesubstrate
+Filename: ./file/arm64/InfusePlus.2.0.1.arm64.deb
+Size: 280202
+MD5sum: 9d0c11caa8774489e2f0ac93ab53e85c
+SHA1: 67b88e0f8afe48844e1c51010df54e2bc1a419a7
+SHA256: d55ea75bef38d70febc9bb80b4b7ef12fa5a882e013b2df0485ae06efafb6adf
+SHA512: ea13b2b11f7f442d77dd9ea425fe940c378228475cb618f283f327df6c98142abe7fd4b1ed8e214e6926c1c92cf7650666d29b8e60600073d362259e9b38abfe
+Description: Enhancer for Infuse app
+Name: Infuse Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
 
 Package: com.ipapplus.instarab
 Architecture: iphoneos-arm64
@@ -2418,16 +2528,35 @@ Maintainer: dvntm
 Installed-Size: 16344
 Depends: mobilesubstrate
 Filename: ./file/arm64/YTLite.5.1.arm64.deb
-Size: 6182104
-MD5sum: e35f08aa8c4f5be01291059b892eeea6
-SHA1: 7a744a32a1c6ebb92f6e1cb0d108b20ea3d4a3fb
-SHA256: 8c1bc7bdae023d5f4e1dad9e371dba9ef6e107f63a7a71604dd30bcf1361db67
-SHA512: 81e06c7a8c3b29d7d454f4c464deb2db899821694a42836ef41b2d3a95f0b741e9b06f45a1138a61dc2f780376924c6d7944ed013db05a388ec292f757e8db40
+Size: 6184324
+MD5sum: c52f04bf97551c2f814532e2a0dfc1de
+SHA1: 97cabb0fdc9b84e91ced79f6cb9268ab7602d654
+SHA256: b03db1e019e49ad9c7bcf6594fc2b10ad64e65e36bd281c4f61499f254173313
+SHA512: 77de35321fd6b85eda3fd2a99dc3a94c914725bf2188c0acad01d6b9b54ecf54a46b5b9be44f3759cd9046cb49a0fb02bf9f216c4d1196c209c0e2a37d66bac8
 Description: Lightweight YouTube Enhancer
 Name: YTLite
 Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
+
+Package: com.ginsu.ytmusicultimate
+Architecture: iphoneos-arm64
+Version: 2.3.1
+Section: Tweaks
+Maintainer: dayanch96 & ginsu
+Installed-Size: 19208
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm64/YTMusicUltimate.2.3.1.arm64.deb
+Size: 7456384
+MD5sum: 050b7db1c4b2d9a33a9a54b9e583034e
+SHA1: 3a3cb2e9bdc3940cff2df461f7f2cd06c938e97d
+SHA256: b95f1299e0efff27f0448c9fe5bdc009acf3bcf61ac02fa8f741c05da0f1b41c
+SHA512: a57ade9b6b97ad6f1a1494e2deb82aee2df1b142dbb99b4921b9cf4a8c00944a1eff2f957423525108c2c8c76b66e202a95313af35f7cc40e34f1cad8583054c
+Description: YouTube Music Premium
+Name: YTMusicUltimate
+Author: dayanch96 & ginsu
+Icon: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/main/Resources/depiction.json
 
 Package: dev.mineek.appstoretroller
 Architecture: iphoneos-arm64
@@ -4556,6 +4685,25 @@ SHA512: a3c2000fb7f55889e6be603a8da12504ecff5a9afcd9228b5b762085d4656424fe7f3ec0
 Description: This theme was Inevitable. You installing it is bound to happen. ;€
 Name: Inevitable
 Author: Ray Delvalle <raydelvalle@me.com>
+
+Package: com.dvntm.infuseplus
+Architecture: iphoneos-arm64e
+Version: 2.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 984
+Depends: mobilesubstrate
+Filename: ./file/arm64e/InfusePlus.2.0.1.arm64e.deb
+Size: 279414
+MD5sum: c43fb684f2c8b0a53bf50fc5543e0f48
+SHA1: 9f313a4aa08097f24e33767686637b4c120d23d6
+SHA256: 10ca76e85d736fe87594ad02ca8ca869b0f93ada74bde1b87a17ba950880e093
+SHA512: 43e1656f97463141d3f1f3523da3a5e2836dc302f9eed6e4007f02780754f95f3265d4d80e25c63d7b6565517c7005abcb507b58e7cc31d498e6e2564d1e6542
+Description: Enhancer for Infuse app
+Name: Infuse Plus
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/InfusePlus/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Resources/depiction.json
 
 Package: com.ps.injectionfoundation
 Architecture: iphoneos-arm64e
@@ -6948,16 +7096,35 @@ Maintainer: dvntm
 Installed-Size: 16344
 Depends: mobilesubstrate
 Filename: ./file/arm64e/YTLite.5.1.arm64e.deb
-Size: 6176040
-MD5sum: 5881c597abb3e563658aeec523844369
-SHA1: 25cc53973ac84efa1ba16b0afcdbaf26663369a0
-SHA256: 6c5aeb9e9d7a80d61461537fa1fda424fe9a237d670d97f7d4c411692f4eba55
-SHA512: 0387a3eb3a8ee7a6d26f05b82f92b2f5f6054bc743d0e79ab0e959ef0d58acae6171f7cf8f0d779a24ef1883162115d1fd07e044fedc0adaa8d37a3d3de28924
+Size: 6186590
+MD5sum: 82651ed53e457ad36a4f7cb9dc280118
+SHA1: 3e1e9c473276b5161846e5689f070b8c35b2f7e4
+SHA256: d1627149204fb332400df5725c8ba24bb6143e3f98babcfc8299a8b562e068d0
+SHA512: d133d1ba13d1d17927d16e8aaa78c3222293909c1e3afa3bbf74812e3c94f7d2437a38346233e41a3b968bfa0d0c6ae9c1903778deaff0ba48ca9bc7c30b313c
 Description: Lightweight YouTube Enhancer
 Name: YTLite
 Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
+
+Package: com.ginsu.ytmusicultimate
+Architecture: iphoneos-arm64e
+Version: 2.3.1
+Section: Tweaks
+Maintainer: dayanch96 & ginsu
+Installed-Size: 19204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm64e/YTMusicUltimate.2.3.1.arm64e.deb
+Size: 7455378
+MD5sum: e8b75c25752e3e756630349bc595540a
+SHA1: 37880768f67e673d4c6fd0b569ca9006b4c4ddf1
+SHA256: 4cfeccd10ec61309fa50efa461c927d79f1d701c0c5750a8d5573858ef299ca9
+SHA512: f5d64ff5cf08ec86f4aaadad77c6f09933e6fa18286b86d90e65abbfd7e53aab982bed495ebeaaef0458567d3227dd5643daceb234f30c44e8a0e57e74ad8cf2
+Description: YouTube Music Premium
+Name: YTMusicUltimate
+Author: dayanch96 & ginsu
+Icon: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/main/Resources/depiction.json
 
 Package: com.ps.yougroupsettings
 Architecture: iphoneos-arm64e
