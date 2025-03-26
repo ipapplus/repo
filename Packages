@@ -646,23 +646,6 @@ Author: Bandar Alruwaili
 
 Package: com.raulsaeed.bhtiktok++
 Architecture: iphoneos-arm64
-Version: 1.7-1+debug
-Section: Tweaks
-Maintainer: raul saeed
-Installed-Size: 1092
-Depends: mobilesubstrate
-Filename: ./file/arm64/BHTikTok++.1.7-1+debug.arm64.deb
-Size: 152664
-MD5sum: 645fde324adea3745de09b0a0d52345e
-SHA1: 34a8f65a0d3744e37cba094a73950f482acccabb
-SHA256: eea0ac85a12a79c1edc84ec88cf935053c0facc3e51e5da09e987e439fd8cfdd
-SHA512: f8cc27ed42104612fbc6b0defac482615c47f05a46e45928eb574e01a77f7ee52ca0dcdd09204e24d16d744eb69843548ee688400fe5dd4a045fe63f16222e55
-Description: An awesome tweak for TikTok!
-Name: BHTikTok++
-Author: raul saeed
-
-Package: com.raulsaeed.bhtiktok++
-Architecture: iphoneos-arm64
 Version: 1.9.3
 Section: Tweaks
 Maintainer: raul saeed
@@ -3485,6 +3468,24 @@ MD5sum: f374bc38512482b207f5f6735930c105
 SHA1: 2e7bd5c9543558e77e63a5d8a719c5b164b2d68b
 SHA256: aece6c5792012c53f40937079800eadaaf9a528b22c84cbf648b203365f6c83e
 SHA512: 9cb5bf211c5d44ba2bd45c746be61d4122a832e1281f95f813e846f68c8bd7514d2a9c1f66cd408e9f4f165ffbe650b76f0ce998669d4871f9417e6b4fae97fb
+Description: An awesome tweak for TikTok!
+Name: BHTikTok++
+Author: raul saeed
+
+Package: com.raulsaeed.bhtiktok++
+Architecture: iphoneos-arm64e
+Version: 1.9.3
+Section: Tweaks
+Maintainer: raul saeed
+Installed-Size: 1124
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./file/arm64e/BHTikTok++.1.9.3.arm64e.deb
+Size: 280298
+MD5sum: dab3e6f005823b1970873889ef7c6053
+SHA1: 58582ba0f7fe305b1873cda171b82f8f39ca073b
+SHA256: 29978bb23eca55a99ae7b468024b62238f8d245a4fb5b1353ce6196f76919205
+SHA512: 1f4d4adb2c6d6baa5b21b6eecff07c84a7519460cdc0060e4248c825bec109b3708f06f903c855483dc34d2c80f27ff787a72673428f5a1dca5efa66c94bc991
 Description: An awesome tweak for TikTok!
 Name: BHTikTok++
 Author: raul saeed
