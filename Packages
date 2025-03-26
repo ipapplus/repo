@@ -281,6 +281,25 @@ Description: A tweak to Manage Delete
 Name: ManageDelete
 Author: Sniper @DNS_Sys
 
+Package: com.dvntm.ovk
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 28048
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm/OrwellVK.1.1.arm.deb
+Size: 10120378
+MD5sum: 49a9d85b853ccf99ce5e9e5a07594e8f
+SHA1: 7c5b287e99e8ca49a3287828fe4d09ab7de99443
+SHA256: 7569f9928296b1b7df0bb3e9a44d1c926ad6b9635345b6baafefd24a1db7b9a9
+SHA512: 0116fe00e6cef63ac51597a42d4b0b375703e0040665d84a05c3344c673c6fe840fdf68f34604cb9c4bc012d7169f6410102857966e2a3f5d8f2d777210a62fa
+Description: A subtle shift from the familiar
+Name: OrwellVK
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/OrwellVK/main/Sileo/depiction.json
+
 Package: com.dvntm.ratebegone
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -1958,6 +1977,25 @@ Name: OnlineNotify
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
 Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
+
+Package: com.dvntm.ovk
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 28048
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm64/OrwellVK.1.1.arm64.deb
+Size: 10107752
+MD5sum: 65ce5505f4653512d05d3dc071aa9e90
+SHA1: 125e1641a6ebfca64b05972773bbc39faeb3cf8f
+SHA256: 091cf2b05d81b9bede93902d49a2f8de170d3e7a6a7c25c569f1feed42a8ccc1
+SHA512: 2d91929074cb1e53f5f106b2f6ee6afae459884788d87506f57e59e7c440eaa979966fb93a4e6c69f05e600ba1b39651a26e5822be416eebb9dc012aa06f99a4
+Description: A subtle shift from the familiar
+Name: OrwellVK
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/OrwellVK/main/Sileo/depiction.json
 
 Package: com.nan.pointless
 Architecture: iphoneos-arm64
@@ -5627,6 +5665,25 @@ Name: OnlineNotify
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
 Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
+
+Package: com.dvntm.ovk
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 28048
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm64e/OrwellVK.1.1.arm64e.deb
+Size: 10113090
+MD5sum: 361e1720d829893efb0dfa4c5fb7c4e9
+SHA1: c733923ddc1a319ca7c83b0c94286472ed36661f
+SHA256: 52ac139e1b26e22962eea19aee7eb7b60bd86561d83796ec6e358ab6a836ba25
+SHA512: 449f3fe7fdacedf2c769bac74cb8b37276ca9aa9686183c50ba4ea688ed34797258653e0af06232655325d6aef7e19bae7d7fb89321ca37e4afc0a602762840a
+Description: A subtle shift from the familiar
+Name: OrwellVK
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/OrwellVK/main/Sileo/depiction.json
 
 Package: pro.ikghd.pmp
 Architecture: iphoneos-arm64e
