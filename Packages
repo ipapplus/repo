@@ -158,6 +158,23 @@ Description: An awesome MobileSubstrate tweak!
 Name: ClassicFolders 2
 Author: CoolStar
 
+Package: com.dvntm.esignalert
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm/ESignAlert.0.0.1.arm.deb
+Size: 3430
+MD5sum: 05ddac2ef33a3409f18fac440dee927d
+SHA1: 70959e50eb15d72202b038b4b088af0927336e0b
+SHA256: c2c03421b22bbfd481444d191b6f7c0297185e9ce186ea6ee5c1b35e82518a9c
+SHA512: a7a4f436dcd1bec34b547dd332b8cf23b8e6d9951a1b67c35794fe3a860de554b864d0d9ed47f6e3986fdd12bfeaf202978dadc7124a43124f04ee3b2a826ed3
+Description: An awesome MobileSubstrate tweak!
+Name: ESignAlert
+Author: dvntm
+
 Package: com.twickd.ray-delvalle.inevitable
 Architecture: iphoneos-arm
 Version: 0.7.4
@@ -1049,6 +1066,23 @@ Description: Decrypt iOS Apps and Plugins, Supports iOS15+, Only Tested iOS16.1
 Name: DumpDecrypter
 Author: Netskao
 SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.dumpdecrypter.json
+
+Package: com.dvntm.esignalert
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm64/ESignAlert.0.0.1.arm64.deb
+Size: 3514
+MD5sum: 56e96d0223034d69f06ee73c11482cc7
+SHA1: 0919853ff956227b89d198533903f75f5f98648b
+SHA256: f42c360c80610563fc4743489face074c2e940cd6f4fd05f692ee5ea3be994d8
+SHA512: 65a93a0da1542646e005b442591cc089b24520c220a9ab2d22d5e404af3eec976872bff6aceb5355b848720e15b20076cdfa5b8ef699efc670408bf16d0da77f
+Description: An awesome MobileSubstrate tweak!
+Name: ESignAlert
+Author: dvntm
 
 Package: dev.traurige.eneko
 Architecture: iphoneos-arm64
