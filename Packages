@@ -229,6 +229,25 @@ Author: ipapplus
 Icon: https://i.imgur.com/ffrKJBH.jpeg
 Header: https://i.imgur.com/xAIYmyc.jpeg
 
+Package: chaoge.jbdev
+Architecture: iphoneos-arm
+Version: 1.0-277+debug
+Section: Tweaks
+Maintainer: chaoge
+Installed-Size: 20972
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm/JBDev.1.0-277+debug.arm.deb
+Size: 1109586
+MD5sum: e8ae15558d8dd9c2fee9987910c88f1b
+SHA1: 5aa99c18b3faf6e77786fcd17d0ac23adb12d243
+SHA256: 2d0604d14362b88e544c9a85dc0c5f7e346183a8dd54909247a3f942bcb192bd
+SHA512: 5f073a262c82fa0a6d879ba874fb6772ae57ede755eeeee59cc4079e14290436caa467a187232471fa48496eb8357b0ee47f734773fd2507ec1b781f73847ced
+Description: Jailbreak development tool for XCode
+Name: JBDev
+SileoDepiction: Jailbreak development tool for XCode
+Depiction: Jailbreak development tool for XCode
+Author: chaoge
+
 Package: com.dvntm.lsquickactions
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -1575,6 +1594,25 @@ SHA512: 9ca02b0e973dc34e471e0e14948e2c7580389e8ffcb715a98fe0235be1e1c2c46e8d61c7
 Description: Tweak to enable the hidden storage settings
 Name: InternalStorageSettings
 Author: Nathan Senter
+
+Package: chaoge.jbdev
+Architecture: iphoneos-arm64
+Version: 1.0-279+debug
+Section: Tweaks
+Maintainer: chaoge
+Installed-Size: 21020
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm64/JBDev.1.0-279+debug.arm64.deb
+Size: 1110300
+MD5sum: 27b36b29ac26b2d626873df31b91dada
+SHA1: 910b473d514182f52311ef8d55cb0f5e4237f781
+SHA256: 235df9f18ff2b09f49f71403ae6970e609e307fc4b6208a6dc9c9f2d30568e09
+SHA512: 774b0d3d9f04577cd24bea88aa656125e735ad9e2af16b13d6bf523b0924c9e23a78ae5a22c03db8347db92c0269badff1c4842ab65b7be611f70980b9092ba0
+Description: Jailbreak development tool for XCode
+Name: JBDev
+SileoDepiction: Jailbreak development tool for XCode
+Depiction: Jailbreak development tool for XCode
+Author: chaoge
 
 Package: com.nan.jbir
 Architecture: iphoneos-arm64
@@ -5042,6 +5080,25 @@ SHA512: 55999b00afca7b5926a54f6d4af19310c75b5290ba193777ca8d4da7b6f2d6ae7b21f167
 Description: Tweak to enable the hidden storage settings
 Name: InternalStorageSettings
 Author: Nathan Senter
+
+Package: chaoge.jbdev
+Architecture: iphoneos-arm64e
+Version: 1.0-278+debug
+Section: Tweaks
+Maintainer: chaoge
+Installed-Size: 21024
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm64e/JBDev.1.0-278+debug.arm64e.deb
+Size: 1110866
+MD5sum: 4f3374010578db2813e1c8a7aa95eaee
+SHA1: 8f4af125a01a68fefe41daead38b4937abec7243
+SHA256: e7105fd75906d1b0fe7093d9f3b2d116d9f886bd43098840b2c026d046392ca7
+SHA512: 4c0f5bf3598a8c98c7a600a09d3ca2dfb7596baca210ec47fb22ff2e3a0f398756ea20b29e8d83f2942fa6106e235a6f2d58824abc9fdb7dc64fff6e89e78cef
+Description: Jailbreak development tool for XCode
+Name: JBDev
+SileoDepiction: Jailbreak development tool for XCode
+Depiction: Jailbreak development tool for XCode
+Author: chaoge
 
 Package: com.nan.jbir
 Architecture: iphoneos-arm64e
