@@ -90,6 +90,23 @@ Name: AutoRepoManager
 Icon: https://i.imgur.com/ZKCJQvf.jpeg
 Author: ipapplus
 
+Package: com.raulsaeed.bhtiktok++
+Architecture: iphoneos-arm
+Version: 1.8-120
+Section: Tweaks
+Maintainer: raul saeed
+Installed-Size: 792
+Depends: mobilesubstrate
+Filename: ./file/arm/BHTikTok++.1.8-120.arm.deb
+Size: 148356
+MD5sum: 0f312fc5f43f6ab917b5d90975a569af
+SHA1: be75bd9cd2ab1caab8130ea23bc42ed1e12bbdbd
+SHA256: 66bce3a22eb2fe42de44884fd2cbddc13a7229d8928f2b649698fd3411de602f
+SHA512: 85b350026689b3eb8477501934eb797727e4b5efe889cde25725e6bec27eda4330537deb8af80286da686933034ef231cd07961d30d8350eeef0427a887583c4
+Description: An awesome tweak for TikTok!
+Name: BHTikTok++
+Author: raul saeed
+
 Package: com.cydiaabdullah.cacloud
 Architecture: iphoneos-arm
 Version: 2.1
@@ -640,6 +657,23 @@ MD5sum: 645fde324adea3745de09b0a0d52345e
 SHA1: 34a8f65a0d3744e37cba094a73950f482acccabb
 SHA256: eea0ac85a12a79c1edc84ec88cf935053c0facc3e51e5da09e987e439fd8cfdd
 SHA512: f8cc27ed42104612fbc6b0defac482615c47f05a46e45928eb574e01a77f7ee52ca0dcdd09204e24d16d744eb69843548ee688400fe5dd4a045fe63f16222e55
+Description: An awesome tweak for TikTok!
+Name: BHTikTok++
+Author: raul saeed
+
+Package: com.raulsaeed.bhtiktok++
+Architecture: iphoneos-arm64
+Version: 1.8-119
+Section: Tweaks
+Maintainer: raul saeed
+Installed-Size: 792
+Depends: mobilesubstrate
+Filename: ./file/arm64/BHTikTok++.1.8-119.arm64.deb
+Size: 148400
+MD5sum: 59d07b985b3c7d94b5f6fed263e5f424
+SHA1: 3dda5a6e62f4e5295a263efe598f2d2327f94d64
+SHA256: 11a72b0d1809ea5890bf9ddba533f52a3032693b9c355cafbd65bae6aef6be9a
+SHA512: d95ecf0054d1d2d39e41bd5d887b993f50e3d4f6359a40ad58db1dc5e8a839c743f9eeddcbf53045ab45775da90b3cbb7becb88d451eed0e00df0249c7694a89
 Description: An awesome tweak for TikTok!
 Name: BHTikTok++
 Author: raul saeed
@@ -3451,6 +3485,24 @@ MD5sum: f374bc38512482b207f5f6735930c105
 SHA1: 2e7bd5c9543558e77e63a5d8a719c5b164b2d68b
 SHA256: aece6c5792012c53f40937079800eadaaf9a528b22c84cbf648b203365f6c83e
 SHA512: 9cb5bf211c5d44ba2bd45c746be61d4122a832e1281f95f813e846f68c8bd7514d2a9c1f66cd408e9f4f165ffbe650b76f0ce998669d4871f9417e6b4fae97fb
+Description: An awesome tweak for TikTok!
+Name: BHTikTok++
+Author: raul saeed
+
+Package: com.raulsaeed.bhtiktok++
+Architecture: iphoneos-arm64e
+Version: 1.8-119
+Section: Tweaks
+Maintainer: raul saeed
+Installed-Size: 792
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./file/arm64e/BHTikTok++.1.8-119.arm64e.deb
+Size: 195204
+MD5sum: c79ff7bef75a62d245f4facb7217f1b5
+SHA1: e34c41e9c16f023d533f175eeedd64b94234f9e2
+SHA256: e2349c5ee9b045b5ef22889a81171571ccfc6f6cbf73e09171426eb251fa21e3
+SHA512: dd431919b438b8aa77afa732bae23f97a708fd7b580f7ea10cf09b58807fdbc436d472e3db89ca5ec3e8b1c79829b9fb699047199636dd8019723f12073c715a
 Description: An awesome tweak for TikTok!
 Name: BHTikTok++
 Author: raul saeed
