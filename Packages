@@ -195,6 +195,23 @@ Author: ipapplus
 Icon: https://i.imgur.com/ffrKJBH.jpeg
 Header: https://i.imgur.com/xAIYmyc.jpeg
 
+Package: com.dvntm.lsquickactions
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./file/arm/LSQuickActions.0.0.1.arm.deb
+Size: 3528
+MD5sum: 6b684c07e1c423b195ff8bb3e385dfe9
+SHA1: 716656951256c83f9490c362321898cffddf959a
+SHA256: 9e2b2f3d5903ddb7a637376b90d716ed05a8874beb914daec353ae05d3ada29a
+SHA512: cbd1236fa1ce9ff233e70905aaaead16ca109187804b113f2272021a12d78d9e6463988e93e2b180197ee5a90c1d932901fe524fa9a00ce7cfe28a377bcc6df8
+Description: Enables quick action buttons on the lock screen
+Name: LSQuickActions
+Author: dvntm
+
 Package: com.julioverne.lowerinstall
 Architecture: iphoneos-arm
 Version: 0.0~beta6
@@ -229,6 +246,40 @@ SHA512: 1f59c4c1309ea0229c7a9f8b07935009099fb8671532bd14043d14ea348bfbc9c4c57ea2
 Description: A tweak to Manage Delete
 Name: ManageDelete
 Author: Sniper @DNS_Sys
+
+Package: com.dvntm.safariii
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm/Safariii.0.0.1.arm.deb
+Size: 2786
+MD5sum: 37fd3eb85bf0b5e7ba87d162a2b45f00
+SHA1: 7530fd04977cfe6003f3e2bd53c60d3e71d203f1
+SHA256: 6933b7f0911b481c43a76acc675967ab13a054ced54cfd7faeeeccde5ee1cbed
+SHA512: 238333236cdf337618c62e6be1b1df525397be4d4ea9a26642e751e6a9f48a5342c248226fa87242a1cf47a6afe63e6a1a4e1b980393d34afc128f2d0bf143a3
+Description: An awesome MobileSubstrate tweak!
+Name: Safariii
+Author: dvntm
+
+Package: com.dvntm.silentnotifs
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm/SilentNotifs.0.0.2.arm.deb
+Size: 3572
+MD5sum: ca7db84453f1ec76b3663d6965e0ade0
+SHA1: 23787af0d3b0aad6ec8435609bb0c4651a9f724a
+SHA256: eda0a189a4baa47d8ca327d25660d81b2995e763b565b5691c378a7ee454fc90
+SHA512: f251ca5284b13c6a162dc552531819bc2031fa7ce47fad3129f4a2a47e24f48b6a66335624c67d8982e74a2cd2abbaede76cbe2bd484141986b73d07e3e8c84a
+Description: Keep notifications silent while media is playing
+Name: SilentNotifs
+Author: dvntm
 
 Package: com.kdt.trollpad
 Architecture: iphoneos-arm
@@ -1472,6 +1523,23 @@ Description: Clipboard manager for iOS.
 Name: Kayoko
 Author: Alexandra Aurora Göttlicher
 
+Package: com.dvntm.lsquickactions
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./file/arm64/LSQuickActions.0.0.1.arm64.deb
+Size: 3612
+MD5sum: d66c097e956ef842b968ea422b970be0
+SHA1: 87bd86e9eb2f9bd91dbf46ab60204b6d6d341b55
+SHA256: d274f1361b3a494584b49db637893b98d7838fea40441f685b72696cc3b65814
+SHA512: f8486ccaa9b2b8d6cd04830b9672f5747e0a5bea339fbf751600141dd76f12d5d8ade5498822330c7e2512d374f517d313ea810c537a7fdb5fdeb193778dd526
+Description: Enables quick action buttons on the lock screen
+Name: LSQuickActions
+Author: dvntm
+
 Package: com.ps.latesttranslate
 Architecture: iphoneos-arm64
 Version: 6.0.1
@@ -2163,17 +2231,15 @@ Version: 0.0.2
 Section: Tweaks
 Maintainer: dvntm
 Installed-Size: 152
-Depends: mobilesubstrate
+Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./file/arm64/SilentNotifs.0.0.2.arm64.deb
-Size: 3852
-MD5sum: a9db8e137654f5b39eeb62905df47253
-SHA1: e3198d3d3e5ed4a5e62fdc33c239caadec0cac67
-SHA256: dd02accac8ac05eeaa69e5fffa410a5a9185af4bf1451564996ff4505f330453
-SHA512: 2461f307c6914f2cc4148405e9f1aaac4dc5346f816ff9123bbcb63b1401e1333c34547e53e663a1544ea09769c10f3e6acd234285d0251662c9a4a50292cfbb
+Size: 3662
+MD5sum: 38ad559e9ac9740ef30214da4eaa7a00
+SHA1: 002eb290de9e0aa601009580bc0f867bdcd9088f
+SHA256: 99196a6cb4129d2ebaff2580d6bd019628318f82a7d8c78b1e4ae3c24ef31a8a
+SHA512: f0265105e37861a75409321b73d280e48ac1c3eca3772421e3e172b824802d399ce14268c40eda6db657abb3811e7a392eb432fdb3db237ec96e05cde12468b5
 Description: Keep notifications silent while media is playing
 Name: SilentNotifs
-SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx/SilentNotifs.json
-Icon: https://i.imgur.com/pEW44HA.jpeg
 Author: dvntm
 
 Package: com.nightwind.sileorespringfix
@@ -4872,6 +4938,23 @@ Name: KrashKop
 Author: FoxfortMobile
 Icon: file:///Applications/KrashKopApp.app/AppIcon60x60@2x.png
 
+Package: com.dvntm.lsquickactions
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0)
+Filename: ./file/arm64e/LSQuickActions.0.0.1.arm64e.deb
+Size: 3540
+MD5sum: 21a89cde30d604009758a7dadbb10b79
+SHA1: 11828b4d77db428d76d2f477359c22dbe022d972
+SHA256: 6134da62578e526371a9632e0b64cfa51c30a8389f3cf12d5ce36b99064b638a
+SHA512: dbdfee3363e2e1a9251e2b03e723f6b3a0bff0a70e17ba333be0531de814a2c5957a547569ffffa2939e2d6171cc4cb02cd74269dfe0dc24732df9ca4484ac65
+Description: Enables quick action buttons on the lock screen
+Name: LSQuickActions
+Author: dvntm
+
 Package: com.ps.latesttranslate
 Architecture: iphoneos-arm64e
 Version: 6.0.1
@@ -6036,14 +6119,13 @@ Version: 0.0.2
 Section: Tweaks
 Maintainer: dvntm
 Installed-Size: 152
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
+Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./file/arm64e/SilentNotifs.0.0.2.arm64e.deb
-Size: 3656
-MD5sum: 5d587df9382de3f621d0b19e507ced5f
-SHA1: 3a504b4f5b97f01a6c74bf1994e4b374e927b3c8
-SHA256: 44ca6f6c93bcd080b2cee07fc38de92c3559f9b7215250fb81c50d4e9e397990
-SHA512: f47061df24cb5893fe79725debdae99f9a048a6be5e9d320f54ed0f6da4cea234684ac5a42ac66feb35f81b5809eff1a01929781cfb16159f7f947d011f4389e
+Size: 3592
+MD5sum: f8865dcdafe66237508242f2c58be844
+SHA1: c16c450777613e888c6f95398d101e34fa4e82c0
+SHA256: af274673b2adb3d7d8ce76173e9fdb8d0b82fb81b5709491838f38b41a7380a3
+SHA512: 089c585d89eb35af28becd51c75fc84d590ef4a7b6a35ef060520e09c9281ddecae3d8def3c13482191fd742f890c9d40e5f9e3d03af1c015b3666edc92ece02
 Description: Keep notifications silent while media is playing
 Name: SilentNotifs
 Author: dvntm
