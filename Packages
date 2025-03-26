@@ -124,6 +124,23 @@ Description:  حذف الأعلانات لتطبيق انمي كلاود وتس�
 Name: CACloud
 Author: CydiaAbdullah
 
+Package: com.dvntm.cc18
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Filename: ./file/arm/CC18.0.0.2.arm.deb
+Size: 4280
+MD5sum: 468807a92996542db70f6b8bbbef0c33
+SHA1: 5e2ddf5e450629e5b54340b3ccdd0ad0ff5a40d5
+SHA256: 4ef502c6c17260a93146a5e78518321d7df9c38c0a2b4c0f397ba6b151cc28e9
+SHA512: b2130b1fdc25c8bf7edae53cf5109bade4520a02f2c25413ac7bd68c98ff5965a8b4f8c4970c9155992dcbd01e6c119c324e606ead68fe42fcb2110e8fe900da
+Description: Round CC modules replication, like in iOS 18
+Name: CC18
+Author: dvntm
+
 Package: org.coolstar.classicfolders2
 Architecture: iphoneos-arm
 Version: 3.0.6
@@ -247,6 +264,25 @@ Description: A tweak to Manage Delete
 Name: ManageDelete
 Author: Sniper @DNS_Sys
 
+Package: com.dvntm.ratebegone
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm/RateBeGone.0.0.1.arm.deb
+Size: 3164
+MD5sum: 961e09f117e1de2ab470c368cd05c1f3
+SHA1: 7e1b2664b179c124f79983fa1722e018948626fe
+SHA256: 6797494654556d1a5e49eb42afe0a29dd3f558dd1871c3f4f9c374bd7383f55f
+SHA512: ea700ad906b1952c939b70e4e47b61092f19b7bc8f2e340553df06f4d3cedfd264eb48c04ab5199257ec72d1dcbb243d5297cdffdf1e1fd89a6c856e0ba301b6
+Description: Removes annoying rate app pop-ups
+Name: RateBeGone
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/RateBeGone/refs/heads/main/sources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/RateBeGone/main/sources/depiction.json
+
 Package: com.dvntm.safariii
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -262,6 +298,23 @@ SHA256: 6933b7f0911b481c43a76acc675967ab13a054ced54cfd7faeeeccde5ee1cbed
 SHA512: 238333236cdf337618c62e6be1b1df525397be4d4ea9a26642e751e6a9f48a5342c248226fa87242a1cf47a6afe63e6a1a4e1b980393d34afc128f2d0bf143a3
 Description: An awesome MobileSubstrate tweak!
 Name: Safariii
+Author: dvntm
+
+Package: com.dvntm.showmytouches
+Architecture: iphoneos-arm
+Version: 1.1.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm/ShowMyTouches.1.1.3.arm.deb
+Size: 53670
+MD5sum: 34cc9f647b1c6336d259e6c3bc4f6062
+SHA1: 9e15dffc49014088f336b09c78657e7daee7c62a
+SHA256: 0af740120f45166601e9125a19af6437349594732fbe0e26e2dc91e99910a4cf
+SHA512: 871505b7dd06e47ba7976cf073717a3dbeb5cb2ba3e9eaef362526a7bf37ac800bbf05b43ea8452cfbd954f30b2d503b2f3698c649abf436ed682ce840e4dace
+Description: Displays your touch interactions!
+Name: ShowMyTouches
 Author: dvntm
 
 Package: com.dvntm.silentnotifs
@@ -2199,6 +2252,23 @@ SHA512: 889664b666bd6d625fb10b5204b6f5154a462b40abf0e9bbf651478643bae4952e1cedfb
 Description: Bring good looking widgets to the front page of settings!
 Name: SettingsWidgets
 Author: shepgoba
+
+Package: com.dvntm.showmytouches
+Architecture: iphoneos-arm64
+Version: 1.1.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm64/ShowMyTouches.1.1.3.arm64.deb
+Size: 53580
+MD5sum: c413e04f9aedce00b96b57e8de03d7e0
+SHA1: 4c50d7e412c14d1208f78cd595c637ed51b7a473
+SHA256: ebbdf48c9ec9dcbfeeb016edb126f8820cf50c2a9ca716fa80cfb80a92078abf
+SHA512: 435ddc8b4b0df8dea2370c101710fa8bb2a055cfdbca80e23fa5383dbdbc6c39a0c484a21f735b06f07da0545aacae4e063a05d7f84e4cb669043c1ecbe709c1
+Description: Displays your touch interactions!
+Name: ShowMyTouches
+Author: dvntm
 
 Package: com.creaturecoding.shuffle
 Architecture: iphoneos-arm64
@@ -6087,6 +6157,23 @@ Name: ShortCutx
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=shortcutxDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: mrdensor
+
+Package: com.dvntm.showmytouches
+Architecture: iphoneos-arm64e
+Version: 1.1.3
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 472
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm64e/ShowMyTouches.1.1.3.arm64e.deb
+Size: 52568
+MD5sum: 809e34496508ee881c5fd30ab186360f
+SHA1: 92b8efe72eefdf9b14f25df7ad1760790ae13f4a
+SHA256: 52abf7beb97eb0ece3a1fb96f1a6a1c09c4528b95218a5cd1fa2d3ff4da62080
+SHA512: 7ce3f5729a98be6bad56852b5a6b29b619953d0b6355a4ff5a2e4180572c1a3feee58d9f9cba52d188712ca8af25e1528ac639f8289cce64f08896c4abc0080c
+Description: Displays your touch interactions!
+Name: ShowMyTouches
+Author: dvntm
 
 Package: com.creaturecoding.shuffle
 Architecture: iphoneos-arm64e
