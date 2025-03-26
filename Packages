@@ -90,23 +90,6 @@ Name: AutoRepoManager
 Icon: https://i.imgur.com/ZKCJQvf.jpeg
 Author: ipapplus
 
-Package: com.raulsaeed.bhtiktok++
-Architecture: iphoneos-arm
-Version: 1.9.3
-Section: Tweaks
-Maintainer: raul saeed
-Installed-Size: 1124
-Depends: mobilesubstrate
-Filename: ./file/arm/BHTikTok++.1.9.3.arm.deb
-Size: 198240
-MD5sum: 2c9abca4ebe6cf5162f027b76050503f
-SHA1: 30982f50d159cd734a4b24076e9d5d27e82eaa40
-SHA256: 317eeb4ba6618a7aa088ff8a9634a5981b8a49db101f7132269bf5a11a24a20d
-SHA512: bdde5daf693aadd74974ce6df103e6b1266570b131723836f2a3a9f0f68eaed60a43a8209d568be86fd9f24ab31018509fa7bd0768404c2614655601b7372c2b
-Description: An awesome tweak for TikTok!
-Name: BHTikTok++
-Author: raul saeed
-
 Package: com.cydiaabdullah.cacloud
 Architecture: iphoneos-arm
 Version: 2.1
@@ -646,17 +629,17 @@ Author: Bandar Alruwaili
 
 Package: com.raulsaeed.bhtiktok++
 Architecture: iphoneos-arm64
-Version: 1.9.3
+Version: 1.7-1+debug
 Section: Tweaks
 Maintainer: raul saeed
-Installed-Size: 1124
+Installed-Size: 1092
 Depends: mobilesubstrate
-Filename: ./file/arm64/BHTikTok++.1.9.3.arm64.deb
-Size: 197884
-MD5sum: 87f958ff68b5f3b1da5bca7eb80b9c0c
-SHA1: f2da759285dba4890d642303e6a125fbb1462b6a
-SHA256: 6bd11e1d6b4e753a99913e3f806f2519f3c192e8c35134e3fef2a40f7af537f9
-SHA512: d76382adb939200f9ba3957072e97e26bf60c1e3238a9e95dba41c42e6793a81677823d1a3a87edea27fa26a16bf1299876e6993cc2fb6eb835e7c615653ef64
+Filename: ./file/arm64/BHTikTok++.1.7-1+debug.arm64.deb
+Size: 152664
+MD5sum: 645fde324adea3745de09b0a0d52345e
+SHA1: 34a8f65a0d3744e37cba094a73950f482acccabb
+SHA256: eea0ac85a12a79c1edc84ec88cf935053c0facc3e51e5da09e987e439fd8cfdd
+SHA512: f8cc27ed42104612fbc6b0defac482615c47f05a46e45928eb574e01a77f7ee52ca0dcdd09204e24d16d744eb69843548ee688400fe5dd4a045fe63f16222e55
 Description: An awesome tweak for TikTok!
 Name: BHTikTok++
 Author: raul saeed
@@ -3472,24 +3455,6 @@ Description: An awesome tweak for TikTok!
 Name: BHTikTok++
 Author: raul saeed
 
-Package: com.raulsaeed.bhtiktok++
-Architecture: iphoneos-arm64e
-Version: 1.9.3
-Section: Tweaks
-Maintainer: raul saeed
-Installed-Size: 1124
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./file/arm64e/BHTikTok++.1.9.3.arm64e.deb
-Size: 280298
-MD5sum: dab3e6f005823b1970873889ef7c6053
-SHA1: 58582ba0f7fe305b1873cda171b82f8f39ca073b
-SHA256: 29978bb23eca55a99ae7b468024b62238f8d245a4fb5b1353ce6196f76919205
-SHA512: 1f4d4adb2c6d6baa5b21b6eecff07c84a7519460cdc0060e4248c825bec109b3708f06f903c855483dc34d2c80f27ff787a72673428f5a1dca5efa66c94bc991
-Description: An awesome tweak for TikTok!
-Name: BHTikTok++
-Author: raul saeed
-
 Package: com.bandarhl.bhtiktok
 Architecture: iphoneos-arm64e
 Version: 2.3.1
@@ -4117,6 +4082,25 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=digitalbat
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: asterix
 Icon: file:///Library/PreferenceBundles/DigitalBattery13.bundle/icon@2x.png
+
+Package: com.netskao.disablebottombarlrswipe
+Architecture: iphoneos-arm64e
+Version: 1.1-2
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./file/arm64e/DisableBottomBarLRSwipe.1.1-2.arm64e.deb
+Size: 7586
+MD5sum: 71e96fdf922c76fd6223e823ff89b474
+SHA1: 0bc879ca13ab2e8442013c7a1aa579f7da2ceeb0
+SHA256: a7701d5fe3e43ac02300df48b7c0b0feb7c8a99b36aa2da2830f9558a75c0ec6
+SHA512: ec5fb82bc37278682a0fb8e027541d8aad984abc0f876e10e9bea68c06c792965955e36a0a438a78874b100db0356abc624ca985e20cbadce60e3a89f8fbbe9c
+Description: Disable bottom bar left/right swipe
+Name: DisableBottomBarLRSwipe
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.disablebottombarlrswipe.json
 
 Package: com.imokhles.disablertl
 Architecture: iphoneos-arm64e
@@ -5430,6 +5414,26 @@ Depiction: http://cydia.nixuge.me/depiction/web/me.nixuge.networkmanager.html
 SileoDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
 ModernDepiction: http://cydia.nixuge.me/depiction/native/me.nixuge.networkmanager.json
 Icon: http://cydia.nixuge.me/assets/me.nixuge.networkmanager/icon.png
+
+Package: com.netskao.noappthinning
+Architecture: iphoneos-arm64e
+Version: 1.4
+Section: Netskao-Tweaks
+Maintainer: Netskao
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Conflicts: it.ned.noappthinning
+Filename: ./file/arm64e/NoAppThinning.1.4.arm64e.deb
+Size: 5968
+MD5sum: 3b08e91afb1601c87bf014e4be894348
+SHA1: 6a999c95a675c7b3a711bd34a6090a44eae02c2c
+SHA256: 8b066136ad033f46ea78ec62fb9ca465aa5eecafcfb5c3b9bba61414c89d554f
+SHA512: cdbb104b0f9f728ae018747bd89915b82e67f729f98aea12210203512c7e4b56379d605b60c65a34773fde32b3650608285d963aa26e983d38734ecf05e8ed92
+Description: Disable AppStore app thinning - by level3tjg, Disable TestFlight app thinning - by Netskao
+Name: NoAppThinning
+Author: Netskao
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.noappthinning.json
 
 Package: com.yourepo.ibreak.nobigtitles
 Architecture: iphoneos-arm64e
