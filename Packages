@@ -5368,6 +5368,26 @@ Name: Linear for Status Bar
 Icon: https://img.chariz.cloud/icon/linear/icon@3x.png
 Depiction: https://chariz.com/get/linear
 
+Package: com.ps.livetextenabler
+Architecture: iphoneos-arm64e
+Version: 1.3.0
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 88
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0), cy+cpu.arm64
+Filename: ./file/arm64e/LiveTextEnabler.1.3.0.arm64e.deb
+Size: 5642
+MD5sum: 0a3c280e6adfeafad10c636fa8b21587
+SHA1: e10371d7c961b4397afb8f96ebcc618f45fd97c0
+SHA256: cb9965f30e9bc09255a39e226390eef4fd33706cea0d584513e9b972e34af8c0
+SHA512: 5db532076ab39c27f1c3be02e3e0c230cd5264f351f61da1b50176777f4dd027867df0785afe7ed1bab020558b308cac9bfb5f62910f64566dbb0deaecf7b1c3
+Description: Enable Live Text on unsupported iOS 15+ devices
+Name: Live Text Enabler
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/livetextenabler.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/livetextenabler.json
+
 Package: com.nightwind.lockbuttonx
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -6105,6 +6125,29 @@ SHA512: 61039d7a18bd19b25d946b5b7075ba494ec18c02f29dcda3e473148931345bd2a74267b4
 Description: Pause/resume video recording in iOS Camera app.
 Name: RecordPause
 Author: PoomSmart
+
+Package: com.ps.recordpause
+Architecture: iphoneos-arm64e
+Version: 2.0.7
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 216
+Provides: org.thebigboss.recordpause, com.spicat.recordpause
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 9.0), firmware (<< 18.0)
+Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
+Replaces: org.thebigboss.recordpause, com.spicat.recordpause
+Filename: ./file/arm64e/RecordPause.2.0.7.arm64e.deb
+Size: 15724
+MD5sum: c242fdd03c477ae98bc9266672b90ed4
+SHA1: b41b50e028ae8ab9acd5775b0d05e1abc140eff8
+SHA256: a0173bfe6755631d6faa142efd2be47026e69cf3cfc0b4309803e797cc1630aa
+SHA512: bbb305a352b39c7b40b547182a43450c76c2567f6a43b46adaca6d04b4b6031e2dffedec3e152058bf41137e1cf22d6a75a5126b891a654035a288886d5ba971
+Description: Pauses/resumes video recording in iOS Camera app.
+Name: RecordPause
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/recordpause.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/recordpause.json
 
 Package: com.fouadraheb.regram
 Architecture: iphoneos-arm64e
@@ -7020,6 +7063,25 @@ Name: Translomatic
 Author: FoxfortMobile
 Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
 
+Package: com.foxfort.translomatic
+Architecture: iphoneos-arm64e
+Version: 2.18.31
+Section: Tweaks
+Maintainer: FoxfortMobile
+Installed-Size: 5080
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.4.7), com.opa334.altlist
+Filename: ./file/arm64e/Translomatic.2.18.31.arm64e.deb
+Size: 3805818
+MD5sum: 5a8df5fab5b0bd8b26ccdde609814c2f
+SHA1: 367e3589dad9d4eb3b953e58af9dde4932e254b6
+SHA256: 22a40489a4ed52cebae56e9e99296a8d720a60e07f96fae86a497eccbb03a0d0
+SHA512: a4ddc85727fda313d26accd1d7c1fe64335ee743bb0bf5b0774c30d2375d9226b686d47c5ed090388882145b5cde7fba1e88a4abe22769a12a9d4d8ca6c12628
+Description: Quickly translate any text
+Name: Translomatic
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
+
 Package: xyz.cypwn.transparentpipgrabber
 Architecture: iphoneos-arm64e
 Version: 0.0.3
@@ -7905,6 +7967,25 @@ MD5sum: 1d05ab88af88bcd9272f18fb801d8d43
 SHA1: 55c94fa0071d778fa659312e1b9f72fc4a7a53af
 SHA256: 36c758dec10c10375524a09eb95f4f67b477e59e866c21c8877b3b4d431f7101
 SHA512: 45335cfef50ab47904e35ff27c6b588ae035a566fb606d132035257bee20fcf35fd3c7209d2dcb43fab9f078bb92c46267cfac68b7fb26619b5843a67c6d8302
+Description: library for Foxfort tweaks
+Tag: role::developer
+Name: libfoxfortutils
+Author: FoxfortMobile
+
+Package: com.foxfort.libfoxfortutils
+Architecture: iphoneos-arm64e
+Version: 1.4.9
+Section: Development
+Maintainer: FoxfortMobile
+Installed-Size: 1304
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0), com.opa334.libsandy
+Filename: ./file/arm64e/libfoxfortutils.1.4.9.arm64e.deb
+Size: 445862
+MD5sum: e5c6012e07e125c95a8c86de62f32049
+SHA1: 8f459b7437c5ac31e27d5198afb677647ca45d02
+SHA256: 4729bed87da46850c20b40e3006936d1a85b32e810c44ae41c2a22ae4063ca33
+SHA512: a7ef135be0ac454873be5b74360afe72f10a2770e8115c0b191f594f2affc809b89d8a79cb26fdfd3aecaf383f98d4e65e20f7fa6cb81234f603369fe32f33c6
 Description: library for Foxfort tweaks
 Tag: role::developer
 Name: libfoxfortutils
