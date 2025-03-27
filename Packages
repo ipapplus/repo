@@ -2838,6 +2838,23 @@ Description: Modified version of mineeks tweak that lets you specify the minimum
 Name: appstoretroller
 Author: Mineek
 
+Package: dev.mineek.appstoretroller
+Architecture: iphoneos-arm64
+Version: 0.0.8
+Section: Tweaks
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm64/appstoretroller.0.0.8.arm64.deb
+Size: 15592
+MD5sum: e800533cd34742296b5cd6ba37b523b0
+SHA1: c8110ed96366abd7626e30c8d9bd8c933c0a9b57
+SHA256: e967f4cdbf866c1d56727badea2c779838dabec7a5e2717575a819dc70f683ad
+SHA512: 11a1ec480155ce4bd2fe3f0038888643699b8b2ff77d52bda0349ebb758e921a947b48c102bb60c6c8bd383b5a49c44b8e72fbc4335a2158b12c2df310b5bee4
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Name: appstoretroller
+Author: Mineek
+
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm64
 Version: 7.10.0
@@ -7574,6 +7591,24 @@ MD5sum: 06c5b6c40699e964dda60657a715ae09
 SHA1: e3075080d294a63e63ccacca0cf97d231118d3f2
 SHA256: e49416432c2c6f1f9227f64899f1c81e4082aaf379a505cbbf9f7d1d327a40d3
 SHA512: d56eae00bda1b6508bcfdab7cb96ea8dffab0e01bab97c0b6287baecb409f28425b029cfb984a3aad48ac72090eba054f2c236e087e2d3b2bb2dced0ea3de00a
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Name: appstoretroller
+Author: Mineek
+
+Package: dev.mineek.appstoretroller
+Architecture: iphoneos-arm64e
+Version: 0.0.8
+Section: Tweaks
+Maintainer: Mineek
+Installed-Size: 512
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm64e/appstoretroller.0.0.8.arm64e.deb
+Size: 21748
+MD5sum: 4d2838672874cc92670ea14b7e68484b
+SHA1: ea7f6c43396ace7245d4180106d0979fe05f6f1b
+SHA256: 935b3d62aeef26d036cd95d4e8dbae3aee93ff713ce1e653f942cc3b354658f2
+SHA512: 5f4180350f1df4075d74181fa819e97ba9481a3dbcaa20be4f0bbe7bcc597f1b4fce892ac042a5c9d5fd2aa51a7076a8c9462c06d59ddcea01576dd556164510
 Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
 Name: appstoretroller
 Author: Mineek
