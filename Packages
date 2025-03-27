@@ -7972,25 +7972,6 @@ Tag: role::developer
 Name: libfoxfortutils
 Author: FoxfortMobile
 
-Package: com.foxfort.libfoxfortutils
-Architecture: iphoneos-arm64e
-Version: 1.4.9
-Section: Development
-Maintainer: FoxfortMobile
-Installed-Size: 1304
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 11.0), com.opa334.libsandy
-Filename: ./file/arm64e/libfoxfortutils.1.4.9.arm64e.deb
-Size: 445862
-MD5sum: e5c6012e07e125c95a8c86de62f32049
-SHA1: 8f459b7437c5ac31e27d5198afb677647ca45d02
-SHA256: 4729bed87da46850c20b40e3006936d1a85b32e810c44ae41c2a22ae4063ca33
-SHA512: a7ef135be0ac454873be5b74360afe72f10a2770e8115c0b191f594f2affc809b89d8a79cb26fdfd3aecaf383f98d4e65e20f7fa6cb81234f603369fe32f33c6
-Description: library for Foxfort tweaks
-Tag: role::developer
-Name: libfoxfortutils
-Author: FoxfortMobile
-
 Package: com.cokepokes.libnotifications
 Architecture: iphoneos-arm64e
 Version: 0.3-6-1+debug
