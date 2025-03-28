@@ -2016,6 +2016,25 @@ Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
 Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
 
+Package: com.f0u4d.onlinenotify
+Architecture: iphoneos-arm64
+Version: 3.4.15
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 684
+Depends: mobilesubstrate, com.f0u4d.watusitools
+Filename: ./file/arm64/OnlineNotify.3.4.15.arm64.deb
+Size: 185512
+MD5sum: 7f7b5993eda68ae1b5576acf14e8d436
+SHA1: d38b690f66539570bb5dce846b41bf38e673921a
+SHA256: 4316f675bf37cfd71266e11a0a95f73d8187ebad6823c219eb9f39e8d948ec22
+SHA512: 758a6cf97d8b05a840ad26eceb64af87d6ff8eb34ee61339573ca6ddf87f4440aa5c5efce7e64048186b8710422bc1ab77c1fd708430792399e7fd6ca52c60bb
+Description: Track your friends on WhatsApp Messenger!
+Name: OnlineNotify
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
+
 Package: com.dvntm.ovk
 Architecture: iphoneos-arm64
 Version: 1.1
@@ -2780,6 +2799,23 @@ MD5sum: 3e7017a80c7cddb9cd669757f4daf485
 SHA1: 905f2132a2e66654bb83b3f2b50afa88d3bebe6a
 SHA256: 5d1f71185845e3cfa4336056f88238670176f7f93daef530ec0a0331917bf2d1
 SHA512: d68e102706b03f521eaa0ed9d3b0e8774c985ba4fb495482a6d248be2007c90f47bd328e8b0297025c3907f43735a7b7d1d1db4667bb3b8a79246d4dbb96be98
+Description: Library for Watusi, Regram and other tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64
+Version: 2.5.15
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 12.0)
+Filename: ./file/arm64/WatusiTools.2.5.15.arm64.deb
+Size: 4658720
+MD5sum: d669805a5f1d96d745c77eaf2b22ba65
+SHA1: 1b49260f9b66c75ef787b37428a3885b46816584
+SHA256: e59b27511c2ec5506c451c36dfd57750504b492fc28c663fff50363a171aa121
+SHA512: 56f7743ab2e4e93e332ed2fe2637dd57b5aea0bdd5f2ec41bb0372798225e7ef24dadc8a9bf334c0e9f7d3fce9e720411e415743edbaa225f3bd8a764eff0af2
 Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -5853,6 +5889,26 @@ Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
 Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
 
+Package: com.f0u4d.onlinenotify
+Architecture: iphoneos-arm64e
+Version: 3.4.15
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 684
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, com.f0u4d.watusitools
+Filename: ./file/arm64e/OnlineNotify.3.4.15.arm64e.deb
+Size: 183936
+MD5sum: 9f08c132f9fca05a417b1f9ec4f75623
+SHA1: 706bd312890eeb04ea69b7adb4cf546b6724d7f0
+SHA256: 4b8935f7840beefc87d7a2dc5001829ad51593454be990ce3b11e7291e37c059
+SHA512: afae55204e84e34de7b34ef90b30fc9096d6a576a1f6d34d3306e7baa7d7dd765dbe4d449c860490c7b9435d57fcb2bf423869281ec98fc2c5f44135370c21e3
+Description: Track your friends on WhatsApp Messenger!
+Name: OnlineNotify
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
+Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
+
 Package: com.dvntm.ovk
 Architecture: iphoneos-arm64e
 Version: 1.1
@@ -7512,6 +7568,24 @@ MD5sum: 5f65ae6f704b126df991aee4916d3413
 SHA1: f1612ac59c7c78b9cab5d622f1240f66b2d13530
 SHA256: 42b7006023a8509f40bd4f821f9b38878c23ed6d47b215c06da4209c95a799e5
 SHA512: 58a81d2aac6c54813924dd78de03a07a44372ed57b049df1d1b3fca87d4571c51f073b8091fca31bea849552fd51109468b90ce255d4fe5fba0ac3fbda8596c6
+Description: Library for Watusi, Regram and other tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64e
+Version: 2.5.15
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0)
+Filename: ./file/arm64e/WatusiTools.2.5.15.arm64e.deb
+Size: 4635980
+MD5sum: 6518415cca2ccb35da32635894355593
+SHA1: eadfc353adbc0e5133d59ceac38d0a8e61c46e55
+SHA256: 4eed5a4175a1768fade4ffa57df288489db39e1f20cebf6132f95ee470a26505
+SHA512: f4cea9afc0fe5615daaffbb52bc369fab9fd35f3b1dd941c385aa3a295487ffe5344759e0d0d4571adcae79cfa2d8929c7190929a0ad46c40350301356c962d0
 Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
