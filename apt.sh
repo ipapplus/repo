@@ -31,3 +31,7 @@ for ARCH in "${ARCHS[@]}"; do
         apt-ftparchive packages "$ARCH_DIR" >> "$OUTPUT_FILE"
     fi
 done
+
+bzip2 -kf "$OUTPUT_FILE"
+gzip -kf "$OUTPUT_FILE"
+zstd -q -f -o Packages.zst "$OUTPUT_FILE"
