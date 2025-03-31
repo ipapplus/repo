@@ -4144,18 +4144,18 @@ Author: Ethan Whited
 
 Package: ru.domo.cocoatop64
 Architecture: iphoneos-arm64e
-Version: 2.2.4
+Version: 2.2.3
 Section: Utilities
 Maintainer: SXX, Domo
 Installed-Size: 892
 Depends:
 Conflicts: ru.domo.cocoatop, xyz.cypwn.cocoatop64
-Filename: ./file/arm64e/CocoaTop.2.2.4.arm64e.deb
-Size: 202300
-MD5sum: a64fcfd24b3b92c50ccbb9101685a4db
-SHA1: a0691a7ec3244349779fd40a4ccf6b28f90c3152
-SHA256: 86e5d247475523fc2d6098b8ba5c3215432b721fb46766dff85688b234b4aede
-SHA512: 8e54f03969ca8ba9dedf4e2d2696e8158bad6f3097c60ca3c1bf83b77f257c2b30ed3c4fa17c5b1f61a9ebf7aab8bb3b4f312579a32f50812ae4a0231ebd4bfc
+Filename: ./file/arm64e/CocoaTop.2.2.3.arm64e.deb
+Size: 202216
+MD5sum: a8a68f28d2ebb33991fae4b8510c65d5
+SHA1: 26e91f14517c1a521f3b946b2ebbae4d9d972307
+SHA256: 725adf916b032b7a5c992b2dd92e489b044ce8e0ab93cf8306313c6c6ecd8e04
+SHA512: 5f93cc9728462af46b5b5c43465a25f0a2647a25654dd7282c6b32a17749078751ebaab7a988b74ad1bd7906e3f52fcc90cc6d0cb420a08d5bb1c5033603cddc
 Description: Process Viewer for iOS GUI, updated for iOS 15 , 16 by SXX.
 Name: CocoaTop
 Icon: https://i.imgur.com/TTIm0yH.jpeg
@@ -4183,6 +4183,28 @@ Description: Process Viewer for iOS GUI,适配rootless并增加一些小功能.
 Name: CocoaTop64.zp
 Author: Domo, SXX , zp
 SileoDepiction: https://rootless.002599.xyz/web/zp.cocoatop64.unject
+
+Package: zp.cocoatop64.unject
+Architecture: iphoneos-arm64e
+Version: 3.1.2
+Section: Utilities
+Maintainer: zp, SXX, Domo
+Installed-Size: 840
+Depends:
+Conflicts: ru.domo.cocoatop , ru.domo.cocoatop64 , zp.cocoatop64 , zp.cocoatop64.inject
+Filename: ./file/arm64e/CocoaTop64.zp.3.1.2.arm64e.deb
+Size: 183878
+MD5sum: 5983f7fdd1ee850527a5097f45916fac
+SHA1: 52926511e3050d1398a93a3d8c17d871d5e3ce3f
+SHA256: 537f28148ffe0ca4a5df6e751b6e1b3332c1541b029615fe951f12d83e2a3793
+SHA512: 31919958b45ab731e6a4d4391aee1c9386d17f7a257fe3a20e7896fa3beacb8381fcca16127a02d870015add217e3cd7be7e93ffcf111be1554c32233afbe0e8
+Description: Process Viewer for iOS GUI,适配rootless并增加一些小功能.
+ - 1.长按图标的插件针对APP更友好
+ - 2.此app更适合屏蔽进程类的注入
+ - 3.laileld要加的copy给加上(如果是/开头,使用filza打开)
+Name: CocoaTop64.zp
+Author: Domo, SXX , zp
+SileoDepiction: https://rootless.zqbb.cf/web/zp.cocoatop64.unject
 
 Package: com.fouadraheb.contactsync
 Architecture: iphoneos-arm64e
@@ -4888,6 +4910,25 @@ Author: zqbb
 Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.disupdateapp
 SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.disupdateapp
 
+Package: cn.zqbb.disupdateapp
+Architecture: iphoneos-arm64e
+Version: 2.0.0-6
+Section: Tweaks
+Maintainer: zqbb
+Installed-Size: 720
+Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, com.opa334.altlist
+Filename: ./file/arm64e/HelloApp.2.0.0-6.arm64e.deb
+Size: 129804
+MD5sum: cde720ec3a3c718948f181cfc1a96b67
+SHA1: a999c2b1c8856ed4485856c76572e72fef7b2360
+SHA256: 8b636260cec451024da0c620602d798533b87d97634991cd531504a79958908f
+SHA512: 8bd9c69ceb669f021212091c0208cc371e893ca7a71b2ff00589808ee951144a934fecb2900fa5de088d5b81dba9cc1797b6796370323b7ce99fc883726ba3af
+Description: 屏蔽App Store更新提示(Block App Store Updates)!
+Name: Hello App
+Author: zqbb
+Icon: https://rootless.002599.xyz/web/icon/cn.zqbb.disupdateapp
+SileoDepiction: https://rootless.002599.xyz/web/cn.zqbb.disupdateapp
+
 Package: com.zqbb.limitcharging
 Architecture: iphoneos-arm64e
 Version: 1.0.8
@@ -4934,16 +4975,16 @@ Icon: https://raw.githubusercontent.com/ichitaso/HideKBSettings/master/Preferenc
 
 Package: com.yourepo.ibreak.hideseparator
 Architecture: iphoneos-arm64e
-Version: 1.9.3
+Version: 1.9.2
 Section: Tweaks
 Maintainer: iBreak <ibreak2019@qq.com>
 Depends: mobilesubstrate
-Filename: ./file/arm64e/HideSeparator.1.9.3.arm64e.deb
-Size: 9130
-MD5sum: 36d9823775059b4925bba957b0cf4f18
-SHA1: dc8d3c708251c739a95b474d1fd64277c7a6eaf5
-SHA256: 2d571e93ac462643717ab54c21fdf6db29bb50a90e02c30cfec9711204318abe
-SHA512: 803a1971e8a2c557909f3ae0fbe4df512852cb69fe65df8f3afc3a1f45c00b0cc87374471704e9e501b21c8c23450b9688216d80cca6464579b68d14052fe2ed
+Filename: ./file/arm64e/HideSeparator.1.9.2.arm64e.deb
+Size: 7584
+MD5sum: f0494f454a7d143ed9e71de464ffd039
+SHA1: b281b7190f79cceb90b662d4febe5b6307e709c5
+SHA256: e98e2702cc720df64ac976fe60e066eb67b3841e2bd8330e2438c5d5657eceec
+SHA512: e0d50b4193b1e58a70d3f3dd98a981862744b4a054a22b37cf33d1d3cc2d5f2c5f741a28337ebd2ba6e023b934dc489fc411203daeff33a1e7da413cb614df42
 Description: Hide separators system-wide  (including third-party Apps)
 Name: Hide Separator
 Author: iBreak <ibreak2019@qq.com>
