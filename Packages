@@ -7433,6 +7433,25 @@ Name: TwitchAdBlock
 Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.twitchadblock
 Author: level3tjg
 
+Package: com.level3tjg.twitchadblock
+Architecture: iphoneos-arm64e
+Version: 0.1.5
+Section: Tweaks
+Maintainer: level3tjg
+Installed-Size: 144
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./file/arm64e/TwitchAdBlock.0.1.5.arm64e.deb
+Size: 28640
+MD5sum: 5ad71d9d7bb248b6276a0cb41348e166
+SHA1: 607a2eb064ebf679bb4b79a157b741d16ad8269f
+SHA256: 2d73b7977cda2963cc681325964b6e2ffcf8ee7aac0bf64561bb058c3788cc3b
+SHA512: 8f58999a9f3e07a7fed09165cbc1a500c668732185c82862fca793fe5aa0c9841081f4d8719f529d41b85b3a9b1759edfbb2e444e2fd1c3c065b7b473db64a14
+Description: Block Twitch video ads
+Name: TwitchAdBlock
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.twitchadblock
+Author: level3tjg
+
 Package: com.yourepo.cydiageek.twitterlabelback
 Architecture: iphoneos-arm64e
 Version: 1.0.0
@@ -7508,6 +7527,25 @@ Author: NoisyFlake <support@noisyflake.com>
 Name: Velvet 2
 Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
 Depiction: https://chariz.com/get/velvet-2
+
+Package: com.level3tjg.visibleapps
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Section: Tweaks
+Maintainer: level3tjg
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm64e/VisibleApps.0.0.3.arm64e.deb
+Size: 4964
+MD5sum: 82d10a0502983a6639cc3c56e6c3559c
+SHA1: 40194674c57c9e4200849b8b12140293804debb3
+SHA256: f7e3a0e247774a3e356fbbb035d6f2f0193c58475cd10d5e7b5aa2b5cd8e4dde
+SHA512: 9d071a5cd51cbb9c8315e94735768131b0288ad24c5194de7fa6b2fd0c6dd9dc51155d3cccac8f10efc9b18d64d36d652c8d4ae541d2be44fa4221f046aff674
+Description: Show hidden apps on the homescreen
+Name: VisibleApps
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.visibleapps
+Author: level3tjg
 
 Package: com.ethxnn88.visibleisland-arm64e
 Architecture: iphoneos-arm64e
