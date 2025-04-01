@@ -5982,6 +5982,30 @@ Author: Brend0n <brendonjkding@126.com>
 Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.notransitcardversionlimit
 SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.notransitcardversionlimit/depiction.json
 
+Package: com.cydiageek.nowareactions
+Architecture: iphoneos-arm64e
+Version: 1.0.1
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 175
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 11.0)
+Filename: ./file/arm64e/NoWAReactions.1.0.1.arm64e.deb
+Size: 5994
+MD5sum: 4ebecd8546c69db7f23d3aeb48372055
+SHA1: eb35b9709339a62aac22aa2573dd9ca41bbc88ec
+SHA256: 5d9eac2e1ad9824a51d85bc8f83ba30a67c58b6e331d018900a1f4320b5aa15d
+SHA512: e25bad8dbef7cdcd096f447f01d6a387004a4cc0c0a206f5c471c896537edae20116c49b522a3e3a5acf1585d7e6189aead16a0bb760631f1fe28dd91e28dce0
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nowareactionsDp
+Description: Disable WhatsApp Reactions Feature!
+Tag: purpose::extension
+Name: NoWAReactions
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=nowareactionsDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+
 Package: com.yourepo.b4db1r3r3p0.oleddarkmode
 Architecture: iphoneos-arm64e
 Version: 0.5.1-11
