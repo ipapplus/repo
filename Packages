@@ -4126,6 +4126,25 @@ Description: An automation framework designed for the iOS platform
 Name: CatScript
 Author: 0x530c<0x530c@gmail.com>
 
+Package: app.catscript.lite
+Architecture: iphoneos-arm64e
+Version: 1.5.3
+Section: Tweaks
+Maintainer: 0x530c<0x530c@gmail.com>
+Installed-Size: 5892
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: app.catscript.pro
+Filename: ./file/arm64e/CatScript.1.5.3.arm64e.deb
+Size: 39974086
+MD5sum: 35cd56b00e9d8b19323830c4bcb5a95e
+SHA1: 21595ffbe4f6dea6a6a614345a097e0ca4ba6085
+SHA256: ef2eeb2c4f9f50827ce1b0ae00f306e7ecda7706554481379a8f50ef44deb897
+SHA512: 13d5e3a441c1806a7c90c7476ff38b3f1f3fd631b71eefe0bc4a0849ba12e15ef5b037d775444e508ba52fe6cac100c79464431342c29d57f82fdf8daa929314
+Description: An automation framework designed for the iOS platform
+Name: CatScript
+Author: 0x530c<0x530c@gmail.com>
+
 Package: org.coolstar.classicfolders2
 Architecture: iphoneos-arm64e
 Version: 3.0.6
