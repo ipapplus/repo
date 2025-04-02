@@ -3433,6 +3433,25 @@ Homepage: https://dhinakg.github.io/repo
 Description: Add an "Install Profile" button to the "Profile Downloaded" popup.
 Name: AddProfileInstallButton
 
+Package: com.kingpuffdaddi.alwaysdark
+Architecture: iphoneos-arm64e
+Version: 1.2.3
+Section: Tweaks
+Maintainer: KingPuffdaddi
+Installed-Size: 17536
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.spark.libsparkapplist
+Filename: ./file/arm64e/AlwaysDark.1.2.3.arm64e.deb
+Size: 38434
+MD5sum: cf8daa065730ea56aeb5d9817aa39a44
+SHA1: 85c4c624c6f4511bf71251f0fb371805403ce72b
+SHA256: 3b029288a046a6c2ca42753d5888d3e07cadb3b79e6aeab4b59a17df55f54fdd
+SHA512: fef92bdc019109376d3dd01ba86a1899ed9057b3485dbaa1f70bf3e32d4f54f865188623b594712722817bed68fc51959e37a777658236a0b91ed4310a854c4c
+Description: Run specific apps always in Dark/Light Mode
+Name: AlwaysDark
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.alwaysdark
+
 Package: com.mtac.ampere
 Architecture: iphoneos-arm64e
 Version: 1.4
@@ -4005,6 +4024,25 @@ Description: Round CC modules replication, like in iOS 18
 Name: CC18
 Author: dvntm
 
+Package: com.kingpuffdaddi.ccbalance
+Architecture: iphoneos-arm64e
+Version: 1.0.3
+Section: Tweaks
+Maintainer: KingPuffdaddi
+Installed-Size: 2112
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./file/arm64e/CCBalance.1.0.3.arm64e.deb
+Size: 9392
+MD5sum: a885ce1a96f2c5710d1cb7ccf6798f44
+SHA1: 8dc24c682659ac9cc10ce306e300cc6c5dceb21a
+SHA256: bfd7b087da609f888a72e0a9d55648ee632b969cdadf233b7fd5b4f06b397bf2
+SHA512: e94b0f26dcd48f40c91221f18ccc674c367283dd100363b83c6152fccfd0ea4f7a29be37658c23a61baaf511ec0f87bd36f87233f57b02664ab32f2be9470d23
+Description: Change the audio balance from CC
+Name: CCBalance
+Author: KingPuffdaddi
+Depiction: https://kingpuffdaddi.github.io/depictions/?p=com.kingpuffdaddi.ccbalance
+
 Package: com.fiore.ccborder
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -4264,6 +4302,25 @@ Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
 Icon: https://i.imgur.com/hPYY9n7.jpeg
+
+Package: com.darwindev.CookiesTool-iOS
+Architecture: iphoneos-arm64e
+Version: 0.1-2
+Priority: optional
+Section: System
+Maintainer: Lessica <i.82@me.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 11.0)
+Filename: ./file/arm64e/CookiesTool-iOS.0.1-2.arm64e.deb
+Size: 186332
+MD5sum: 882b75b382f50e9640eb5fa760a63127
+SHA1: 39cea051595e34b0adeb2b7c32b6506a132f28b6
+SHA256: eeaeb8e126e47035e7bb1541a19ee541d5f68e3407992bae22f314bbbad23a52
+SHA512: 8ae0090f26dbb1798e7c111b1a5d3b1dca53d1620029a50c7d4a0e434e8d5854a46c4f04f7bd5f2402295166ba89e495d36197e03588a84924badebd848194a2
+Homepage: https://github.com/Lessica/CookiesTool
+Description: Convert between Apple BinaryCookies, Property List, JSON, Netscape HTTP Cookie File (curl cookie jar).
+Name: CookiesTool-iOS
+Author: Lessica <i.82@me.com>
 
 Package: com.tools4cydia.copylinkdeb
 Architecture: iphoneos-arm64e
@@ -4829,6 +4886,24 @@ Depiction: https://chariz.com/get/fridacodemanager
 SileoDepiction: https://chariz.com/api/sileo/package/com.sparklechan.swifty/depiction.json
 Header: https://cdn.chariz.cloud/sileo-banner/fridacodemanager.jpg
 Author: FCCT
+
+Package: jp.uzra.frontestpip
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: uz.ra
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./file/arm64e/FrontestPiP.1.1.arm64e.deb
+Size: 4994
+MD5sum: 87114a1ca77b911d8efe030d0e01ba5f
+SHA1: 50ab86dd557a761978e5cea61a17505c2b9c9e5f
+SHA256: 5f772ecf4a05958048356516c2eaf320eb4f5a9b10da2bf947cb0e356c1e5985
+SHA512: 5ef860c23946935c8113041705e7258dbdf48036951045a23201206e1c5c287e7ff9ab1e776d1970fc7eb09a1294547bc57bc67c8c62dde38550e72b93c62491
+Description: PiP will always be shown in the front most
+Name: FrontestPiP
+Author: uz.ra
 
 Package: com.ps.githubweblegacycompat
 Architecture: iphoneos-arm64e
@@ -5802,6 +5877,25 @@ Author: zhaonan
 SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.miic/js.json
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 
+Package: jp.uzra.muteplay
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: uz.ra
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./file/arm64e/MutePlay.1.0.arm64e.deb
+Size: 5114
+MD5sum: 68b8da485b1c913fdd38ef5822d96db4
+SHA1: 7d98dba1ea07570019c999c5e724f75db2394e78
+SHA256: 71973ef90777ce4268ae06cdd6d743c3a93465441cb394ff56ee77a631fc6fdc
+SHA512: d4ef95c3626009d61c68b733c9e2235b1a0a02f31c11c1e8b376aac335cc5a63465ee7bc1018b07af9844dbc508c47a9aa921ea8a5a5a984d7e2ce529babf060
+Description: Mute notification sound while playing music
+Name: MutePlay
+Author: uz.ra
+Icon: https://uz-ra.github.io/icons/MutePlay.png
+
 Package: me.nixuge.networkmanager
 Architecture: iphoneos-arm64e
 Version: 1.4.3
@@ -6321,6 +6415,26 @@ Name: PreferenceLocalizer
 Author: MTAC
 Icon: https://mtac.app/repo/assets/com.mtac.prefs.localizer/icon-rounded.png
 SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.prefs.localizer.json
+
+Package: com.netskao.pulloverpro
+Architecture: iphoneos-arm64e
+Version: 2.1.6
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 2440
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Conflicts: com.c1d3r.pulloverpro
+Filename: ./file/arm64e/PullOverPro.2.1.6.arm64e.deb
+Size: 1877670
+MD5sum: 2ee760711e090d5775966fac7b937853
+SHA1: 9abe4057167975e3ade413c1c31c673862a36ab8
+SHA256: a22a978973f53c92381ba5f46647b716ceba41c9d3825037a8c8b784d42ef291
+SHA512: e64112a268eea22cf590046d1d4e486bba30c8385e614dc1a6bd89fed0de6e318936749fae79e36918639f3338278367a6bd17f72629751475cee6fce8eb5f38
+Description: A better way to multitask! Fix support for iOS15+
+Name: PullOver Pro
+Author: c1d3r
+SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.pulloverpro.json
 
 Package: com.dvntm.ratebegone
 Architecture: iphoneos-arm64e
@@ -7106,6 +7220,26 @@ Description: UI Extension for SnowBoard
 Name: SnowBoard UI Extension
 Author: Spark
 
+Package: com.sugiuta.soundvol
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: sugiuta
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./file/arm64e/SoundVol.1.0.0.arm64e.deb
+Size: 5370
+MD5sum: c84599e5dffb7591709009a9969ddd6a
+SHA1: 78afb08507ce23be069ec8391b6249fa0a11983c
+SHA256: 918a9ac4d0f6d732638cb69ba56660f97451bc40fe75af8981e5cdaa4845cd1f
+SHA512: 0962605902d60dbb44b0ef3d07b9a8dd9c793ddfee0a24c1d393056608a6be60151393b0658cd289c8d172848ff6ea37ceadecaf0c00bfc207fbea716d938ef1
+Description: Automatically play/pause music depending on volume.
+Name: SoundVol
+Depiction: https://sugiuta.github.io/descriptions/index.html?p=com.sugiuta.soundvol
+Author: sugiuta
+Icon: https://sugiuta.github.io/repo/images/icons/SoundVol.png
+
 Package: xyz.skitty.spectrum
 Architecture: iphoneos-arm64e
 Version: 1.1
@@ -7126,6 +7260,24 @@ Depiction: https://skitty.xyz/repo/depictions/xyz.skitty.spectrum/
 SileoDepiction: https://skitty.xyz/repo/depictions/xyz.skitty.spectrum/sileo.json
 Icon: https://skitty.xyz/repo/icons/xyz.skitty.spectrum.png
 Author: Skitty & EvenDev
+
+Package: jp.uzra.squarepip
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: uz.ra
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./file/arm64e/SquarePiP.1.0.arm64e.deb
+Size: 3998
+MD5sum: 5f4f1dea1c3196f4c466ad4c7d5ebb7e
+SHA1: 59d20b189cedd941bb6675156123f04e3f51285b
+SHA256: cda57bcc2674f328f8677fdcf36e17e1a8a8b942bc1fa095b02115fcceafce86
+SHA512: 368ac311a1a0b5701e02423393b10974a6d49dd49b80c96e4a41bdc9995e1dbd094926c812b879bef0bdfa12330056491e2696a23f64993855cafb5fd13686e9
+Description: Make pip view square
+Name: SquarePiP
+Author: uz.ra
 
 Package: com.f0u4d.stalky
 Architecture: iphoneos-arm64e
@@ -7240,6 +7392,24 @@ Description: Notification priority hub tweak.
 Name: Tako ( iOS 15-16 )
 Author: Xyaman & b4db1r3
 Icon: https://repo.xyaman.xyz/depictions/tako/assets/icon.png
+
+Package: com.sniper.telesniper
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Sniper @DNS_Sys
+Installed-Size: 316
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./file/arm64e/TeleSniper.0.0.1.arm64e.deb
+Size: 152472
+MD5sum: 368cb8ede73b958542eab282a3cf73ca
+SHA1: 1621c0dc8f06376111846516b89ef366ef9569e0
+SHA256: 62be319c16a0a1d6ad3790d0465c6660199749529c57f163c06f0af13300f458
+SHA512: 62c22b28ff3efd3acfb509aa5593f23e949bdea961622f32ecc3e3129bf32e5661af2e5edbd60b85e269ed7397ed63af89ace20473cdc0c5041877a649e13731
+Description: Sniper @DNS_Sys
+Name: TeleSniper
+Author: Sniper @DNS_Sys
 
 Package: com.lizynz.telegaicons.rootless
 Architecture: iphoneos-arm64e
@@ -7531,6 +7701,27 @@ Description: Bring Back Old Twitter Label Name!
 Name: TwitterLabelBack
 Author: CydiaGeek <lucaluca86@aol.com>
 
+Package: com.p2kdev.twitternoads
+Architecture: iphoneos-arm64e
+Version: 1.2.5
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>, FoxfortMobile <foxfortmobile@gmail.com>
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./file/arm64e/TwitterNoAds.1.2.5.arm64e.deb
+Size: 9930
+MD5sum: 5f7a1f5cfdfd05cf02a7c173e30e1c34
+SHA1: 6c69589eb3abacdc5f020c133b3db2b895e02f78
+SHA256: 8dc307b0cf1d1942eb8e1290d454a5e485094fdf6d813fd7a2eb97ea1c7ed02f
+SHA512: 43ba1d5bd5afcb9e70eea738ce5b6cd78b8d46418be98fa4e6f153abc69926f6a2832e48b81e7cc62b65252daab1c8a0eaaca68bdbd944d9a440e2a0e3789c19
+Description: No Ads in the Twitter App!
+Name: TwitterNoAds
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.twitternoads
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.twitternoads/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.twitternoads.json
+
 Package: com.mtac.uptime
 Architecture: iphoneos-arm64e
 Version: 1.0.1
@@ -7729,6 +7920,27 @@ SileoDepiction: https://raw.githubusercontent.com/nowesr1/WhatsApp-Location-Spoo
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: nowesr1
 Icon: https://raw.githubusercontent.com/nowesr1/WhatsApp-Location-Spoofer/refs/heads/main/Sileo/icon.png
+
+Package: com.p2kdev.waqt
+Architecture: iphoneos-arm64e
+Version: 1.4.3
+Section: Tweaks
+Maintainer: P2KDev <p2kdev@gmail.com>
+Installed-Size: 448
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./file/arm64e/Waqt.1.4.3.arm64e.deb
+Size: 42792
+MD5sum: f08583bb8eb1df25ad72aec35c2feea5
+SHA1: cc76b50bea9fbf59f017e497e8595b4d96210afc
+SHA256: 7526c365f124835c62a78fa86e7c27b29396681758d18b85908e3c8c35a5c03f
+SHA512: d244ac046d443aba124edcc739856071de6d2559bfa2593fdbb69d36e99e02a978b04d5876033fa205edab0b5709932582ce23126ae1121d046245191967c838
+Description: Know more than just the current time!
+Name: Waqt
+Author: P2KDev <p2kdev@gmail.com>
+Depiction: https://p2kdev.github.io/repo/depictions/index.html?packageId=com.p2kdev.waqt
+Icon: https://p2kdev.github.io/repo/api/packageinfo/com.p2kdev.waqt/icon.png
+SileoDepiction: https://p2kdev.github.io/repo/depictions/native/com.p2kdev.waqt.json
 
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm64e
@@ -8021,6 +8233,24 @@ Author: dayanch96 & ginsu
 Icon: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/refs/heads/main/Resources/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTMusicUltimate/main/Resources/depiction.json
 
+Package: com.ps.ytvideoerroralert
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0)
+Filename: ./file/arm64e/YTVideoErrorAlert.1.0.2.arm64e.deb
+Size: 4356
+MD5sum: e78d522875f86875855b4dd2461c7f82
+SHA1: b4971e1b0bcac9228d4a0e323d58e089d159bc75
+SHA256: c38cd8ef31bbe3d7f7ed19cc205f4141290db6229ad0845ccb2c7f9d0c0173b4
+SHA512: 409e2192a955d5300ea276239e316c8ff7d170fde27f400160304397587cd6d7d969a2e80315b387431c3efe4d2f7c8e6f16fe02379c7c60e8ad603d1f646c05
+Description: Alert you with exact details when YouTube video error occurred.
+Name: YTVideoErrorAlert
+Author: PoomSmart
+
 Package: com.ps.yougroupsettings
 Architecture: iphoneos-arm64e
 Version: 1.0.4
@@ -8134,6 +8364,24 @@ SHA512: 7c9a1ca7be0f2227c0f674b3738a76cdd53f31ec038f2ff0e656f4dae3cb095ca95e5841
 Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
 Name: appstoretroller
 Author: Mineek
+
+Package: net.ajbbo.disableshareplay
+Architecture: iphoneos-arm64e
+Version: 0.0.2
+Section: Tweaks
+Maintainer: aJBboCydia
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm64e/disableSharePlay.0.0.2.arm64e.deb
+Size: 4168
+MD5sum: 56d8d356a6ac5f54c82d5929ac088f9a
+SHA1: 7dfae56a8712147aad153b012daca9854585f446
+SHA256: e47ebfadd3d99c3182a21d9e027d3d29548b36d79e785ee20196f0e1ee0b917f
+SHA512: 2fd1d96da4b3e2bacd8c0b9960ee08332191a2f8331b6c163dafc294501dec426b498bec5b4a59ffeb731cd76891cbe6b3c9a957cbabc7b2d636b0cb5d04c9c6
+Description: An awesome MobileSubstrate tweak!
+Name: disableSharePlay
+Author: aJBboCydia
 
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm64e
