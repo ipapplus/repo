@@ -8365,24 +8365,6 @@ Description: Modified version of mineeks tweak that lets you specify the minimum
 Name: appstoretroller
 Author: Mineek
 
-Package: net.ajbbo.disableshareplay
-Architecture: iphoneos-arm64e
-Version: 0.0.2
-Section: Tweaks
-Maintainer: aJBboCydia
-Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./file/arm64e/disableSharePlay.0.0.2.arm64e.deb
-Size: 4168
-MD5sum: 56d8d356a6ac5f54c82d5929ac088f9a
-SHA1: 7dfae56a8712147aad153b012daca9854585f446
-SHA256: e47ebfadd3d99c3182a21d9e027d3d29548b36d79e785ee20196f0e1ee0b917f
-SHA512: 2fd1d96da4b3e2bacd8c0b9960ee08332191a2f8331b6c163dafc294501dec426b498bec5b4a59ffeb731cd76891cbe6b3c9a957cbabc7b2d636b0cb5d04c9c6
-Description: An awesome MobileSubstrate tweak!
-Name: disableSharePlay
-Author: aJBboCydia
-
 Package: com.exile90.icleanerpro
 Architecture: iphoneos-arm64e
 Version: 7.10.0
