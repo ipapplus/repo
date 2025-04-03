@@ -6286,6 +6286,24 @@ Icon: file:///Library/PPSSPPRepoIcons/org.ppsspp.ppsspp-dev-latest.png
 Depiction: https://cydia.ppsspp.org/?page/org.ppsspp.ppsspp-dev-latest
 Author: Henrik Rydgård
 
+Package: com.nightwind.photosnoinfobutton
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 136
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm64e/PhotosNoInfoButton.0.0.1.arm64e.deb
+Size: 5698
+MD5sum: a89ed2d93499b6bd4f511f29e61aae2d
+SHA1: 31ff2f61632795300a43da2f2ac7599413ccb200
+SHA256: 0e51104932d764ed6d00ccedbd3eded34570971033b09dfca250a29bfdbd81af
+SHA512: 76e9b3d972326ce4b499ff951e1ffd908967b8f1ace4c5d63acbaddef6bf56d84f952d5a8272837de7d1cd52f1b42a9fe5c134093c0e40104353f85716009e13
+Description: Hide the info button in the Photos app.
+Name: PhotosNoInfoButton
+Author: Nightwind
+
 Package: twitter.nowesr1.photosplus
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -6372,6 +6390,25 @@ Depiction: https://cydia.ichitaso.com/depiction/powerselector11.html
 dev: ichitaso
 Icon: https://cydia.ichitaso.com/icons/PowerSelector.png
 SileoDepiction: https://cydia.ichitaso.com/depiction/powerselector11.json
+
+Package: com.nightwind.powersettings
+Architecture: iphoneos-arm64e
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Nightwind
+Installed-Size: 232
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 13.0)
+Filename: ./file/arm64e/PowerSettings.0.0.1.arm64e.deb
+Size: 34948
+MD5sum: e1c82eac1be19335afc5897c3fec9d8d
+SHA1: c9e71a60016cd7edc9923fa52331ca1ca999ba24
+SHA256: 62deea8227db3a0cab9dc369cadc561e10181d109816527089a006975e05ffc5
+SHA512: 4e5ef53f6c6e63b2dc3f2d28d50cf4411edd750fefd946d2c380090cfa1da9d5cc5028ccc2ae00e637766a1cb89800eabe621e7980d56f775aedc1fbab2b4ecd
+Description: A simple tweak to add power settings to the Settings app.
+Name: PowerSettings
+Author: Nightwind
+Icon: https://github.com/NightwindDev/PowerSettings/blob/main/Images/Icon.png?raw=true
 
 Package: com.rpetrich.powercuff
 Architecture: iphoneos-arm64e
