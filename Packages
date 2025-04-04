@@ -4554,15 +4554,15 @@ Section: System
 Maintainer: zhaonan
 Depends: plutil
 Filename: ./file/arm64e/DisableThermalmonitord.0.1.0.arm64e.deb
-Size: 1204
-MD5sum: e088b722881044353915cbdee3243d21
-SHA1: 370870289c42e8dff977dee9731b1ba3c11390e4
-SHA256: b092a44b6be5823fd68caa26b2fd99f2401a05c65a91c4cc4e90db01f68d9d14
-SHA512: 257bf2b7e39df7ae50c1fb5610a371bed0f6e115a7ba2f9069e5e90ded199374b1136f4526b3f821e489ca56c3887fc72d3ebb3025d3ad59095e49eb4510cd7e
-Description: 关闭 thermalmonitord，可能防温控，低电量降频应该失效
+Size: 1232
+MD5sum: d4c3893fc51f62eb7995bf45f7653b99
+SHA1: b0453d7140d53c715c89e589b60658aceebfbd81
+SHA256: 4c5b78b1f0aa7070a773d4673993fe5f94a75d0b20a49ac203396131e263249d
+SHA512: 8bdc82fdd459e065a7f045121ef2450f6c0fecc587288aeadf7e8a18c246ffd8ba95fce3f224d7a396514b2234aeec61cdc980630399fb66c56a4fff9d70508c
+Description: Turn off thermalmonitord, which may prevent temperature control, and low-power frequency reduction should fail.
 Name: Disable Thermalmonitord
 Author: zhaonan
-SileoDepiction: https://invalidunit.github.io/sileodepiction/com.nan.disablethermalmonitord/js.json
+SileoDepiction: https://a7m.dev/file/1.json
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 
 Package: com.nan.disableupdates
