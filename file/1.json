@@ -1,0 +1,106 @@
+{
+    "class": "DepictionTabView",
+    "headerImage": "https://invalidunit.github.io/sileodepiction/Default/top.png",
+    "tintColor": "#FF4455",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "Description",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Blocks the `thermalmonitord` daemon, which should prevent downclocking and thermal dimming. Discovered by Aldebaran and Endless Pain Locked in the Night.</br> </br> Devices with A15 and later have internal SoC thermal control, so disabling this daemon may not achieve the full effect.",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://invalidunit.github.io/sileodepiction/Default/Screenshot_01.png"
+                        },
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://invalidunit.github.io/sileodepiction/Default/Screenshot_02.png"
+                        }
+                    ]
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionSeparatorView"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                },
+                {
+                    "class": "DepictionHeaderView",
+                    "title": "Details",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 8
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Aldebaran",
+                    "title": "Method Author 1"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "Endless Pain Locked in the Night",
+                    "title": "Method Author 2"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "zhaonan",
+                    "title": "Script Author"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "0.1.0",
+                    "title": "Latest Version"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "14.0-17.0",
+                    "title": "Theoretically Supported System Range"
+                },
+                {
+                    "class": "DepictionTableTextView",
+                    "text": "February 20, 2024",
+                    "title": "Last Updated Date"
+                },
+                {
+                    "class": "DepictionSpacerView",
+                    "spacing": 16
+                }
+            ]
+        },
+        {
+            "class": "DepictionStackView",
+            "tabname": "Changelog",
+            "views": [
+                {
+                    "class": "DepictionSubheaderView",
+                    "title": "0.1.0",
+                    "useBoldText": true,
+                    "useBottomMargin": false
+                },
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Initial release</br> Known issues:</br> No downclocking at low battery</br> Settings -> Battery: Battery capacity information unavailable</br> There may be more side effects to be discovered by the community.",
+                    "useRawFormat": true
+                }
+            ]
+        }
+    ]
+}
