@@ -4554,15 +4554,14 @@ Section: System
 Maintainer: zhaonan
 Depends: plutil
 Filename: ./file/arm64e/DisableThermalmonitord.0.1.0.arm64e.deb
-Size: 1232
-MD5sum: d4c3893fc51f62eb7995bf45f7653b99
-SHA1: b0453d7140d53c715c89e589b60658aceebfbd81
-SHA256: 4c5b78b1f0aa7070a773d4673993fe5f94a75d0b20a49ac203396131e263249d
-SHA512: 8bdc82fdd459e065a7f045121ef2450f6c0fecc587288aeadf7e8a18c246ffd8ba95fce3f224d7a396514b2234aeec61cdc980630399fb66c56a4fff9d70508c
-Description: Turn off thermalmonitord, which may prevent temperature control, and low-power frequency reduction should fail.
+Size: 1200
+MD5sum: 3314d0b1595fca56b42dceada70717bf
+SHA1: 76b5b82be62f9091ebceee7beed1263a99e3a0da
+SHA256: df2bb6571bd921fed0953731a858785af757f1897993ea19bc2504bfb3e4b2dc
+SHA512: 76520539a4a17b8769f4962f05d4a35c32b1bcdedda3fd96ae6a148d4a7722414e479e8b49082ee563d5572aa1e53a72e25535d3b6d079109e35928d33cdb171
+Description: disables ios thermal monitoring system, preventing performance throttling due to high temperatures.
 Name: Disable Thermalmonitord
 Author: zhaonan
-SileoDepiction: https://a7m.dev/file/1.json
 Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 
 Package: com.nan.disableupdates
