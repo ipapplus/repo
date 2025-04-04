@@ -6,11 +6,11 @@
     "tabs": [
         {
             "class": "DepictionStackView",
-            "tabname": "Description",
+            "tabname": "الوصف",
             "views": [
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Blocks the `thermalmonitord` daemon, which should prevent downclocking and thermal dimming. Discovered by Aldebaran and Endless Pain Locked in the Night.</br> </br> Devices with A15 and later have internal SoC thermal control, so disabling this daemon may not achieve the full effect.",
+                    "markdown": "يقوم بحظر خدمة `thermalmonitord`، مما يجب أن يمنع تقليل التردد والتعتيم الحراري. تم اكتشافه بواسطة Aldebaran و Endless Pain Locked in the Night.</br> </br> الأجهزة التي تحتوي على معالج A15 وما بعده تحتوي على نظام تحكم حراري داخلي في الشريحة، لذا فإن تعطيل هذه الخدمة قد لا يحقق التأثير الكامل.",
                     "useRawFormat": true
                 },
                 {
@@ -19,11 +19,11 @@
                     "itemSize": "{160, 346.4533333333333}",
                     "screenshots": [
                         {
-                            "accessibilityText": "Screenshot",
+                            "accessibilityText": "لقطة شاشة",
                             "url": "https://invalidunit.github.io/sileodepiction/Default/Screenshot_01.png"
                         },
                         {
-                            "accessibilityText": "Screenshot",
+                            "accessibilityText": "لقطة شاشة",
                             "url": "https://invalidunit.github.io/sileodepiction/Default/Screenshot_02.png"
                         }
                     ]
@@ -41,7 +41,7 @@
                 },
                 {
                     "class": "DepictionHeaderView",
-                    "title": "Details",
+                    "title": "التفاصيل",
                     "useBoldText": true,
                     "useBottomMargin": false
                 },
@@ -52,32 +52,32 @@
                 {
                     "class": "DepictionTableTextView",
                     "text": "Aldebaran",
-                    "title": "Method Author 1"
+                    "title": "مؤلف الطريقة 1"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "Endless Pain Locked in the Night",
-                    "title": "Method Author 2"
+                    "title": "مؤلف الطريقة 2"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "zhaonan",
-                    "title": "Script Author"
+                    "title": "مؤلف السكريبت"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "0.1.0",
-                    "title": "Latest Version"
+                    "title": "أحدث إصدار"
                 },
                 {
                     "class": "DepictionTableTextView",
                     "text": "14.0-17.0",
-                    "title": "Theoretically Supported System Range"
+                    "title": "النطاق النظري للأنظمة المدعومة"
                 },
                 {
                     "class": "DepictionTableTextView",
-                    "text": "February 20, 2024",
-                    "title": "Last Updated Date"
+                    "text": "20 فبراير 2024",
+                    "title": "تاريخ آخر تحديث"
                 },
                 {
                     "class": "DepictionSpacerView",
@@ -87,7 +87,7 @@
         },
         {
             "class": "DepictionStackView",
-            "tabname": "Changelog",
+            "tabname": "سجل التغييرات",
             "views": [
                 {
                     "class": "DepictionSubheaderView",
@@ -97,7 +97,7 @@
                 },
                 {
                     "class": "DepictionMarkdownView",
-                    "markdown": "Initial release</br> Known issues:</br> No downclocking at low battery</br> Settings -> Battery: Battery capacity information unavailable</br> There may be more side effects to be discovered by the community.",
+                    "markdown": "الإصدار الأولي</br> المشكلات المعروفة:</br> عدم تقليل التردد عند انخفاض مستوى البطارية</br> الإعدادات -> البطارية: معلومات سعة البطارية غير متاحة</br> قد يكون هناك آثار جانبية أخرى لم يتم اكتشافها بعد.",
                     "useRawFormat": true
                 }
             ]
