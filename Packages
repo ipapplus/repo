@@ -4865,43 +4865,23 @@ Icon: file:///Library/PreferenceBundles/EFMPref.bundle/EFMPref@2x.png
 
 Package: com.ps.emojilibrary
 Architecture: iphoneos-arm64e
-Version: 1.7.0~b1
+Version: 1.7.0
 Section: Development
 Maintainer: PoomSmart
 Installed-Size: 408
 Pre-Depends: rootless-compat(>= 0.9)
-Filename: ./file/arm64e/EmojiLibrary.1.7.0~b1.arm64e.deb
-Size: 52830
-MD5sum: 8530b2f5d2fda45bd167e01a5ce3925c
-SHA1: 40e63d1ee248fe5a14256b2ad568e994f69108a1
-SHA256: 25912431bae5623d76c651a02e94752d04f56860e7bcb16d90b18e15daff4822
-SHA512: e34d6d6b34fd1cea60932bf9c6751177d4eb9eeb4bad5fc5a97f8e0eeb5982ae537a57c4b327d0c27817edb116f152aca475e253ad211d077c5aea06574d8e34
+Filename: ./file/arm64e/EmojiLibrary.1.7.0.arm64e.deb
+Size: 52514
+MD5sum: e78c7ad7bbbd271b10396452fea92db0
+SHA1: 0008397df58e635c57d38fe7a68ab56ebe404657
+SHA256: b2f6fb147902d3a38b7bb7cfb7ef14eabcbc68ba607a6a0bd8029bfad2803d56
+SHA512: 2f20977eb5a518434481ea5d4360702e44e62250fa9a24d6f2a8b26f6ef9098e555f153a9780b9e8c63c9c9b8fa5920c14d5f9ba1ffb5b534270274574a3f607
 Description: Master library for PoomSmart's emoji tweaks.
 Tag: role::developer
 Name: EmojiLibrary
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/emojilibrary.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/emojilibrary.json
-
-Package: com.ps.emojiportpe
-Architecture: iphoneos-arm64e
-Version: 1.6.0~b1
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 352
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0), firmware (<< 18.3), com.ps.emojiattributes (>= 1.9.0~b1), com.ps.emojilibrary (>= 1.6.1), com.ps.emojiport10resources (>= 1.7.0~b1)
-Filename: ./file/arm64e/EmojiPort(iOS12.0-18.3).1.6.0~b1.arm64e.deb
-Size: 17758
-MD5sum: 36802bcc862bd828c78996e70cfe2d12
-SHA1: 4eb389cf99d5d8f8fd33993ec2fbef65c956ed8e
-SHA256: bc767665a9c6c6b2236bde731197f0d34b1406516df824908524d9837b11ddaa
-SHA512: 395be1e0cd5e502a3ad8a329a6e071181d8db46c77d659deb1a60cc2f550f3cd9138f9243daeb5fa9524c58970ba92e4ec058cdd8ded5169d0839c8796db9c3c
-Description: Latest emojis for iOS 12.0-18.3
-Name: EmojiPort (iOS 12.0-18.3)
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/emojiport_12.html
-SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/emojiport_12.json
 
 Package: jp.uzra.enabledsreturn
 Architecture: iphoneos-arm64e
