@@ -90,6 +90,23 @@ Name: AutoRepoManager
 Icon: https://i.imgur.com/ZKCJQvf.jpeg
 Author: ipapplus
 
+Package: com.bandarhl.bhinsta
+Architecture: iphoneos-arm
+Version: 1.0.3
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 648
+Depends: mobilesubstrate
+Filename: ./file/arm/BHInsta.1.0.3.arm.deb
+Size: 163012
+MD5sum: 055938344fc901d744adf603679b65b1
+SHA1: aba95d620e7211cb5496d8ffe337de55be45b60a
+SHA256: 37852fcfc67f7efb8bd1efe27bb4833566ca097d6367c07a4865b9ff326cbc0c
+SHA512: 3b767435d60bfc852f9431f119bed01eddc786e7780046bf28aef585d0ed6df86b69e183812ded21c2b4df97b334cbde3e50ef3dc677fbb078b24607f0195514
+Description: An awesome tweak for Instagram!
+Name: BHInsta
+Author: Bandar Alruwaili
+
 Package: com.raulsaeed.bhtiktok++
 Architecture: iphoneos-arm
 Version: 1.8-120
@@ -124,6 +141,23 @@ Description: An awesome tweak for TikTok!
 Name: BHTikTok Plus
 Author: dvntm
 Icon: https://i.imgur.com/PKIhkrt.png
+
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm
+Version: 4.3-4+debug
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 6292
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./file/arm/BHTwitter.4.3-4+debug.arm.deb
+Size: 1533608
+MD5sum: 28290c12a95961c4f8b1ebf875741927
+SHA1: fa8e87ca5ab5c4f428091b2e37f1841aef158c43
+SHA256: 1e749e3f349f314f0bb3983ebe96fe7a05dac0bd654294567991673102a6b3b8
+SHA512: 4050781b4391d0d9bb8ceeebf4e6c8546fd6d118d573d8b53e6c0273e699388bb9837b0dcc982c986df2d62020f3f01181402955390e1f1e624bff10acc4d200
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
 
 Package: com.cydiaabdullah.cacloud
 Architecture: iphoneos-arm
@@ -337,6 +371,23 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/OrwellVK/main/Sileo/depiction.json
 
+Package: twitter.nowesr1.photosplus
+Architecture: iphoneos-arm
+Version: 0.0.1
+Section: Tweaks
+Maintainer: nowesr1
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm/PhotosPlus.0.0.1.arm.deb
+Size: 26562
+MD5sum: b5e00e8dd3610cedb98c0751d50c859d
+SHA1: bd93f4534346a13ae8ab794dbc83efddf3514186
+SHA256: 2526dce468b18f8a14d3dd1cd0c86f22433d78ddd8a9a6bae830a03296a57baf
+SHA512: 6b3b0f147afc95ac43c5b44e2db712acea9e2a77f1026c3f728e63a82972ddaf6d20e93dc694510d4d696055b88c89eab8142b7de9e04df9f0caf58d2ca1e805
+Description: An awesome MobileSubstrate tweak!
+Name: PhotosPlus
+Author: nowesr1
+
 Package: com.dvntm.ratebegone
 Architecture: iphoneos-arm
 Version: 0.0.1
@@ -425,6 +476,44 @@ Name: TrollPad
 Author: khanhduytran0
 Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
 SileoDepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
+
+Package: twitter.nowesr1.waignorecalls
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: nowesr1
+Installed-Size: 144
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm/WAIgnoreCalls.1.1.arm.deb
+Size: 37202
+MD5sum: 996c9ff43a87ce0aad09b258c8818ee8
+SHA1: f5b515aa626b9e9d62f393824860a7ea80cdd909
+SHA256: 0004a15d22c35e4bbb7a6821e1f149cfba04f2365f4492ef0d2e69cb5fb1daef
+SHA512: ad0f716c7a72c16f8fa6fb969ea5a27c9c17a68310a1e376823654c562308327255358533028bd97a6b7bec45e6ae93f241a817880d1b133d0cab77997857169
+Description: Ignore unwanted calls!
+Name: WAIgnoreCalls
+Author: nowesr1
+Icon: https://raw.githubusercontent.com/nowesr1/WhatsApp-Call-Blocker/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/nowesr1/WhatsApp-Call-Blocker/main/Sileo/depiction.json
+
+Package: twitter.nowesr1.location-spoofer
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: Tweaks
+Maintainer: nowesr1
+Installed-Size: 488
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm/WALocationSpoofer.0.0.2.arm.deb
+Size: 84530
+MD5sum: 79a2be4c098a1ff81cdccf62c9283a5a
+SHA1: aacfc42ce1604a5284b1374aee883ab87da28aa2
+SHA256: 68831fda443bccce1a77e813fb4ae0d6948ea938cc515fa1f33dcf2d764622ab
+SHA512: 139c22a126fded7ef67d104cec83f62358100f775f319d71c1d7885d66aaff6a3d391537fac461c7a7f4146ed19c9503e68f8a6d7c99fc277de84686f99213bc
+Description: Spoof Location for WhatsApp
+Name: WALocationSpoofer
+Author: nowesr1
+Icon: https://raw.githubusercontent.com/nowesr1/WhatsApp-Location-Spoofer/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/nowesr1/WhatsApp-Location-Spoofer/main/Sileo/depiction.json
 
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm
@@ -2109,6 +2198,23 @@ Author: dvntm
 Icon: https://raw.githubusercontent.com/dayanch96/OrwellVK/refs/heads/main/Sileo/icon.png
 SileoDepiction: https://raw.githubusercontent.com/dayanch96/OrwellVK/main/Sileo/depiction.json
 
+Package: twitter.nowesr1.photosplus
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: nowesr1
+Installed-Size: 372
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm64/PhotosPlus.0.0.1.arm64.deb
+Size: 26412
+MD5sum: 1ba8f884b4f5a688a0a06c8642a50500
+SHA1: b2bf512feccc7c781a8cfa90a2497d9beb986083
+SHA256: 4652f25b3c7911491906e709dfb8d737ac0b9d799c7508017719197ca7eb1b5e
+SHA512: 33075388f525c4db152d28e8a30245562ccb01fb9cacd09540f99e87a49dd0fce51812b47c57b1c65cc8ebbbb9de9eb1bdbeacf6c7c7c6ddf152c33f35528108
+Description: An awesome MobileSubstrate tweak!
+Name: PhotosPlus
+Author: nowesr1
+
 Package: com.nan.pointless
 Architecture: iphoneos-arm64
 Version: 0.1.0
@@ -2767,6 +2873,44 @@ Description: Lots Of Options To Enhance Your iOS Experience!
 Name: Uranium
 Author: FissionDev
 Icon: https://andrewrepo.github.io/Depictions/Icons/Uraniumicon@3x.png
+
+Package: twitter.nowesr1.waignorecalls
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: nowesr1
+Installed-Size: 144
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm64/WAIgnoreCalls.1.1.arm64.deb
+Size: 37292
+MD5sum: 8e74fe6be0a708267d79fce101265e6e
+SHA1: e85db084b3e43f71437e9ee0a930624f5bb0a972
+SHA256: 751e98ab74d94a1b78f4c68643d328bf9d3566418894a6071850107db4605770
+SHA512: 1b2e24b7f65b9434e4a9f9594a43e4d87a4708827486159c50d2ee71a7cb00e1dc8636d232f080a97390e9532d0d0bb162084c61a5b575bbdc1cccd971fe7d13
+Description: Ignore unwanted calls!
+Name: WAIgnoreCalls
+Author: nowesr1
+Icon: https://raw.githubusercontent.com/nowesr1/WhatsApp-Call-Blocker/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/nowesr1/WhatsApp-Call-Blocker/main/Sileo/depiction.json
+
+Package: twitter.nowesr1.location-spoofer
+Architecture: iphoneos-arm64
+Version: 0.0.2
+Section: Tweaks
+Maintainer: nowesr1
+Installed-Size: 488
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm64/WALocationSpoofer.0.0.2.arm64.deb
+Size: 84246
+MD5sum: 3d06e4827d7b7ed65f7239cb0575769f
+SHA1: 9dfc34926df08fdcfe0709884ec792fc7cbad5ab
+SHA256: de146d201d849e59e847af7f38425ede88e86a75f1eba8a927be4fa1578788dc
+SHA512: 6549d26ac7f6530fb9eaa221b615ee48df595a46bb449016d3fa9459110b59ac56931a2fe23ef7b8d70de4363860d2242f5649a698caf7f9e776d1076f1b01d1
+Description: Spoof Location for WhatsApp
+Name: WALocationSpoofer
+Author: nowesr1
+Icon: https://raw.githubusercontent.com/nowesr1/WhatsApp-Location-Spoofer/refs/heads/main/Sileo/icon.png
+SileoDepiction: https://raw.githubusercontent.com/nowesr1/WhatsApp-Location-Spoofer/main/Sileo/depiction.json
 
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm64
@@ -3595,6 +3739,26 @@ Description: Enables the ability to install unsigned/fakesigned iOS applications
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+
+Package: com.ps.emojifontefm
+Architecture: iphoneos-arm64e
+Version: 16.0.0
+Section: Fonts (EFM)
+Maintainer: PoomSmart
+Installed-Size: 0
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.ps.efmfontdl
+Filename: ./file/arm64e/AppleColorEmojiUnicode16.0(EFM).16.0.0.arm64e.deb
+Size: 1208
+MD5sum: abb189b9c06b8a84b2648df5bf2cd182
+SHA1: 6e8e1303e811fc4aad87c3cb5b98786f90ce989e
+SHA256: e94c57853cc1e68903d7f24c859761f0ebf1ca753ab64dbc9edfa0c3243a59ba
+SHA512: 4cd80279c34a305a1c0c23b9f5356c99396703f114176dadf0a7d21475b1754cf993efa8dd02abc41487b1018e58b8fae24f92124aa7383eb944317d61e5448b
+Description: Unicode 16.0 AppleColorEmoji font (EFM)
+Name: AppleColorEmoji Unicode 16.0 (EFM)
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojifontefm.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/emojifontefm.json
 
 Package: com.tigisoftware.appdatamanager
 Architecture: iphoneos-arm64e
@@ -4638,6 +4802,47 @@ Description: An awesome MobileSubstrate tweak!
 Name: ESignAlert
 Author: dvntm
 
+Package: com.ps.emojiattributes
+Architecture: iphoneos-arm64e
+Version: 1.9.0~b3
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 472
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.1), mobilesubstrate, com.opa334.libundirect (>= 1.1.6)
+Conflicts: com.ps.flexmoji
+Filename: ./file/arm64e/EmojiAttributes.1.9.0~b3.arm64e.deb
+Size: 48232
+MD5sum: 9dfe65e3b21cf0cf8b6f2518a0b0ea16
+SHA1: 554587a10be0e09d7d18246f3a23aa31e5554f8f
+SHA256: c809fcec2284fcf3bfd725a525a37bf409616d964bd578520be8ad9a64b7f19c
+SHA512: 127ba77998ff9c4ed5ced8236fbe9db696441eaf99a4c707f095f88d6bdd055fe0583d358f9af41bb5477c596854d3a1e5dccd437c5ecebc8ef7460c25f79e2e
+Description: Various under-the-hood fixes for emoji display.
+Name: EmojiAttributes
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiattributes.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/emojiattributes.json
+
+Package: com.ps.emojiportpe
+Architecture: iphoneos-arm64e
+Version: 1.6.0~b1
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 352
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), firmware (<< 18.3), com.ps.emojiattributes (>= 1.9.0~b1), com.ps.emojilibrary (>= 1.6.1), com.ps.emojiport10resources (>= 1.7.0~b1)
+Filename: ./file/arm64e/EmojiPort(iOS12.0-18.3).1.6.0~b1.arm64e.deb
+Size: 17758
+MD5sum: 36802bcc862bd828c78996e70cfe2d12
+SHA1: 4eb389cf99d5d8f8fd33993ec2fbef65c956ed8e
+SHA256: bc767665a9c6c6b2236bde731197f0d34b1406516df824908524d9837b11ddaa
+SHA512: 395be1e0cd5e502a3ad8a329a6e071181d8db46c77d659deb1a60cc2f550f3cd9138f9243daeb5fa9524c58970ba92e4ec058cdd8ded5169d0839c8796db9c3c
+Description: Latest emojis for iOS 12.0-18.3
+Name: EmojiPort (iOS 12.0-18.3)
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiport_12.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/emojiport_12.json
+
 Package: jp.uzra.enabledsreturn
 Architecture: iphoneos-arm64e
 Version: 1.2
@@ -5376,6 +5581,26 @@ MD5sum: 92950b83724446fc97b0050da79fe2c9
 SHA1: e9b2837e80d920b6a00d1ef69017891f2f72143e
 SHA256: 5cd609687c9f72e34fddf6c1a3e94ec93c24f5a26f5b07a29e94eac7831674d0
 SHA512: f74148d675f3d696f5c4196ca375df6e3404432c425778ba466bd845058a1e3b6ccd85bb2d268b010166b79d31a4c4a4498664e72c76c600639c6ce4701e4736
+Description: Arabic language for Instagram, translated with contribution from @r22i0.
+Name: Instagram (Arabic Localized)
+Author: ipapplus
+Icon: https://i.imgur.com/ffrKJBH.jpeg
+Header: https://i.imgur.com/xAIYmyc.jpeg
+
+Package: com.ipapplus.instarab
+Architecture: iphoneos-arm64e
+Version: 1.4.0
+Section: Localizations
+Maintainer: ipapplus
+Installed-Size: 256
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./file/arm64e/Instagram(ArabicLocalized).1.4.0.arm64e.deb
+Size: 63706
+MD5sum: 5a88b3169b03db91a497351704d61d1c
+SHA1: 945942597b4923aa386034416e73e9229e2aca9b
+SHA256: 69008dfba793a514ad59a39062387ca035702bd3ddb74f0b6d70a1888373e43a
+SHA512: d4b02348e7e5e13869ac7ed7e6a38fd7d7082fe0c1595ba41ad41058f139f3493458cfb8070492cb9c781a4c4dc1c0646c70ca1e6345e084425eb7ecd620b084
 Description: Arabic language for Instagram, translated with contribution from @r22i0.
 Name: Instagram (Arabic Localized)
 Author: ipapplus
