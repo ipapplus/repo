@@ -4785,6 +4785,26 @@ Name: DumpDecrypter
 Author: Netskao
 SileoDepiction: https://jailrepo.initnil.com/Depictions/com.netskao.dumpdecrypter.json
 
+Package: com.ps.efmfontdl
+Architecture: iphoneos-arm64e
+Version: 1.0.5
+Section: Fonts (EFM)
+Maintainer: PoomSmart
+Installed-Size: 8
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: wget, curl
+Filename: ./file/arm64e/EFMFontDownloader.1.0.5.arm64e.deb
+Size: 2092
+MD5sum: 1d4f25731c10feb6abafa4671286563b
+SHA1: 3ba3e77368d3b3084314a1c4ba49557645ed6113
+SHA256: 502091d661cd7c955b012556657ee609ec6795e9f06100652167661fdd50e0ee
+SHA512: dbaf66ee214b6a08a0a2d96a81eedd79f85f6aba3a8fa95ce5d336e71d2fac7d7b15374b0e70ba4df5fdd50663583b2736c9e6da6034c3cf6d8f710907145dc8
+Description: Shell script to download emoji font for EFM.
+Name: EFM Font Downloader
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/efmfontdl.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/efmfontdl.json
+
 Package: com.dvntm.esignalert
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -4822,6 +4842,26 @@ Name: EmojiAttributes
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/emojiattributes.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/emojiattributes.json
+
+Package: com.ps.emojilibrary
+Architecture: iphoneos-arm64e
+Version: 1.7.0~b1
+Section: Development
+Maintainer: PoomSmart
+Installed-Size: 408
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./file/arm64e/EmojiLibrary.1.7.0~b1.arm64e.deb
+Size: 52830
+MD5sum: 8530b2f5d2fda45bd167e01a5ce3925c
+SHA1: 40e63d1ee248fe5a14256b2ad568e994f69108a1
+SHA256: 25912431bae5623d76c651a02e94752d04f56860e7bcb16d90b18e15daff4822
+SHA512: e34d6d6b34fd1cea60932bf9c6751177d4eb9eeb4bad5fc5a97f8e0eeb5982ae537a57c4b327d0c27817edb116f152aca475e253ad211d077c5aea06574d8e34
+Description: Master library for PoomSmart's emoji tweaks.
+Tag: role::developer
+Name: EmojiLibrary
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojilibrary.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/emojilibrary.json
 
 Package: com.ps.emojiportpe
 Architecture: iphoneos-arm64e
