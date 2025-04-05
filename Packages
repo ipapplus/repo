@@ -6912,6 +6912,27 @@ SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/recordpause.jso
 
 Package: com.fouadraheb.regram
 Architecture: iphoneos-arm64e
+Version: 1.0.26
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 11100
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm64e/RegramforInstagram.1.0.26.arm64e.deb
+Size: 3034540
+MD5sum: b96380bbf877674bccb3e92973fc187d
+SHA1: b084f8a2a4d58f405b772a92a9ac4158f9828792
+SHA256: ce2d36192187a41bf29fbe1c3c3e48d1918df5d858beeda3b5910a2fde1d1c53
+SHA512: e92fc727fdcf9cd4a418b12e43f8eeec6b00be0f158e2ff35b18da6d106eae89e6628cfb676f2074491ffa41dcdea3f41a76cb27f2a7d3f30782cb9f1bd5b8ee
+Description: The all-in-one tweak for Instagram
+Name: Regram for Instagram
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
+
+Package: com.fouadraheb.regram
+Architecture: iphoneos-arm64e
 Version: 1.0~b23
 Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
