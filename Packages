@@ -3747,13 +3747,13 @@ Section: Fonts (EFM)
 Maintainer: PoomSmart
 Installed-Size: 0
 Pre-Depends: rootless-compat(>= 0.9)
-Depends: com.ps.efmfontdl
+Depends: com.ps.efmfontdl, com.ps.emojifontmanager, com.ps.emojiportpe
 Filename: ./file/arm64e/AppleColorEmojiUnicode16.0(EFM).16.0.0.arm64e.deb
-Size: 1208
-MD5sum: abb189b9c06b8a84b2648df5bf2cd182
-SHA1: 6e8e1303e811fc4aad87c3cb5b98786f90ce989e
-SHA256: e94c57853cc1e68903d7f24c859761f0ebf1ca753ab64dbc9edfa0c3243a59ba
-SHA512: 4cd80279c34a305a1c0c23b9f5356c99396703f114176dadf0a7d21475b1754cf993efa8dd02abc41487b1018e58b8fae24f92124aa7383eb944317d61e5448b
+Size: 1332
+MD5sum: 988588c37527b9749c531fadff849e37
+SHA1: 374bff9de5c22b441e920bcb44156ae714ff060c
+SHA256: e2854abafc9a0494e929fac75dee0b9340f1ee3dbbde9f5c5e531f894d73f17e
+SHA512: 86fffdb7aaedb58a9b66c9624604565eee6408078ec34733a3e57b171fb703c9738d907f3b518198c4460fbec8ab33abbaebc1e08c1f6677f336cf3de5174c3a
 Description: Unicode 16.0 AppleColorEmoji font (EFM)
 Name: AppleColorEmoji Unicode 16.0 (EFM)
 Author: PoomSmart
