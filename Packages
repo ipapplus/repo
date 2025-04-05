@@ -3760,6 +3760,24 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/emojifontefm.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/emojifontefm.json
 
+Package: com.ps.emojifonthdefm
+Architecture: iphoneos-arm64e
+Version: 16.0.0
+Section: Fonts (EFM)
+Maintainer: PoomSmart
+Installed-Size: 0
+Depends: com.ps.efmfontdl, com.ps.emojifontmanager, com.ps.emojiportpe
+Filename: ./file/arm64e/AppleColorEmojiUnicode16.0HD(EFM).16.0.0.arm64e.deb
+Size: 892
+MD5sum: 4aa1309742d7e65526a152ecc42d9df5
+SHA1: 6b604e6490a0829da6c91fa179c9c82cd2ca87ff
+SHA256: 8f0302ac00d02d7f2a4f9267ffd4f7376375b34651d7278522cea84b12158fd6
+SHA512: 7b0fca8b60e52bd387e6e16aa5275dd852da012bf31f493b98a076159b72a8b33b3cfab140d3235777e02e5ee4804b2949809cf0fc83e02e211060f505b0f340
+Description: Unicode 16.0 AppleColorEmoji font HD (EFM)
+Name: AppleColorEmoji Unicode 16.0 HD (EFM)
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojifontefm.html
+
 Package: com.tigisoftware.appdatamanager
 Architecture: iphoneos-arm64e
 Version: 1.8.2-5
