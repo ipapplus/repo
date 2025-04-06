@@ -881,6 +881,23 @@ Icon: https://i.imgur.com/PKIhkrt.png
 
 Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm64
+Version: 4.3-1+debug
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 23824
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./file/arm64/BHTwitter.4.3-1+debug.arm64.deb
+Size: 8693950
+MD5sum: 4f77ca2c31eabdd706fe849e1aa3097d
+SHA1: 3f5fa2a02a09da526767d8fb6f88c4538055637a
+SHA256: c9bf46e1da6118b7d7f9a92063c8895e2f26e361a1efcad06c1a826a348acca7
+SHA512: 686cc0bf2c47d0593c22e61d69cf0a1a621d1b77c31910a75502184b0cf9bb612d5d0897a8c1bf9972637ca6711ad38a406fd3204c851a1785084dde1e769544
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
+
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64
 Version: 4.3-5+debug
 Section: Tweaks
 Maintainer: Bandar Alruwaili
@@ -4060,6 +4077,24 @@ Description: An awesome tweak for TikTok!
 Name: BHTikTok Plus
 Author: dvntm
 Icon: https://i.imgur.com/PKIhkrt.png
+
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64e
+Version: 4.3-1+debug
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 23824
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./file/arm64e/BHTwitter.4.3-1+debug.arm64e.deb
+Size: 21393890
+MD5sum: d4fb3ee16d72334da12705bf4a27f3cc
+SHA1: 1a3aaddb5b941b104a6124b2de9f5e7ae380371e
+SHA256: 2b2374f00d0d0aa6615631a97f298a6385cc845e157a25f0cd830e83d21f1ff9
+SHA512: 4d7c048914c0e7af9b2076daf6792818cca874994741dcb604619af5ca9a7e0c5f8fd7b55be2acabf3538ab1de00ac97157ac2470ece2f215f4574d869b206e5
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
 
 Package: com.bandarhl.bhtwitter
 Architecture: iphoneos-arm64e
