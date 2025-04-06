@@ -281,6 +281,25 @@ Author: ipapplus
 Icon: https://i.imgur.com/ffrKJBH.jpeg
 Header: https://i.imgur.com/xAIYmyc.jpeg
 
+Package: com.ipapplus.instarab
+Architecture: iphoneos-arm
+Version: 1.4.0
+Section: Localizations
+Maintainer: ipapplus
+Installed-Size: 320
+Depends: mobilesubstrate
+Filename: ./file/arm/Instagram(ArabicLocalized).1.4.0.arm.deb
+Size: 49080
+MD5sum: 5f40e65325eddcd36aa381ca9ce30648
+SHA1: e125b6a679cd7afefb0f4e3d2395a15a8a22e434
+SHA256: 269bfccf6bef084090f149c63748176df2fd0ff74380cae933c2339e1b82766c
+SHA512: c53b45600daa93d258972acba45c60de8c017f633eaf0835ab1c8a5be46d167a1f497e415f4abd8280a3e9bbe7275348ff2cbbb6c03af8e30efa129c61facb9b
+Description: Arabic language for Instagram, translated with contribution from @r22i0.
+Name: Instagram (Arabic Localized)
+Author: ipapplus
+Icon: https://i.imgur.com/ffrKJBH.jpeg
+Header: https://i.imgur.com/xAIYmyc.jpeg
+
 Package: chaoge.jbdev
 Architecture: iphoneos-arm
 Version: 1.0-277+debug
@@ -1691,6 +1710,25 @@ Header: https://i.imgur.com/xAIYmyc.jpeg
 
 Package: com.ipapplus.instarab
 Architecture: iphoneos-arm64
+Version: 1.4.0
+Section: Localizations
+Maintainer: ipapplus
+Installed-Size: 256
+Depends: mobilesubstrate
+Filename: ./file/arm64/Instagram(ArabicLocalized).1.4.0.arm64.deb
+Size: 44856
+MD5sum: 68af7bf3638754febcdf910175141246
+SHA1: f687aed9934e42f4ab20ce44398f9f5d1db98afa
+SHA256: 8686fd15e9355bcbcf7e7cd7d1c48051ecff5d01cddae20f703bf0726708e6c6
+SHA512: 5b5ee159304d844e45544fcbf492d152fae68c80a8440e290ad2db851a465b9089a2a34d00e2ee0ac19f64bfc0f76b322000c5ed965f9b95be5b4896f16ad4c7
+Description: Arabic language for Instagram, translated with contribution from @r22i0.
+Name: Instagram (Arabic Localized)
+Author: ipapplus
+Icon: https://i.imgur.com/ffrKJBH.jpeg
+Header: https://i.imgur.com/xAIYmyc.jpeg
+
+Package: com.ipapplus.instarab
+Architecture: iphoneos-arm64
 Version: 1.1.0
 Section: Tweaks
 Maintainer: ipapplus <Telegram@ipapplus>
@@ -2834,6 +2872,24 @@ MD5sum: 61a9b717a3eabad584e10030f6858861
 SHA1: ed94cc8ae276ab9312cb6b24557647cd9ac2bd2c
 SHA256: 9e1c54f0694733f5445d8335b9c140ef8016bb10fdf9bc3e874da103e32fea0a
 SHA512: dee54d6d9c593f5176331442ef57cc10ab6d03fefcc9c9516868ac015921640d6185abe9b2f322ab8e7c3be743e828b8cab4a028a21b059cc014ad7f56e005d9
+Description: Block Twitch video ads
+Name: TwitchAdBlock
+Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.twitchadblock
+Author: level3tjg
+
+Package: com.level3tjg.twitchadblock
+Architecture: iphoneos-arm64
+Version: 0.1.5
+Section: Tweaks
+Maintainer: level3tjg
+Installed-Size: 144
+Depends: mobilesubstrate
+Filename: ./file/arm64/TwitchAdBlock.0.1.5.arm64.deb
+Size: 21074
+MD5sum: f831bbb9b0c1f6acaffad0b1da2f46e3
+SHA1: b12d8bdafc1ab36cdd479acbee8d9ed2d3ecbc80
+SHA256: 1a2853d2e021bd55c6a10e5c2ec409ad117e3132c2bbef7a85b8ea07b48238b6
+SHA512: 442831ca4f97996e561b6faf2df417e106dbc03c054ffd50bc447ca36b7e2dbf31aab6fcaad9d80e230c90ce81000ff4089afcea71f0baeebb390420d70f81f0
 Description: Block Twitch video ads
 Name: TwitchAdBlock
 Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.twitchadblock
