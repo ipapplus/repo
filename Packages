@@ -2733,6 +2733,25 @@ Name: Stalky
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
 
+Package: com.f0u4d.stalky
+Architecture: iphoneos-arm64
+Version: 4.1.38
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6760
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.16)
+Enhances: WhatsApp
+Filename: ./file/arm64/Stalky.4.1.38.arm64.deb
+Size: 1605388
+MD5sum: 891bb119f2a04dfdcee8bbb6674407d1
+SHA1: ad23dddca43284d3647209859c017cc9e2d09024
+SHA256: 330d03f08e5e61d517b37021d12b6fd410d80229ba97c9b32efada78f2811fcc
+SHA512: cdef4e94d1c5ae8efc00cab6c6d7226667651ee444f685e5228e5e142000760cfa69fe04a5529832716ff2d76e46240e8537823f301fa0e8ff7081e99c224964
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Name: Stalky
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+
 Package: zp.stopautolaunchapps
 Architecture: iphoneos-arm64
 Version: 1.1
@@ -3126,6 +3145,23 @@ MD5sum: d669805a5f1d96d745c77eaf2b22ba65
 SHA1: 1b49260f9b66c75ef787b37428a3885b46816584
 SHA256: e59b27511c2ec5506c451c36dfd57750504b492fc28c663fff50363a171aa121
 SHA512: 56f7743ab2e4e93e332ed2fe2637dd57b5aea0bdd5f2ec41bb0372798225e7ef24dadc8a9bf334c0e9f7d3fce9e720411e415743edbaa225f3bd8a764eff0af2
+Description: Library for Watusi, Regram and other tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64
+Version: 2.5.16
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Depends: firmware (>= 12.0)
+Filename: ./file/arm64/WatusiTools.2.5.16.arm64.deb
+Size: 4743388
+MD5sum: 289fe4ed109e02cb04c4ed8669043836
+SHA1: 9781da25f2a1da49609fe0cb3d242313743ea1f8
+SHA256: 3b75c274edefbce9473d6ae601c6f654ade5f81ff000a1c6bfdf8877df25a573
+SHA512: 491a5d7a53b1ecc5a665a32946edafdc5d6b677c6f5f6df012bf9cdde292fb972228586f9f0680cddfbd77ec990c975600dd69a504544658245ddd48b7f4f060
 Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -7808,6 +7844,26 @@ Icon: https://i.imgur.com/dCflnyf.jpeg
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
 
+Package: com.f0u4d.stalky
+Architecture: iphoneos-arm64e
+Version: 4.1.38
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6760
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.16)
+Enhances: WhatsApp
+Filename: ./file/arm64e/Stalky.4.1.38.arm64e.deb
+Size: 1578572
+MD5sum: 743a8cf7a95faa3648f52f080c8a4a82
+SHA1: abb2b69a1e1041fcfee9e7854a255aa5fb5e9ea4
+SHA256: 8d00b5b6b28161b9da9798fe7d5765208681afd0cbb42f42ea0be72c524c07ed
+SHA512: 20ce36b723eb8c7d26499040f520198dd96718d70277ce03983f2032c88b6ec49617804a93908bffe97378ff9e327c1b5543ea1475a818ae298e741bc90a4cfe
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Name: Stalky
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+
 Package: com.yourepo.0xkuj.storeswitcher2rootless
 Architecture: iphoneos-arm64e
 Version: 1.0.4
@@ -8599,6 +8655,24 @@ MD5sum: 6518415cca2ccb35da32635894355593
 SHA1: eadfc353adbc0e5133d59ceac38d0a8e61c46e55
 SHA256: 4eed5a4175a1768fade4ffa57df288489db39e1f20cebf6132f95ee470a26505
 SHA512: f4cea9afc0fe5615daaffbb52bc369fab9fd35f3b1dd941c385aa3a295487ffe5344759e0d0d4571adcae79cfa2d8929c7190929a0ad46c40350301356c962d0
+Description: Library for Watusi, Regram and other tweaks
+Name: WatusiTools
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
+
+Package: com.f0u4d.watusitools
+Architecture: iphoneos-arm64e
+Version: 2.5.16
+Section: Development
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0)
+Filename: ./file/arm64e/WatusiTools.2.5.16.arm64e.deb
+Size: 4725704
+MD5sum: 923653a84ddb04a00734acdeafbb5ccb
+SHA1: 5d26323b212f3a383b8b9ac6813edcdd5288a191
+SHA256: 549273e21cacedd84edb0625cfc641e1e5f37dbceaa67d7fb08365ae54353837
+SHA512: 95ec9600d40e993dd7cc0f8e22259c09ced1cd6a170c0ebf9f6de1e0ddfa0440864e55a6b6419b64ca626bdbca5dcfc2a990adfae300009757e9ac31f977c8e3
 Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
