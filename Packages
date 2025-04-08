@@ -284,25 +284,6 @@ SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Reso
 
 Package: com.ipapplus.instarab
 Architecture: iphoneos-arm
-Version: 1.2.0
-Section: Localizations
-Maintainer: ipapplus
-Installed-Size: 304
-Depends: mobilesubstrate
-Filename: ./file/arm/Instagram(ArabicLocalized).1.2.0.arm.deb
-Size: 39424
-MD5sum: 3248012ed64ff3b66cbe8976c12eff95
-SHA1: de87daa2364fb71bd1d94022e4b1eea08ecfd7e4
-SHA256: 9f8dc897f454c085d7c0cf6d7aa2942eb1f8fae6d849187d265ef739a96bd26f
-SHA512: 20e5c4afe7cff83f29441b2980ad5100f6fac8ed2048afd0041644993ac6341ad881193c77e73a4a93fc0f6beae3af432fba3cbc7d1763cd7bebe3bbb454d7f8
-Description: Arabic language for Instagram, translated with contribution from @r22i0.
-Name: Instagram (Arabic Localized)
-Author: ipapplus
-Icon: https://i.imgur.com/ffrKJBH.jpeg
-Header: https://i.imgur.com/xAIYmyc.jpeg
-
-Package: com.ipapplus.instarab
-Architecture: iphoneos-arm
 Version: 1.4.0
 Section: Localizations
 Maintainer: ipapplus
@@ -647,25 +628,6 @@ Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
-
-Package: com.dvntm.ytlite
-Architecture: iphoneos-arm
-Version: 5.1
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 16344
-Depends: mobilesubstrate
-Filename: ./file/arm/YTLite.5.1.arm.deb
-Size: 6185576
-MD5sum: 88cd1c9ada628c79e82cfa6be2b9e10a
-SHA1: 40f9940a4fd1aec3d9808ee51d786a8b90ec21e6
-SHA256: b8e9515a89f17e61e89c17ee28f976a0758c471333dc0e4f09c9aac7764c370a
-SHA512: 7954b5cd39af37a74770d748440e04517a2b0de7a7fd9ed09259980860ab8592f047f4a82b9785c35ed76098bd01b32636be5c50e081e2b35e2854a2f54b8f89
-Description: Lightweight YouTube Enhancer
-Name: YTLite
-Author: dvntm
-Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
-SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
 
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm
@@ -1830,26 +1792,6 @@ SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
 
 Package: com.den.igformat
 Architecture: iphoneos-arm64
-Version: 1.71-1+debug
-Section: Tweaks
-Maintainer: MrDeNsor
-Installed-Size: 1192
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./file/arm64/IGFormat.1.71-1+debug.arm64.deb
-Size: 172476
-MD5sum: 5daa0879658ff7df020f573a1e2115da
-SHA1: 282af1d6d27d034c35554f1ca0dd63d1156ed395
-SHA256: 686a41c78a486693f84da9a45c77b60ec393d5796554ede2305015660c8fdd3c
-SHA512: ee4000bbd03692ab33faf4a3c6c76e1a2d4507d89d4b5e15d9302d19f59a45402ea1324bea7c3cbf34645da47ceefb12ceef06ed6dffde719f0a4cfa21be480d
-Description: Powerful Instagram Tweak
-Name: IGFormat
-Author: MrDeNsor
-Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
-Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
-SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
-
-Package: com.den.igformat
-Architecture: iphoneos-arm64
 Version: 1.72-191+debug
 Section: Tweaks
 Maintainer: MrDeNsor
@@ -1922,25 +1864,6 @@ SileoDepiction: https://raw.githubusercontent.com/dayanch96/InfusePlus/main/Reso
 
 Package: com.ipapplus.instarab
 Architecture: iphoneos-arm64
-Version: 1.2.0
-Section: Localizations
-Maintainer: ipapplus
-Installed-Size: 240
-Depends: mobilesubstrate
-Filename: ./file/arm64/Instagram(ArabicLocalized).1.2.0.arm64.deb
-Size: 35232
-MD5sum: 360372bc3cbe6b80a1458844ef316f1e
-SHA1: 34c7b174e742b346723f6e843d0879dae3055b70
-SHA256: c94e89c0a99520d6878afca582e7ba737cd867cfb220ea89277633c93c01317b
-SHA512: d361a25781dc322d8feef56a509b6e2aeb431d465bd776b43f965cc54003fe0ed6dfc2292f098021f59b69b667b2edc2b8b83e8dd9051313fdca82892e6631bc
-Description: Arabic language for Instagram, translated with contribution from @r22i0.
-Name: Instagram (Arabic Localized)
-Author: ipapplus
-Icon: https://i.imgur.com/ffrKJBH.jpeg
-Header: https://i.imgur.com/xAIYmyc.jpeg
-
-Package: com.ipapplus.instarab
-Architecture: iphoneos-arm64
 Version: 1.4.0
 Section: Localizations
 Maintainer: ipapplus
@@ -1957,40 +1880,6 @@ Name: Instagram (Arabic Localized)
 Author: ipapplus
 Icon: https://i.imgur.com/ffrKJBH.jpeg
 Header: https://i.imgur.com/xAIYmyc.jpeg
-
-Package: com.ipapplus.instarab
-Architecture: iphoneos-arm64
-Version: 1.1.0
-Section: Tweaks
-Maintainer: ipapplus <Telegram@ipapplus>
-Installed-Size: 236
-Depends: mobilesubstrate
-Filename: ./file/arm64/Instarab.1.1.0.arm64.deb
-Size: 33332
-MD5sum: 2c237bf1d2623656c7cacea2a052edd6
-SHA1: fbff1905585f4cef3c13fdf63946a25e18ac0ac7
-SHA256: 38a8b873536df479ab429a07c8388ab7f20563174a1657f2bd4cd36a5a57ab5c
-SHA512: e9d2062b6573bb2ee2d20e939f2208da35e0efd5a1a67a2d5337f639f6da3861d7c44f965d84b5abfd2be63929cb9b0c9499af05f94af9102aefb9a1f7deae7c
-Description: arabic language for instagram
-Name: Instarab
-Author: ipapplus <Twitter@ipapplus>
-
-Package: com.ipapplus.instarab
-Architecture: iphoneos-arm64
-Version: 1.1.1
-Section: Tweaks
-Maintainer: ipapplus <Telegram@ipapplus>
-Installed-Size: 232
-Depends: mobilesubstrate
-Filename: ./file/arm64/Instarab.1.1.1.arm64.deb
-Size: 33084
-MD5sum: e67bee6857591a570683a1e5a9143445
-SHA1: 5973545944e0127eae252cb1a81db8b68d1155ff
-SHA256: 4791187d7669d307940f6574d7f4204c95ccbc54bcd90f7f0913edc51a046743
-SHA512: 3577b46ce4815b8f7ed3dc1c9ea9b8f3d3b38f87eca077e40747d25a9d5254af7e91273107f60e8be70df634decba0cf3216aebaa57ad97fc56d268d9edd3566
-Description: arabic language for instagram >> TrollFools link https://a7m.dev/file/Instarab.1.1.1.zip
-Name: Instarab
-Author: ipapplus <Twitter@ipapplus>
 
 Package: com.nathan.internalstoragesettings
 Architecture: iphoneos-arm64
@@ -2152,23 +2041,6 @@ Description: Simple tweak to remap the long press of the power button on notched
 Name: LockButtonX
 Author: Nightwind
 Icon: https://github.com/NightwindDev/LockButtonX/blob/main/Icon.png?raw=true
-
-Package: com.den.locktouchx
-Architecture: iphoneos-arm64
-Version: 1.2-18+debug
-Section: Tweaks
-Maintainer: MrDeNsor
-Installed-Size: 200
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./file/arm64/LockTouchX.1.2-18+debug.arm64.deb
-Size: 15412
-MD5sum: 7c2dea6cc4abeceb25dadc31ca9b4d04
-SHA1: 75ccb9ac39ae14dafadb91dedfb1afe7fb581a06
-SHA256: ef7259ef0565c8caddc6c269e6484e8b294de54588ec77c6bb13257731dfeac0
-SHA512: 4409533dedf47c105bcb38370d24f40c2c208cad4766250d680c0389945929b1cbe2389113b8c2756c074ff351afc69213f86c69abef83562f22a7ae40f6e549
-Description: Adds Touch ID authentication to apps, just like the security features in iOS 18
-Name: LockTouchX
-Author: MrDeNsor
 
 Package: com.den.locktouchx
 Architecture: iphoneos-arm64
@@ -2949,25 +2821,6 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
 
 Package: com.f0u4d.stalky
 Architecture: iphoneos-arm64
-Version: 4.1.38
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6760
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.16)
-Enhances: WhatsApp
-Filename: ./file/arm64/Stalky.4.1.38.arm64.deb
-Size: 1604700
-MD5sum: 2fe2fda33bcc8f5bd19dc74814594274
-SHA1: f59d18894f71dfe95d2d06f9497d35cc2b398517
-SHA256: e3f117043f13c00a3c76402430eced52eec6cf6417e1bf2b96d293a876479e84
-SHA512: 10dc17607286213d568d2a72c5686c168411798a640dcfbbe27b98e03d7257465662d714139b09b8b2c870528cc8eb28f4af4f0d23fd3367b6e4ae24629188f5
-Description: Track & download your contacts latest profile & statuses updates on WhatsApp
-Name: Stalky
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
-
-Package: com.f0u4d.stalky
-Architecture: iphoneos-arm64
 Version: 4.1.39
 Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
@@ -3239,63 +3092,6 @@ Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundl
 
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm64
-Version: 1.2.64
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6424
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.14)
-Filename: ./file/arm64/Watusi3forWhatsApp.1.2.64.arm64.deb
-Size: 1933736
-MD5sum: 47a47a289a87a17f5c6e7c935894757d
-SHA1: d0ec39928a9dbde0ee9565671b00f104da8569a6
-SHA256: b4c44fee6171cbf73ca9a72b6df5e82ad2dfea60f2f1063aca027dda4ba95117
-SHA512: d1481f711027f735fdd0da67a6ffc12c63abca75027c6bf7ddeed7f67f22397076a2cd048932321abb8345d969d86896a67d667e314ef86c8803bbd765c25576
-Description: The all-in-one tweak for WhatsApp Messenger
-Name: Watusi 3 for WhatsApp
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
-Author: Fouad Raheb <support@fouadraheb.com>
-Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
-
-Package: com.fouadraheb.watusi3
-Architecture: iphoneos-arm64
-Version: 1.2.65
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6424
-Depends: mobilesubstrate, com.f0u4d.watusitools
-Filename: ./file/arm64/Watusi3forWhatsApp.1.2.65.arm64.deb
-Size: 1933748
-MD5sum: 32752a763a065239eff0b899acb62d3e
-SHA1: eade5d5af31f19de9711a141aa81d81c39440eed
-SHA256: 6fa89fbb59439fca3651d57c42e4c25d96de065254c82c483ee2a56eea17244d
-SHA512: e3a00bd28f924325275427a5360ad15873204b0b5972801c06ae14b4166d85cc21af45aefbd05f76899c998824e43c0bd3f26b74ef1ca2687d036bb0d925a982
-Description: The all-in-one tweak for WhatsApp Messenger
-Name: Watusi 3 for WhatsApp
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
-Author: Fouad Raheb <support@fouadraheb.com>
-Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
-
-Package: com.fouadraheb.watusi3
-Architecture: iphoneos-arm64
-Version: 1.2.66
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6424
-Depends: mobilesubstrate, com.f0u4d.watusitools
-Filename: ./file/arm64/Watusi3forWhatsApp.1.2.66.arm64.deb
-Size: 1933380
-MD5sum: 59edaa90e5a8ebe88eb24a0a40401303
-SHA1: 627d5b7a0ff9792061efbe58888883d0da789c15
-SHA256: abadc2d9e474e41cf7a0d9a966e61d9be0ee818dc2b188bdf99250fcfce4877f
-SHA512: 69c8f181e3566f864c54aa3d1785e5eba8c369163c50ff678b03ad0615fc9e410a325c3965dd43d43aff5694ad6d2621b0f1179ab9a97b7b89ef1d562c501928
-Description: The all-in-one tweak for WhatsApp Messenger
-Name: Watusi 3 for WhatsApp
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
-Author: Fouad Raheb <support@fouadraheb.com>
-Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
-
-Package: com.fouadraheb.watusi3
-Architecture: iphoneos-arm64
 Version: 1.2.67
 Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
@@ -3332,40 +3128,6 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
 
 Package: com.f0u4d.watusitools
 Architecture: iphoneos-arm64
-Version: 2.5.14
-Section: Development
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depends: firmware (>= 12.0)
-Filename: ./file/arm64/WatusiTools.2.5.14.arm64.deb
-Size: 4662464
-MD5sum: 36ec7442fba3bac86ec2a6d562804e37
-SHA1: 3ebfcb44c58d0fa8b81496baa4233f6d430651e1
-SHA256: 3461710dd78b174072f044756e355c2f667e487a8e711ac50a9a699e0e507522
-SHA512: 95d864801d87e97b08938fbb75b710845abd61c3eb1d3179698e5fe98d826e9f6e342dd47d03192af1f47db17600ff0c12bd768c8723cf13e859b41fc184b3c2
-Description: Library for Watusi, Regram and other tweaks
-Name: WatusiTools
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
-
-Package: com.f0u4d.watusitools
-Architecture: iphoneos-arm64
-Version: 2.5.15
-Section: Development
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Depends: firmware (>= 12.0)
-Filename: ./file/arm64/WatusiTools.2.5.15.arm64.deb
-Size: 4662900
-MD5sum: 47f7d9db82e4cb3a411fb983bea4b0d6
-SHA1: 3cac947d929f9d0f3e954c896f220e4645aba35d
-SHA256: 02a17993c9fdeb865a69d78dc1b277df5dc38b9ee5367d4caccd21017c92d35d
-SHA512: 1393518a4f93dadc5f79f55eb95a75213e353911628bca843cfc9a9757901588fe461c0ddd58ff501620f258b5b56fcf3bc03a38e22a092dc3e1dd138974369d
-Description: Library for Watusi, Regram and other tweaks
-Name: WatusiTools
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
-
-Package: com.f0u4d.watusitools
-Architecture: iphoneos-arm64
 Version: 2.5.16
 Section: Development
 Maintainer: Fouad Raheb <support@fouadraheb.com>
@@ -3380,25 +3142,6 @@ Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
-
-Package: com.dvntm.ytlite
-Architecture: iphoneos-arm64
-Version: 5.1
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 16344
-Depends: mobilesubstrate
-Filename: ./file/arm64/YTLite.5.1.arm64.deb
-Size: 6181172
-MD5sum: 6d74615241398308989aa4713f14e576
-SHA1: 9972808503342599dd964183d33a588ebaab329a
-SHA256: d7a32c5634056f44f0ec39d6c54b9391ae21373c8000e82efa4b3b0267ec3b76
-SHA512: 0f1c1cd03ddfe5d367e3abd458de943aa238540ff5b3b4ec933d2456a8fd4702d53ffceb503ef3e7d7093b97e7045c363f1b26cf14b9782c2109efff17a79423
-Description: Lightweight YouTube Enhancer
-Name: YTLite
-Author: dvntm
-Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
-SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
 
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm64
@@ -4690,25 +4433,6 @@ SileoDepiction: https://raw.githubusercontent.com/dayanch96/CallMeMaybe/main/sou
 
 Package: app.catscript.lite
 Architecture: iphoneos-arm64e
-Version: 1.5.2
-Section: Tweaks
-Maintainer: 0x530c<0x530c@gmail.com>
-Installed-Size: 5892
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Conflicts: app.catscript.pro
-Filename: ./file/arm64e/CatScript.1.5.2.arm64e.deb
-Size: 39963946
-MD5sum: ce2ed452d63119996f8d37320dd69de7
-SHA1: b101ee6fc523d1b6836cc645c774bf7b46ad4b73
-SHA256: 9789e74540b1d2054e72cd610253964dd222c503b0b489708af0394192baa99a
-SHA512: 79c3ce3c370005a10132fc48df4cc945797e39df690f1f4aa647614f1de9cca22db77585eab581baa047a9a730fa5451b5151b97961de1e56a99ad33ce8b3334
-Description: An automation framework designed for the iOS platform
-Name: CatScript
-Author: 0x530c<0x530c@gmail.com>
-
-Package: app.catscript.lite
-Architecture: iphoneos-arm64e
 Version: 1.5.3
 Section: Tweaks
 Maintainer: 0x530c<0x530c@gmail.com>
@@ -4779,29 +4503,6 @@ Description: Process Viewer for iOS GUI, updated for iOS 15 , 16 by SXX.
 Name: CocoaTop
 Icon: https://i.imgur.com/TTIm0yH.jpeg
 Author: Domo, SXX
-
-Package: zp.cocoatop64.unject
-Architecture: iphoneos-arm64e
-Version: 3.1.1
-Section: Utilities
-Maintainer: zp, SXX, Domo
-Installed-Size: 504
-Pre-Depends: rootless-compat(>= 0.9)
-Depends:
-Conflicts: ru.domo.cocoatop , ru.domo.cocoatop64 , zp.cocoatop64 , zp.cocoatop64.inject
-Filename: ./file/arm64e/CocoaTop64.zp.3.1.1.arm64e.deb
-Size: 141092
-MD5sum: 5a1bc21b3eddca77aff0d6bff0cf88e2
-SHA1: 06cbbdd5bfa3fb51f7eae3f2d9f45cd15d7799e6
-SHA256: 674e18940f3d49e4dc3236828930cefd3f52946c0cf363203630c3559222e92e
-SHA512: 36626bc7cb9cc096ac7b8a6c32834a91ab132180f49ea60872b50b94bdb4ec114f192a856c5b4d598bf1bf43c80c000ff7e618ed93ccc55fafbb4137f6743137
-Description: Process Viewer for iOS GUI,适配rootless并增加一些小功能.
- - 1.长按图标的插件针对APP更友好
- - 2.此app更适合屏蔽进程类的注入
- - 3.laileld要加的copy给加上(如果是/开头,使用filza打开)
-Name: CocoaTop64.zp
-Author: Domo, SXX , zp
-SileoDepiction: https://rootless.002599.xyz/web/zp.cocoatop64.unject
 
 Package: zp.cocoatop64.unject
 Architecture: iphoneos-arm64e
@@ -5587,45 +5288,6 @@ Author: uz.ra
 
 Package: com.ps.githubweblegacycompat
 Architecture: iphoneos-arm64e
-Version: 1.0.1
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 360
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), firmware (<< 17.0)
-Filename: ./file/arm64e/GitHubWebLegacyCompat.1.0.1.arm64e.deb
-Size: 17696
-MD5sum: dc55c3fe71af3262235a930d721f39a2
-SHA1: 26c1f44e30ff493f575bec3901f51c7232abf20d
-SHA256: 76fa639bbb6fed604a2cccbc96611c34713023a591dc121762c55de31ce0d287
-SHA512: aa757d88f00afa92e6b1a32c365291bd7a3f3733743bfd3411f77f5ffbbd522162fe1d2429b1abaa20ca24fb75b67effa99acc791f2272cfe361cc725f1cf87f
-Description: Make GitHub website more accessible on iOS <17.0
-Name: GitHubWebLegacyCompat
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/githubweblegacycompat.html
-SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/githubweblegacycompat.json
-
-Package: com.ps.githubweblegacycompat
-Architecture: iphoneos-arm64e
-Version: 1.0.3
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 364
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 12.0), firmware (<< 17.0)
-Filename: ./file/arm64e/GitHubWebLegacyCompat.1.0.3.arm64e.deb
-Size: 18096
-MD5sum: a42075c32aee8a63548ac1408d8a441f
-SHA1: d170e566a17019f29e616f7b03f5393c137e8c28
-SHA256: 971854e9e96c728479cbe2691fcbad1d3199e78e0361716bb8d46844982445ec
-SHA512: 159c3534c5f579f72655e14aff71800800e2c909627dcc36c7ab5aede5469db577f1aba024667e11203ce5ba65d2ce64ed8153e4f4d2f0bd3e3635320fc7cb64
-Description: Make GitHub website more accessible on iOS <17.0
-Name: GitHubWebLegacyCompat
-Author: PoomSmart
-Depiction: https://poomsmart.github.io/repo/depictions/githubweblegacycompat.html
-SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/githubweblegacycompat.json
-
-Package: com.ps.githubweblegacycompat
-Architecture: iphoneos-arm64e
 Version: 1.0.4
 Section: Tweaks
 Maintainer: PoomSmart
@@ -5825,26 +5487,6 @@ Author: PoomSmart
 
 Package: com.den.igformat
 Architecture: iphoneos-arm64e
-Version: 1.20-2+debug
-Section: Tweaks
-Maintainer: MrDeNsor
-Installed-Size: 980
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./file/arm64e/IGFormat.1.20-2+debug.arm64e.deb
-Size: 133416
-MD5sum: 15876e405a28fc462d0f8e66dc3180bc
-SHA1: ff215572de5d791ec13600734ab87ce83247b7b8
-SHA256: 20c6e758d344cd4656cecfed283ccc79dcf3d3485935174350424891717f728d
-SHA512: 7e6a74e1c42d7c9fbb4ef0ba5da99060474f4ffed7ed81c45266bb146174860744d54ee6a407b996442da562232b47543b26c22c8de9175076438e058fa5e72b
-Description: Powerful Instagram Tweak
-Name: IGFormat
-Author: MrDeNsor
-Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
-Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
-SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
-
-Package: com.den.igformat
-Architecture: iphoneos-arm64e
 Version: 1.21-2+debug
 Section: Tweaks
 Maintainer: MrDeNsor
@@ -5856,27 +5498,6 @@ MD5sum: 0d26f7c873d02f3ef33dc0e29f57d2b2
 SHA1: 4281a258b1d4650e5109b707c1d6bce49be0bfa6
 SHA256: dde5b26895e527ba1dcae6042cf361332b8ddb735d1efea6c19332d83edc7556
 SHA512: 0fda62961ddd3130339d0d38dc979f700fa69725f92d15c8fd896fbd69525c10a7ba11a3f20d769a80ac04a92fe9736e5585bef421669859eda14630d762e18e
-Description: Powerful Instagram Tweak
-Name: IGFormat
-Author: MrDeNsor
-Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
-Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
-SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
-
-Package: com.den.igformat
-Architecture: iphoneos-arm64e
-Version: 1.71-1+debug
-Section: Tweaks
-Maintainer: MrDeNsor
-Installed-Size: 1192
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./file/arm64e/IGFormat.1.71-1+debug.arm64e.deb
-Size: 174752
-MD5sum: 6cd5e8cd73b942ba6953f51f28c14ca0
-SHA1: eb3af69a50c7cbd1dc303b6a53425d505c6bd74f
-SHA256: e096ee4679e60ba78ce75f5a4c729e72cb4700af37b961c74552940243429471
-SHA512: ef09968b7d70112237d6b8bbe57a1c3c9753f4dab2de3ba3cfca1ec5d3ddce6ea80b1f1bfbe5e0dff6f02054d14ef41cb23add00f6327729b8f2716a51addf07
 Description: Powerful Instagram Tweak
 Name: IGFormat
 Author: MrDeNsor
@@ -6045,26 +5666,6 @@ SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/injectionfounda
 
 Package: com.ipapplus.instarab
 Architecture: iphoneos-arm64e
-Version: 1.2.0
-Section: Localizations
-Maintainer: ipapplus
-Installed-Size: 240
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./file/arm64e/Instagram(ArabicLocalized).1.2.0.arm64e.deb
-Size: 35088
-MD5sum: 5ef968564ab10e3e09296997e00f972a
-SHA1: f1e821458ceec116410be0f218e9f714a1f85691
-SHA256: 5c97806911702367cde40d4e8ac0557eeaf2bf9589f055935de367db889d7d74
-SHA512: 1bd5cbda0832598dab6a97aa92beaa49067de7d332fe2376b1bd599b60058926b0312607ace522718eab9329a44cb1a5aed02a554de95ad1d2bc5cf6060ce2b2
-Description: Arabic language for Instagram, translated with contribution from @r22i0.
-Name: Instagram (Arabic Localized)
-Author: ipapplus
-Icon: https://i.imgur.com/ffrKJBH.jpeg
-Header: https://i.imgur.com/xAIYmyc.jpeg
-
-Package: com.ipapplus.instarab
-Architecture: iphoneos-arm64e
 Version: 1.4.0
 Section: Localizations
 Maintainer: ipapplus
@@ -6082,42 +5683,6 @@ Name: Instagram (Arabic Localized)
 Author: ipapplus
 Icon: https://i.imgur.com/ffrKJBH.jpeg
 Header: https://i.imgur.com/xAIYmyc.jpeg
-
-Package: com.ipapplus.instarab
-Architecture: iphoneos-arm64e
-Version: 1.1.0
-Section: Tweaks
-Maintainer: ipapplus <Telegram@ipapplus>
-Installed-Size: 236
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./file/arm64e/Instarab.1.1.0.arm64e.deb
-Size: 33200
-MD5sum: 10e82b630ffb3e82083626143926f1a4
-SHA1: 7355fad50d9ceb1c8245262d8eb6b079c37af292
-SHA256: 35d7d21dae1ff97c0f6dab90d2051436fb9c2d78f881f54a88e80a8fb51d4aca
-SHA512: b41a061b0de03d412083dd34175a1422d1e56fdd81046b7a36b6fd419ff7c2a12b7df4b5610ded5e713f0d524171f25de68f233843bdde00536449d06ea39946
-Description: arabic language for instagram
-Name: Instarab
-Author: ipapplus <Twitter@ipapplus>
-
-Package: com.ipapplus.instarab
-Architecture: iphoneos-arm64e
-Version: 1.1.1
-Section: Tweaks
-Maintainer: ipapplus <Telegram@ipapplus>
-Installed-Size: 232
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./file/arm64e/Instarab.1.1.1.arm64e.deb
-Size: 32908
-MD5sum: 79b0368bd2ad809a7909490d4b3e6382
-SHA1: cb4693e31faf6091f4f030a1af809760d122896b
-SHA256: 13f6d06d6b0bc5599f46fd6f13d7412167702341ed64a8c3b41f3ae77052dcc8
-SHA512: 05c739123fbca4c6a8f1cd9d6a0a0b3596ac84957336a29b42254e2ece69681f9f02b6c3c0445a24a0eaa69a4827da01fa2d2c0e870e656bb61c9d613d986dcf
-Description: arabic language for instagram >> TrollFools link https://a7m.dev/file/Instarab.1.1.1.zip
-Name: Instarab
-Author: ipapplus <Twitter@ipapplus>
 
 Package: com.nathan.internalstoragesettings
 Architecture: iphoneos-arm64e
@@ -6408,24 +5973,6 @@ Description: Simple tweak to remap the long press of the power button on notched
 Name: LockButtonX
 Author: Nightwind
 Icon: https://github.com/NightwindDev/LockButtonX/blob/main/Icon.png?raw=true
-
-Package: com.den.locktouchx
-Architecture: iphoneos-arm64e
-Version: 1.2-18+debug
-Section: Tweaks
-Maintainer: MrDeNsor
-Installed-Size: 200
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./file/arm64e/LockTouchX.1.2-18+debug.arm64e.deb
-Size: 16360
-MD5sum: 933e5d5012067bd453a24e11aec13f68
-SHA1: 24e36ffc12d595b234d7cf5d74f2bc1d9274f196
-SHA256: 02f7a953cd40f1dd2087a6e1bcc8930dbd503e79e88f6ff93a2447b4765fba45
-SHA512: 81a54cabea87c23b1f545efc8b7a91a8e8a4f030da0e4c3f79373962bb5bc84928e24f2fcf21b6c28c847f2851ad07bd9060953d172f408da36ab50d99444a71
-Description: Adds Touch ID authentication to apps, just like the security features in iOS 18
-Name: LockTouchX
-Author: MrDeNsor
 
 Package: com.den.locktouchx
 Architecture: iphoneos-arm64e
@@ -6880,26 +6427,6 @@ Icon: https://i.imgur.com/7xF07T9.jpeg
 
 Package: com.f0u4d.onlinenotify
 Architecture: iphoneos-arm64e
-Version: 3.4.14
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 684
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.12)
-Filename: ./file/arm64e/OnlineNotify.3.4.14.arm64e.deb
-Size: 184004
-MD5sum: 15df5edcc6b63d2c8989f993fe1ec215
-SHA1: 9ee3d0d289eab3e7fb966970c48c165975c6dd16
-SHA256: b9037505b913c19959e4f2ddb4c6a33bd2d80e9d8fcb9a7a40847bec3f243c45
-SHA512: 6bd4e9906f396395a35329d2fd60f53fb7dbe70e7e5099425de0fb20ec1ee6e7ab8d76a9c2c2f19e463079e9c5fb0145676a325f195e903c7c1150eb78d99767
-Description: Track your friends on WhatsApp Messenger!
-Name: OnlineNotify
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
-Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
-
-Package: com.f0u4d.onlinenotify
-Architecture: iphoneos-arm64e
 Version: 3.4.15
 Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
@@ -7229,27 +6756,6 @@ Icon: https://invalidunit.github.io/sileodepiction/Default/image_fix.png
 
 Package: com.ps.recordpause
 Architecture: iphoneos-arm64e
-Version: 2.0.4
-Section: Tweaks
-Maintainer: PoomSmart
-Installed-Size: 168
-Provides: org.thebigboss.recordpause, com.spicat.recordpause
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, firmware (>= 14.0), firmware (<< 18.0)
-Conflicts: org.thebigboss.recordpause, com.spicat.recordpause
-Replaces: org.thebigboss.recordpause, com.spicat.recordpause
-Filename: ./file/arm64e/RecordPause.2.0.4.arm64e.deb
-Size: 9828
-MD5sum: b657b17a4fe87cb15d2f26541c819324
-SHA1: f1110970d578dccb9cc09912317b921ea9623acd
-SHA256: 999e999ad2f63da24a7e6b9a54ba3bfb0db6c8ae718ddc8b85c37e096e9ebcd3
-SHA512: b8815ce555925fb60df45ff94ee4660fed6cb8ebe9c67fcd40b02d69505fdf174663d6db354dfde6a14ae1785da273fff4524b2ccd1a80b8d74bfd71e13a5607
-Description: Pause/resume video recording in iOS Camera app.
-Name: RecordPause
-Author: PoomSmart
-
-Package: com.ps.recordpause
-Architecture: iphoneos-arm64e
 Version: 2.0.7
 Section: Tweaks
 Maintainer: PoomSmart
@@ -7306,27 +6812,6 @@ MD5sum: 303c265ffbc67e77baeea6da3955b201
 SHA1: 49e81520de7831528779b8e2bd19be3471b6bde2
 SHA256: e7d225c9831f17b6b4a9af3ff6ccd8f1461a3c27348e770fda57438185cbd970
 SHA512: ecd13b55b83117bba3ead55c2894b6bb11eb503698058b7f0e507c0ec47d46b06885af0590c71cbd1baa14f7cc5299bbddb662c5484af82ff05e5c0fd517c049
-Description: The all-in-one tweak for Instagram
-Name: Regram for Instagram
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
-Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
-
-Package: com.fouadraheb.regram
-Architecture: iphoneos-arm64e
-Version: 1.0~b24
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 11120
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
-Filename: ./file/arm64e/RegramforInstagram.1.0~b24.arm64e.deb
-Size: 3065448
-MD5sum: 49b611af31a095aa43f9ec71ee7fff69
-SHA1: 592be8297f3708ba51d1e6f4bf2310139fe17ab4
-SHA256: 175fd9680c84b47f8c3c2f14e33d24d1c1071f51950430d6c322ef2436a5d9ee
-SHA512: a70d6c98c4ebcfbb69c0fd00342eb050c305bd509e2dcad6d83b5e762d6202efd84473e08e67acde9636d6db34495d7d7b9390d557d761c25b78c045c8f0ed10
 Description: The all-in-one tweak for Instagram
 Name: Regram for Instagram
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -7487,24 +6972,6 @@ SHA512: e5ef82d0c69685b4ed93468fc6fb3e8469fc872eb19a1dcb402b9033e592509919c133ad
 Description: A full-featured tweak for Messenger.
 Name: SNMessenger
 Author: NguyenASang
-
-Package: com.0xkuj.safarix
-Architecture: iphoneos-arm64e
-Version: 1.9.7
-Section: Tweaks
-Maintainer: 0xkuj
-Installed-Size: 908
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader, firmware (>= 15.0)
-Filename: ./file/arm64e/SafariX.1.9.7.arm64e.deb
-Size: 303348
-MD5sum: 037f151804f2af5b0c211b8b4d27f916
-SHA1: f07c02addd50c743788619918557e4c4536dba1d
-SHA256: bfc88216c8131be54c41f72ea3442306b62bddedaeaaf3c377008cadfb693665
-SHA512: f9d384e759e7779d10541610a68fa124caec941441b0558e57fc0156c9046fb7f63ec796710cdf0ec4895c9976cb5f639788bc38d690c051e18ba954c16e7f1f
-Description: Safari Essential Features
-Name: SafariX
-Author: 0xkuj
 
 Package: com.0xkuj.safarix
 Architecture: iphoneos-arm64e
@@ -8060,26 +7527,6 @@ Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
 
 Package: com.f0u4d.stalky
 Architecture: iphoneos-arm64e
-Version: 4.1.38
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6760
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.16)
-Enhances: WhatsApp
-Filename: ./file/arm64e/Stalky.4.1.38.arm64e.deb
-Size: 1578276
-MD5sum: 292b5f2d9abd8b3aaf7c0f65ab9b7391
-SHA1: 12baa8531b149231c2638604d67f8d54f97eee3b
-SHA256: 558e7c07c2ab2a9909212111a3bb6b966835f6a2292f95672e60f9f1cf683f96
-SHA512: 1543af266c964d60a283203361d7991007de00555f1f7af99b0a9f2ca9acaa8dfc878929dba9d7b8110cc51b51a19e76a3c09eb133fe4a8e6531aeb6a2e37174
-Description: Track & download your contacts latest profile & statuses updates on WhatsApp
-Name: Stalky
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
-
-Package: com.f0u4d.stalky
-Architecture: iphoneos-arm64e
 Version: 4.1.39
 Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
@@ -8285,25 +7732,6 @@ Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
 
 Package: com.foxfort.translomatic
 Architecture: iphoneos-arm64e
-Version: 2.18.29
-Section: Tweaks
-Maintainer: FoxfortMobile
-Installed-Size: 5112
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.4.13), com.opa334.altlist
-Filename: ./file/arm64e/Translomatic.2.18.29.arm64e.deb
-Size: 1185084
-MD5sum: ba2fc100456ec2f5e6304c17a78bfbbe
-SHA1: 5a29979ff225a33c5c46eaabdc8a6f2e1052358f
-SHA256: e03c5efc237da792f257bb1c728560fdd06d6b484ab7972118ce1ffd6ddb1e66
-SHA512: 98befdc8422d732ae4b9c2ff1a985d4fc5b3eafb318fb6fb894d1bec916b05b3317df6ad2f910922ee47f936035ce69f67bacf41a2ea4c16c197d7c042feaed8
-Description: Quickly translate any text
-Name: Translomatic
-Author: FoxfortMobile
-Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
-
-Package: com.foxfort.translomatic
-Architecture: iphoneos-arm64e
 Version: 2.18.31
 Section: Tweaks
 Maintainer: FoxfortMobile
@@ -8361,26 +7789,6 @@ Name: TrollPad
 Author: khanhduytran0
 Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
 SileoDepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
-
-Package: wiki.qaq.trapp.jb
-Architecture: iphoneos-arm64e
-Version: 3.2-609
-Section: Applications
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 58524
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./file/arm64e/TrollRecorderJB.3.2-609.arm64e.deb
-Size: 14334220
-MD5sum: 2f93b7a139573ca65a8ebfe03bde6452
-SHA1: 518242019ee7166aa5f127aa081b131f6a1607b9
-SHA256: 79bd87fddcaaf63853387f68823d90b17b28cf89a7d95bdf44cfd6ef4869e869
-SHA512: 4867eabee658465bf0f91b9efecde52bfd8ed17f17c5b886a59af7a422df4821e624f2ecbb4426cbda29889e3bfd128e3ae9f16a94291f86bc289bf41b5a7168
-Description: Record your phone calls like never before.
-Name: TrollRecorder JB
-Author: Lessica <82flex@gmail.com>
-Depiction: https://havoc.app/depiction/trollrecorderjb
-SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
-Icon: https://media.havoc.app/6669b3d5f0419252d3535a28
 
 Package: wiki.qaq.trapp.jb
 Architecture: iphoneos-arm64e
@@ -8443,25 +7851,6 @@ dev: CreatureSurvive
 Depiction: https://creaturecoding.com/?page=depiction&id=tweaksettings
 SileoDepiction: https://creaturecoding.com/sileo/depiction/?package_id=tweaksettings
 Icon: file:///var/jb/Applications/TweakSettings.app/icon_large.png
-
-Package: com.level3tjg.twitchadblock
-Architecture: iphoneos-arm64e
-Version: 0.1.4
-Section: Tweaks
-Maintainer: level3tjg
-Installed-Size: 140
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./file/arm64e/TwitchAdBlock.0.1.4.arm64e.deb
-Size: 18800
-MD5sum: 0bc3404783e5d90d64776cc0db911936
-SHA1: 663690eecf823522b98e61408f91a3c29db361e0
-SHA256: 04cc3a56f4c6fbfba777b5a717f72777d21e4f9e4de2af93741535851dd5f275
-SHA512: 571d0e5a2bd405a5628ceb6756f2cfdf878a9a1cdb268bc864a49cda0984c7e4e7ee3bf1311c6c1797c26438d4fc7acee2512ce6f5cb2fbd085493ca27a5cc50
-Description: Block Twitch video ads
-Name: TwitchAdBlock
-Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.twitchadblock
-Author: level3tjg
 
 Package: com.level3tjg.twitchadblock
 Architecture: iphoneos-arm64e
@@ -8762,66 +8151,6 @@ Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundl
 
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm64e
-Version: 1.2.64
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6424
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.14)
-Filename: ./file/arm64e/Watusi3forWhatsApp.1.2.64.arm64e.deb
-Size: 1917032
-MD5sum: d0ed43cf64f0a8ddf9833dfcbc6a3524
-SHA1: 41f4ebd660bd85f64da3c6a991b19525efee8934
-SHA256: 1bf6b740bafbc1a5b78023344c84c0eb295d32f16cbb511bf4cf416687ec94d0
-SHA512: 112766799c0a0cd6ad6fb4cdb1a9df823ab45ee13496ebb5b000d90fab903cfe0b8c728f07ab735906c5904756027b52e132df74378df290049997509faf01b7
-Description: The all-in-one tweak for WhatsApp Messenger
-Name: Watusi 3 for WhatsApp
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
-Author: Fouad Raheb <support@fouadraheb.com>
-Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
-
-Package: com.fouadraheb.watusi3
-Architecture: iphoneos-arm64e
-Version: 1.2.65
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6424
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, com.f0u4d.watusitools
-Filename: ./file/arm64e/Watusi3forWhatsApp.1.2.65.arm64e.deb
-Size: 1917480
-MD5sum: 388149e49d97cdceadc8f5936a6ad3d4
-SHA1: d78215b6a144e1d59dc334b64073ae8e72de9cde
-SHA256: a3b5de7cc8d1f3451782f86d6027a54966f02e98709184d6e0288b82b80c852c
-SHA512: 606d7caac0f3f5e2bfe6ecc2f040a5b01b8c5a612860572ce39e9ebdd65765365194245e70e0714d449dfc0dc33ec2185c682760dca864bf706ec83ac648f7f0
-Description: The all-in-one tweak for WhatsApp Messenger
-Name: Watusi 3 for WhatsApp
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
-Author: Fouad Raheb <support@fouadraheb.com>
-Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
-
-Package: com.fouadraheb.watusi3
-Architecture: iphoneos-arm64e
-Version: 1.2.66
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 6424
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate, com.f0u4d.watusitools
-Filename: ./file/arm64e/Watusi3forWhatsApp.1.2.66.arm64e.deb
-Size: 1917440
-MD5sum: b57ed0c938fa6bc77d9b54d9b0fc82af
-SHA1: 931631ce8667f132a5e68d86e246948e19dd0fb2
-SHA256: a8fc85b69797d21865698fd2fa2fce66ce2d257faa47160d3601e08f45db2d42
-SHA512: 54fb743d7dea42a7b9aa2aa9c098869cc355fb313aef2ad557cd9a90f1ebad3de83bbccf0e52ff4bc744ec4a72d416ca7ce932b92ed75271b0d2267c8bf16498
-Description: The all-in-one tweak for WhatsApp Messenger
-Name: Watusi 3 for WhatsApp
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.watusi3
-Author: Fouad Raheb <support@fouadraheb.com>
-Icon: file:///Library/Application Support/Watusi/Resources.bundle/Settings.bundle/WatusiSettingsLogo@3x.png
-
-Package: com.fouadraheb.watusi3
-Architecture: iphoneos-arm64e
 Version: 1.2.67
 Section: Tweaks
 Maintainer: Fouad Raheb <support@fouadraheb.com>
@@ -8853,42 +8182,6 @@ MD5sum: a0b4765bb057e61c8eacf0adda0ece31
 SHA1: 31539bed357ba780c6a292d5750c1cf03bcdc969
 SHA256: 78303766a949d423f3b6a7350168afdf77e9e3c00e948fa35ff6a53c4ae5b9cb
 SHA512: 89bdc22c6875899921e7da46c81255a5b609946747ec67177652c6e6cebb13154f1132d9cda4b8e9ca12311e6d0e653b549cd472380e4f1c7e16d57275229a18
-Description: Library for Watusi, Regram and other tweaks
-Name: WatusiTools
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
-
-Package: com.f0u4d.watusitools
-Architecture: iphoneos-arm64e
-Version: 2.5.14
-Section: Development
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0)
-Filename: ./file/arm64e/WatusiTools.2.5.14.arm64e.deb
-Size: 4641108
-MD5sum: a46a3aa147483988c005ea1a640fd113
-SHA1: 3c44f9ea236beae27665c7e353cf8933d3d77b1b
-SHA256: c53f9f975d7d878ad1f6064feba05dab22417538ac573bfe4d0da87bf40e2ca3
-SHA512: f484d120601ddc0f68bfff694c3e4cbccbf05a226f92bf26c98602c6224070b79c1da44fdabfbb4723c61b4ec297cb9ad73c9758c1c83b5decf9f746d8f266a3
-Description: Library for Watusi, Regram and other tweaks
-Name: WatusiTools
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.watusitools
-
-Package: com.f0u4d.watusitools
-Architecture: iphoneos-arm64e
-Version: 2.5.15
-Section: Development
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0)
-Filename: ./file/arm64e/WatusiTools.2.5.15.arm64e.deb
-Size: 4638140
-MD5sum: 34de2a12701ce0089bfd9b5f06622490
-SHA1: bb183e91298c0e948ab631ca51fbbf110df8953a
-SHA256: 575facedb6eb9e153f7e6ba9a9f1b148a53110d6f3df8592f632fd66f7f47cde
-SHA512: 736e5a34683102ed62ee4b9ea0c4857e40ce3985c045c5d5e1a1dd60e033bcdd90e7ec26002972d2fc1444f444b9a416c35f08e84c24b10bad1b769630ab0e9f
 Description: Library for Watusi, Regram and other tweaks
 Name: WatusiTools
 Author: Fouad Raheb <support@fouadraheb.com>
@@ -8991,25 +8284,6 @@ SHA512: 847a0f2057153d79841fe60cbb9a64f8e2db18cbe7652d10bab2328009b7116f4124d1cf
 Description: Enable native darker dark mode on YouTube.
 Name: YTDarker
 Author: PoomSmart
-
-Package: com.dvntm.ytlite
-Architecture: iphoneos-arm64e
-Version: 5.1
-Section: Tweaks
-Maintainer: dvntm
-Installed-Size: 16344
-Depends: mobilesubstrate
-Filename: ./file/arm64e/YTLite.5.1.arm64e.deb
-Size: 6185280
-MD5sum: 61a2f31fb889942380af0ad16247499e
-SHA1: 9450833dc93b7c1b8e84e68ddc5e662552f9334e
-SHA256: 9ebaeb56b2b848262d7d0ce2fe00c692bdb87fceeb26b367e5026b3767a48740
-SHA512: 9eb33bb5d8ad5408d2daccb5c1582e4c3b9c20b163ba5815d250840b44ad134c738646a6e2637618af3dcc5409f6e6d6502bf1194011be3af2f64cdd54bff58f
-Description: Lightweight YouTube Enhancer
-Name: YTLite
-Author: dvntm
-Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
-SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
 
 Package: com.dvntm.ytlite
 Architecture: iphoneos-arm64e
