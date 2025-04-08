@@ -4673,6 +4673,25 @@ Description: Multiple containers for one application!
 Name: Crane Lite
 Author: opa334
 
+Package: com.opa334.cranelite
+Architecture: iphoneos-arm64e
+Version: 1.3.16-4
+Section: Tweaks
+Maintainer: opa334
+Installed-Size: 2184
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=11.0), mobilesubstrate, preferenceloader, com.opa334.altlist (>=1.0.5), com.opa334.libsandy, com.opa334.libundirect (>=1.1.4) | firmware (<<14.0)
+Conflicts: com.opa334.crane, com.opa334.crane13lite, com.opa334.crane13, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./file/arm64e/CraneLite.1.3.16-4.arm64e.deb
+Size: 909038
+MD5sum: 1fb29a1dbb5c6f0e485df79b81ce0461
+SHA1: 18b28b414e72ca6a6beefba271d6829dfd3cd120
+SHA256: 5da14c8c481a6b20d2dd8062c34527188d8b4eeca19f904854b2526dc7310c33
+SHA512: 546e8cbcf45b7361c5dd71e3337a7c6e432dc766f7abbc035447f78afe3ec178071fdb4af0ba766c264d8cdd501b80bf2b497898809d08d33fbf72612b728646
+Description: Multiple containers for one application!
+Name: Crane Lite
+Author: opa334
+
 Package: com.ryannair05.cylinderremade
 Architecture: iphoneos-arm64e
 Version: 0.0.3-beta
@@ -6893,6 +6912,28 @@ MD5sum: 4db1f4e640f67bb95f91e8cd15f6f3b0
 SHA1: 2823fe3de5f4993a4a9555fd5d4563217db29a8f
 SHA256: 0398fc381a73e19fc29237200c6d1ac2365cca86e31abcbcd2a58c6021ce0a22
 SHA512: 575935550a7833b1c669399b634af07fccf046fd871ddb1b913ae1a383de36f7a1c0475aa3dc016b5db5d8c357794b9036222d741ee74300769c5a954846576a
+Description: Save posts and view stories anonymously and do much more
+Name: Rocket for Instagram
+Author: Rocket App
+Depiction: https://apt.alfhaily.me/depiction/4EYOXC
+SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
+Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
+
+Package: me.alfhaily.rocket
+Architecture: iphoneos-arm64e
+Version: 3.8.32
+Priority: optional
+Section: Tweaks
+Maintainer: Rocket App <support@getrocketapp.io>
+Installed-Size: 6620
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 8.0), mobilesubstrate
+Filename: ./file/arm64e/RocketforInstagram.3.8.32.arm64e.deb
+Size: 4417486
+MD5sum: f0b1315d16564339d0c71c2286dcd8fc
+SHA1: 9dc910650a16a961a32dcf52deda28c688ba822d
+SHA256: 7b1526951ea52b7ee4043980ecd52c384c4cd514d2446ea919a6d0140183910f
+SHA512: d36d11dd0fa95845033c78fd81a9a1455a299e3fe8f7bf7a7a663b03669cd3e8f2ced89a3eab8575a04fed279d8ae6bb88efaea29108a8006bf42dc2b6c9268c
 Description: Save posts and view stories anonymously and do much more
 Name: Rocket for Instagram
 Author: Rocket App
