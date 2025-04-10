@@ -2910,26 +2910,6 @@ Icon: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_logo.png
 Header: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_header.png
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal.json
 
-Package: com.den.twigalaxy
-Architecture: iphoneos-arm64
-Version: 1.3-19+debug
-Section: Tweaks
-Maintainer: DeNsor
-Installed-Size: 596
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./file/arm64/TWIGalaxy.1.3-19+debug.arm64.deb
-Size: 87236
-MD5sum: d2d700b930b8ed7e4de9516ec7a995fd
-SHA1: ea520bea279c740dd2b34df4417b3c4a4ee1b0b4
-SHA256: 94124db048551403e275b7c340d49b5f30855a2a1f7f24331ff9d56bf384dbf6
-SHA512: 33cedd9cc6f6a8331ea8d364dbabfa8bdc9a2db20d3ff39ba27e384ede4b38414fbd47898080350c2184991310de2fc86605d613b888b7f2e31b84a4483e8231
-Description: Make Twitter Better!
-Name: TWIGalaxy
-Author: DeNsor
-Icon: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_logo.png
-Header: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_header.png
-SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal.json
-
 Package: com.lizynz.telegaicons.rootless
 Architecture: iphoneos-arm64
 Version: 1.3
@@ -5572,11 +5552,11 @@ Installed-Size: 1308
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./file/arm64e/IGFormat.1.72-191+debug.arm64e.deb
-Size: 194896
-MD5sum: c13c9b30309c072fc48ed05b874afcad
-SHA1: b5174c305c730ca0aa73d46c789ed7d58f6a6225
-SHA256: 01a2556062c4043c408e3c2f28c76316528cc255d7b5b6288913ea1bb2ba514f
-SHA512: b3c035b5813bf10d188a71fa63ac388b5b11035681abd57f67dc507bd7464cf02591a20dd463ce0df763ffc3d19d455b3d7ed7b964ffe9d5835523deda4699ec
+Size: 293346
+MD5sum: a41945b0ccb6caa1928506b6fcd3dd6e
+SHA1: 1a8087dd3b4b5fca0d0b3270fc9fbae68011bee7
+SHA256: 62bd659f68c8c9058d60630dfb7ce2146080afbad89fa6db8e9b9f632a28fb2d
+SHA512: 78ae67557b4d1a376be3bd489b7e3398f7d80db491a936a2239d788d5d9d442e014a4c578910d8022035f62079b1f0180df57d945fadffa9e5164bfd5a3a8155
 Description: Powerful Instagram Tweak
 Name: IGFormat
 Author: MrDeNsor
@@ -6034,18 +6014,18 @@ Icon: https://github.com/NightwindDev/LockButtonX/blob/main/Icon.png?raw=true
 
 Package: com.den.locktouchx
 Architecture: iphoneos-arm64e
-Version: 1.3-15+debug
+Version: 1.3-18+debug
 Section: Tweaks
 Maintainer: MrDeNsor
 Installed-Size: 240
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./file/arm64e/LockTouchX.1.3-15+debug.arm64e.deb
-Size: 22940
-MD5sum: d525c671a71351a032fff1375021f551
-SHA1: 523a1c769f3d454d15b393809458876b34f763ea
-SHA256: a1e5ee07d5fe0c7e05f73816b77175feee09a87bba9c791d02072a9cb1116304
-SHA512: b5c5cadfdde09a12f3aa9330fa9163d19ef63ce9cb61865a829c0a2fb169e9346e0a033d0a1c21ded86bc90d42ac816cf61d196f76e282baecc83dec0fc9eec6
+Filename: ./file/arm64e/LockTouchX.1.3-18+debug.arm64e.deb
+Size: 30040
+MD5sum: 4fc0ab0caa105639d096d5aea2c4c19e
+SHA1: 92b65df8476eb1e64f1fed4749004fe4e7732e9e
+SHA256: a818eaa53b02cf63abd81c9074d2261f582dac82961228f85283f3cac2f81af6
+SHA512: c8db9e67ec29fddee045e4f90208e34b88ec946cbaea0da882baabe0da5ad69721594760407109288b935f46fde820b51301bb8a39ebce6fe3cec99faab6480f
 Description: Adds Touch ID authentication to apps, just like the security features in iOS 18
 Name: LockTouchX
 Author: MrDeNsor
@@ -7680,27 +7660,6 @@ Author: ARX8x
 
 Package: com.den.twigalaxy
 Architecture: iphoneos-arm64e
-Version: 1.2-36+debug
-Section: Tweaks
-Maintainer: DeNsor
-Installed-Size: 560
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./file/arm64e/TWIGalaxy.1.2-36+debug.arm64e.deb
-Size: 76580
-MD5sum: 3117bfdbfc096bd2db740ff88256c227
-SHA1: 8df006efa262cc65e96687c1f865cd11275c0192
-SHA256: ec7886dfe408fcf8bab56935dea5a2cc73c06eb1addbbc57f9c560756d60d5a7
-SHA512: 0873854556272d147e9dc3aac8b9b437da0984f0245ed6963a874d551cf01407bc039d608e6067ff90f7fb957326ab8256779e4f2fd8052b52ef8196770077e8
-Description: Make Twitter Better!
-Name: TWIGalaxy
-Author: DeNsor
-Icon: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_logo.png
-Header: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal_header.png
-SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/twigal.json
-
-Package: com.den.twigalaxy
-Architecture: iphoneos-arm64e
 Version: 1.3-19+debug
 Section: Tweaks
 Maintainer: DeNsor
@@ -7708,11 +7667,11 @@ Installed-Size: 596
 Pre-Depends: rootless-compat(>= 0.9)
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./file/arm64e/TWIGalaxy.1.3-19+debug.arm64e.deb
-Size: 124616
-MD5sum: a9876e60af6e5da489250bcd31328bb2
-SHA1: d60776c9cb4a1e91e9e36e20d2eff7577184c682
-SHA256: 4f572134ba746a6efbc454d3ec6362694985edf53481655cfdd3c34d06bad2e3
-SHA512: 288b4aca2419986e7ebe59f1c125d1382756867bcfc1f1678eabfe1ab1a56cc39e9d30f5452fdfe709ed25f7ae7770af5563fd369b6201f29904eed00453fa17
+Size: 124614
+MD5sum: d8df4d6b143614c2022370a9f2775a6c
+SHA1: e510ed5aa13b90613963b12394819e1b00268eb0
+SHA256: 310d02a86d61b2e7962457fc2f7f3cce695a8bce981b4bc7cde46380d146cf07
+SHA512: 087eb3d479ecefbf8eeed7aca3cb80cd8d73e4e8715268c081db5ccced1abd7bd12747813e9669236567def7744f5793ceed5448c6dad303810f5ba053075017
 Description: Make Twitter Better!
 Name: TWIGalaxy
 Author: DeNsor
@@ -8068,6 +8027,27 @@ Author: NoisyFlake <support@noisyflake.com>
 Name: Velvet 2
 Icon: https://img.chariz.cloud/icon/velvet-2/icon@3x.png
 Depiction: https://chariz.com/get/velvet-2
+
+Package: com.den.vibetok
+Architecture: iphoneos-arm64e
+Version: 1.2-11+debug
+Section: Tweaks
+Maintainer: DeNsor
+Installed-Size: 616
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm64e/VibeTok.1.2-11+debug.arm64e.deb
+Size: 126892
+MD5sum: 13f4c2335d5d40e5db221f9d16d154c3
+SHA1: 5c3858cf3ed20180cf3843315d7ae6ae0121bd8b
+SHA256: 09f845df714d67815317f0eb7e3c95e9171408230fd02fc5252adb581bf4b58f
+SHA512: 6fb0fba5abf97bb4a48513898f7fb4d935e7269b4931d1e32d0220f41cd077ad164581e7db52ebfe6d42f1b0320039b9596a2616d236ae1dfbe0c675a004bf93
+Description: Make TikTok Better!
+Name: VibeTok
+Author: DeNsor
+Icon: https://github.com/6gr8/IGFormat/raw/main/VibeLogo.png
+Header: https://github.com/6gr8/IGFormat/raw/main/VibeLogo2.png
+SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/vibe.json
 
 Package: com.level3tjg.visibleapps
 Architecture: iphoneos-arm64e
