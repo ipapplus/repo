@@ -1770,11 +1770,11 @@ Section: Tweaks
 Maintainer: iBreak <ibreak2019@qq.com>
 Depends: mobilesubstrate
 Filename: ./file/arm64/HideSeparator.1.9.2.arm64.deb
-Size: 8032
-MD5sum: 92e439c69def7bd0cff3a39be8196e09
-SHA1: ea3e2fb3464652ff059f906200f153586a2a386c
-SHA256: 7be8edb166556b41a411184de16da91e7cacde75d91b8d16e194cb38b535c9e0
-SHA512: 7c76db28557a3eb2ea3de4c324427ba05b81ef76aef6d0882770656f9b1f1eb238b662bf1aa2e11deedbab6ff0ce79759fa60f639eff7fd914d63d2b988e0b4b
+Size: 7568
+MD5sum: 20600b8dfd0f0a0fdc15589567bbe5bb
+SHA1: 9fdcfc09a0955e322f20818132fb4c5a90744f81
+SHA256: 2ea59f910d0ddcb312d84efc0855849c946603f1e2d8a6e4d292c4f7eefdf0c5
+SHA512: e2f881e9fd7ee287f283c736e00c05bd52a7c60fd220831233ea5195a86e19bf0a4204bc3ebc4105a16f799bd5d137380eda63447915a56fc0fbd39f214729c6
 Description: Hide separators system-wide  (including third-party Apps)
 Name: Hide Separator
 Author: iBreak <ibreak2019@qq.com>
