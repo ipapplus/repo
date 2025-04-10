@@ -247,6 +247,22 @@ Description: An awesome MobileSubstrate tweak!
 Name: ESignAlert
 Author: dvntm
 
+Package: com.yourepo.ibreak.hideseparator
+Architecture: iphoneos-arm
+Version: 1.9.2
+Section: Tweaks
+Maintainer: iBreak <ibreak2019@qq.com>
+Depends: mobilesubstrate
+Filename: ./file/arm/HideSeparator.1.9.2.arm.deb
+Size: 7988
+MD5sum: 8d9fa3d2412f7c9c5b1801e4ee943d02
+SHA1: b8d0455594d0e2c1054b99bff19386c614044cf4
+SHA256: 63994281e744719458d7922f1a0025d51b31e9e2cac623e725aca2b657c6bccf
+SHA512: 84eddb6e1bc911a3adc710de1cfa34e12ab0d07ccac37bd1496db038ca4f68c8de5ab27a2de678f371ce522c722a883798a4186af75c361976768d506c4c1130
+Description: Hide separators system-wide  (including third-party Apps)
+Name: Hide Separator
+Author: iBreak <ibreak2019@qq.com>
+
 Package: com.twickd.ray-delvalle.inevitable
 Architecture: iphoneos-arm
 Version: 0.7.4
@@ -802,6 +818,39 @@ SHA512: 4fdfe7371497fa51ce291a78948195904f3797eb7b1d36f2d7a72295d74db5301e5d7f24
 Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
 Name: appstoretroller
 Author: Mineek
+
+Package: com.no5up-kanji.librelic
+Architecture: iphoneos-arm
+Version: 2.1.1
+Section: Development
+Maintainer: no5up + Kanji <ipodtouchdemohammed313@gmail.com>
+Depends: mobilesubstrate (>= 0.9.5.000)
+Filename: ./file/arm/librelic.2.1.1.arm.deb
+Size: 6672
+MD5sum: 2d129903ba0266cfb01e31caad16bc3b
+SHA1: 4e2f36ccabfe894fcac4afe4299237afa33be279
+SHA256: f48b54229304ec028c89d6d4e5992b7a7fdd65ad8f72682424b7a2502a8c51b6
+SHA512: af996ed261006ece4191fe72d6637fc68414bc1e1549acbfbc40aebe7ca40ace00f6838c6b97f5b3c1cd29f86a5b1ba5f9a88e3c949ec94106a93dfae000ce0e
+Description: library for Snapchat hooking
+Name: librelic
+Author: no5up + Kanji <ipodtouchdemohammed313@gmail.com>
+
+Package: com.no5up-kanji.relicloader
+Architecture: iphoneos-arm
+Version: 3.3.3
+Section: Development
+Maintainer: no5up + Kanji <ipodtouchdemohammed313@gmail.com>
+Depends: mobilesubstrate, com.no5up-kanji.librelic
+Conflicts: com.wyattgahm-kanji.shadowx
+Filename: ./file/arm/relicloader.3.3.3.arm.deb
+Size: 321292
+MD5sum: 60495efc730c2d6d0710e086d1143f0a
+SHA1: 9621a32adac7078c42d16335c2b02e01eadaf13c
+SHA256: d718b37c448366a835e104d84b3a885059ae2fc1c90d91df11820bc5a82411e6
+SHA512: 68801c04e08ccc40425f8fd830f069b7babd0aadde6d2cf1ac2aa1005a143611a1f0034f4d20841d4427450a0842c30d4548dfc71ba8342c0b175219e6777e2c
+Description: A ShadowX implementation for librelic 2.1
+Name: relicloader
+Author: no5up + Kanji <ipodtouchdemohammed313@gmail.com>
 
 Package: com.randy420.tools
 Architecture: iphoneos-arm64
