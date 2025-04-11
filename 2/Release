@@ -1,9 +1,0 @@
-Origin:  ‏​‏  Λ7M | Repo2
-Label:  ‏​‏  Λ7M | Repo2
-Suite: stable
-Version: 2.0
-Codename:  ‏​‏  Λ7M | Repo2
-Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
-Components: main
-Description: rootful & rootless & roothide
-Icon: https://a7m.dev/CydiaIcon.png
