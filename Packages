@@ -5432,6 +5432,28 @@ Depiction: https://julioverne.github.io/description.html?id=com.julioverne.goodw
 Icon: file:///var/jb/Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
 Name: GoodWiFi
 
+Package: se.geometric.graphite
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Development
+Maintainer: Geometric Software
+Installed-Size: 656
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware(>=13.0), mobilesubstrate, firmware(<<17.0)
+Conflicts: com.muris.libgraphite
+Filename: ./file/arm64e/GraphiteLibrary.2.0.arm64e.deb
+Size: 121762
+MD5sum: 0653f457734a06ba39c921721947f9ad
+SHA1: 32ab35d93432c9b80aa950125bd7b669516b4cc4
+SHA256: 926d29bd56204fd0f57f2e1556689fb9eb5932ec3807b9bffa14bed8cdfff266
+SHA512: aa13d129c4e2819ef0d40a061582dd63fe5ca49a0ef13fe9c5669dcde0fe7f2d616f143e3175e8a3bfa5016e911b5fd8becffe7ac9a1bb390310462e68431a99
+Description: powerful library for iOS development
+Tag: purpose::library role::developer
+Name: Graphite Library
+Author: Geometric Software
+Depiction: https://store.geometricsoftware.se/packages/se.geometric.graphite
+SileoDepiction: https://apt.geometricsoftware.se/package/se.geometric.graphite/depiction
+
 Package: com.lclrc.hammerit
 Architecture: iphoneos-arm64e
 Version: 1.7.0
@@ -5935,6 +5957,28 @@ Name: LatestTranslate
 Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/latesttranslate.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/latesttranslate.json
+
+Package: se.geometric.lendmyphone5
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: Geometric Software
+Installed-Size: 7596
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, se.geometric.graphite, firmware(>=15.0), preferenceloader, firmware(<<17)
+Filename: ./file/arm64e/LendMyPhone5.1.0.arm64e.deb
+Size: 14374118
+MD5sum: aad3a5bbfbf8344464a923d79bf82fef
+SHA1: 479e8855438503a741272408570b2afb0f4005b8
+SHA256: 09430a14a3285231163e22297b57a8935dc0883adfaf361b0c2ed8343d23ce8f
+SHA512: 3e36c8215de8f10de51b6d16728e103f66b273d160d06e260fc403e9f451cd58f401ef263ef58f7732c32d6ffcaf90c64f5c7a5e509a96ab1712cf7c2cffa7b5
+Description: A true guest mode for iOS
+Tag: cydia::commercial
+Name: LendMyPhone 5
+Author: Geometric Software
+Icon: file:///Library/PreferenceBundles/LendMyPhone.bundle/store.png
+Depiction: https://store.geometricsoftware.se/packages/se.geometric.lendmyphone5
+SileoDepiction: https://apt.geometricsoftware.se/package/se.geometric.lendmyphone5/depiction
 
 Package: com.ps.letmeblock
 Architecture: iphoneos-arm64e
