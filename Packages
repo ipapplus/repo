@@ -6656,19 +6656,16 @@ Icon: https://repo.ikghd.me/assets/icons/pro.ikghd.pmp.png
 
 Package: org.ppsspp.ppsspp-dev-latest
 Architecture: iphoneos-arm64e
-Version: 0v1.18.1-1309-gecbbadd604
+Version: 0v1.18.1-1723-ge9ac447b86
 Section: Games
 Maintainer: Henrik Rydgård
-Provides: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
 Depends: preferenceloader
-Conflicts: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing, org.ppsspp.ppsspp, org.ppsspp.ppsspp-dev-working, org.ppsspp.ppssppgold-dev-working, org.ppsspp.ppssppgold-dev-latest
-Replaces: com.myrepospace.theavenger.PPSSPP, net.angelxwind.ppsspp, net.angelxwind.ppsspp-testing
-Filename: ./file/arm64e/PPSSPP(Dev-Latest).0v1.18.1-1309-gecbbadd604.arm64e.deb
-Size: 15931660
-MD5sum: 4a6e43805240bb222475ffb2cc29b720
-SHA1: d975cd5e7d2bb203cb78916d8803847401af2d9e
-SHA256: 149ab541393e3f51af183f7d4c5d88a825d9bdeaf98bc3cbd247d10cd8f503ce
-SHA512: 425d69482e4983d196b27ed7db38889ee2d55eb81d7f41304cbde36266c021a3cb4cdabad0a717f376ae71039476d449d262cb86ec9d0d8d61878431b462cd32
+Filename: ./file/arm64e/PPSSPP(Dev-Latest).0v1.18.1-1723-ge9ac447b86.arm64e.deb
+Size: 16142216
+MD5sum: fd0a81042eca95031fbee0ba8996bc16
+SHA1: 9e19b665fd8ad52c8a7e56d46de5864387df46d7
+SHA256: d2c07d8743629c726a6e62781c4792a18ef3c60017d492daa2d57d73b0900929
+SHA512: 4fd8355ff0f2c6d370805e8effed5a4e87a966efc3ed476e014c6f5fc811502f28661b6f431166b3f95a5f365bcb6d596b1bd1a513d5751211ecf7748ebee392
 Homepage: https://build.ppsspp.org/
 Description: A PSP emulator
 Name: PPSSPP (Dev-Latest)
