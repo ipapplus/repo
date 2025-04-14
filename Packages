@@ -2887,6 +2887,25 @@ Name: Stalky
 Author: Fouad Raheb <support@fouadraheb.com>
 Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
 
+Package: com.f0u4d.stalky
+Architecture: iphoneos-arm64
+Version: 4.1.40
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6744
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.16)
+Enhances: WhatsApp
+Filename: ./file/arm64/Stalky.4.1.40.arm64.deb
+Size: 1607260
+MD5sum: f96e8d9ea0cf1ce6952a91448a3a3993
+SHA1: 806562facbee202ed88ae5abe83247e7fe02fb2f
+SHA256: a28a54e14b50a2943be8f0691c819e570ed17221c9f9dcfffb7a05c371157af7
+SHA512: c00429d82764be5764b5f30dbe41c1bd5944d76370e435e64f84b75b82f66d24b69088eb16a4d029da58a4eeedabb81c5a4f7ef9950d6be388277490aed58883
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Name: Stalky
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+
 Package: zp.stopautolaunchapps
 Architecture: iphoneos-arm64
 Version: 1.1
@@ -7689,6 +7708,26 @@ MD5sum: fef1a1eb949139823175de4132edba15
 SHA1: 785b6f21a148c1a2c84b9024a4dec98b4e15b08e
 SHA256: 871cfcd1e86225c50cc6e41d4bb809531c8fb9347bc4f7116decb2f24e7314aa
 SHA512: 6edd828a93201a71264fc7244c7f56445ccc032c74166d46563d84e9db947b0e57bdc0b59cf8867d7f221b13c3363bb240c3bbc0f61c297723ded3a362b90aa6
+Description: Track & download your contacts latest profile & statuses updates on WhatsApp
+Name: Stalky
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
+
+Package: com.f0u4d.stalky
+Architecture: iphoneos-arm64e
+Version: 4.1.40
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 6744
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.16)
+Enhances: WhatsApp
+Filename: ./file/arm64e/Stalky.4.1.40.arm64e.deb
+Size: 1580612
+MD5sum: ac2cffffee00cd711d7ce07fafa305d2
+SHA1: c2905d4da33e3869ee3b6a4516fce168b871d205
+SHA256: 9d7b77200adae491920dc2d52ca73c760cc7aff2903d160825918fe182081cd7
+SHA512: 324a44313b13ca2c1e759b63dd5c68fc91619b164bff03caa2f83e45a8d68dafbc01f1c7d3ee858830ede523cd12a463b3dca6084b29323efa18080db8e1eabe
 Description: Track & download your contacts latest profile & statuses updates on WhatsApp
 Name: Stalky
 Author: Fouad Raheb <support@fouadraheb.com>
