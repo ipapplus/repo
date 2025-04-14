@@ -8531,6 +8531,28 @@ Description: Alert you with exact details when YouTube video error occurred.
 Name: YTVideoErrorAlert
 Author: PoomSmart
 
+Package: com.miro.yellowpages2
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 752
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=14.0), mobilesubstrate, preferenceloader, com.miro.libmiroshared (>=1.0.2), com.opa334.libsandy
+Conflicts: com.iarrays.whoozit, ru.rejail.whoozit, com.miro.yellowpages
+Filename: ./file/arm64e/YellowPages2.1.1.arm64e.deb
+Size: 269714
+MD5sum: c6f555be34fc85fd8491cad127ac4a5f
+SHA1: 82de66bfad773bb3bb8bb22c991060e16c1064b6
+SHA256: a625d0f39e52e01efb5f77fd453359f4f56c3846822dd7472e1f5abf25f84c1f
+SHA512: 2401a6f5e0083cb2b54682d65d4d43765c95fa88cd2398e76f164be3b5b92a82db6fd08e173b63d570722a2bd7e1de41e7e8df28654f07ca8f71ccf3a9acbf15
+Description: Say Goodbye to Unknown Callers
+Tag: purpose::extension, compatible_min::ios14
+Name: YellowPages 2
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.yellowpages2
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:////Library/PreferenceBundles/YellowPages2.bundle/Header.png
+
 Package: com.ps.yougroupsettings
 Architecture: iphoneos-arm64e
 Version: 1.0.4
@@ -8785,6 +8807,26 @@ Tag: role::developer
 Name: libMRYIPC-Rootless
 Author: Muirey03
 
+Package: com.miro.libmiroshared
+Architecture: iphoneos-arm64e
+Version: 1.0.2
+Section: Development
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 4936
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=14.0)
+Filename: ./file/arm64e/libMiROShared.1.0.2.arm64e.deb
+Size: 708208
+MD5sum: 149d03f0efd21cd0fc4bf24389d910a1
+SHA1: d3ee1a882cd04294dc245ce6571fd68379807577
+SHA256: 1cea706d0c37c83bf5c72fa869f41610db4964c5b91316bcbaf1e7ef41d6cfa8
+SHA512: f6a489e6103351254b67e47f43ebb268c05eca998876a8881052a1a5f69beb2d4edf0b0878e4131e15747796fc781d95c685a3a27472ea635f50b3edecc465e8
+Description: Shared library for my tweaks.
+Tag: role::developer, compatible_min::ios14
+Name: libMiROShared
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroshared
+Author: MiRO <tweaks_support@miro92.com>
+
 Package: com.spark.libsparkapplist
 Architecture: iphoneos-arm64e
 Version: 1.1.0~rootless
@@ -8960,6 +9002,48 @@ SHA512: eda60241d2901187bb97ab29a518a67ae190f2c210ef4799d44aae7aee0dec8e2c27651c
 Description: Remove the notification that the P
 Name: replaced
 Author: 34306
+
+Package: com.miro.uyou
+Architecture: iphoneos-arm64e
+Version: 3.0.4
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 31212
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=13.0), mobilesubstrate, com.miro.uyouimport
+Conflicts: com.miro.easyyt, com.miro.ytnoshorts, com.ps.noytpremium, com.ps.youarethere, com.miro.uyourootless
+Filename: ./file/arm64e/uYou.3.0.4.arm64e.deb
+Size: 10812844
+MD5sum: 2e5fbcf8f71e3aa61b97293d25f36bdd
+SHA1: cbbcb4527cffa1ae0cef810f7d1d9d4635a68825
+SHA256: 13ab917b124328e7bfff78cda3ebca2eda7fbbba2b0059378ca384036bad41e8
+SHA512: e25e999c7e5ef720f7fdb769025a72d470fc1be5d40adbdd48345d0133603833fe0ed475f1298b43d623ebe6eb9f99676c16b6b2e8ea1d2efd4014673d9ba509
+Description: Enhance Your YouTube Experience
+Tag: purpose::extension, compatible_min::ios13
+Name: uYou
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyou
+Author: MiRO <tweaks_support@miro92.com>
+Icon: file:////Library/Application Support/uYouBundle.bundle/icon_clipped.png
+
+Package: com.miro.uyouimport
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: MiRO <tweaks_support@miro92.com>
+Installed-Size: 444
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>=13.0), mobilesubstrate
+Filename: ./file/arm64e/uYouImport.1.0.arm64e.deb
+Size: 110112
+MD5sum: 25f811d846af791549884d029cb3396f
+SHA1: af420a3911e237ab35c484e367875ab39c821d36
+SHA256: 2cb7f580990028f8495d3c03cf726b2d50851256b1ce06bea0a55e4dc65eaf4d
+SHA512: 4446fa6c85e9c29b6f2931c27f4e79994182ce3c61c3206ca8ee924182cc7d6d4795b962bbdd9d89d755986215858d3acd79e462be05c2d7e56e44e08704c1a7
+Description: Library for importing songs/videos into the Music app.
+Tag: purpose::extension, compatible_min::ios13
+Name: uYouImport
+Depiction: https://miro92.com/repo/depictions/?p=com.miro.uyouimport
+Author: MiRO <tweaks_support@miro92.com>
 
 Package: dev.zero.wicked
 Architecture: iphoneos-arm64e
