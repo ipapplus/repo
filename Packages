@@ -5921,6 +5921,23 @@ Description: Clipboard manager for iOS.
 Name: Kayoko
 Author: Alexandra Aurora Göttlicher
 
+Package: codes.aurora.kayoko
+Architecture: iphoneos-arm64e
+Version: 2.8
+Section: Tweaks
+Maintainer: Lessica <82flex@gmail.com>
+Installed-Size: 968
+Depends: firmware (>= 14.0), mobilesubstrate, preferenceloader, com.opa334.libsandy
+Filename: ./file/arm64e/Kayoko.2.8.arm64e.deb
+Size: 127570
+MD5sum: 43d9f394bf5cdf6f27b0cf24ef589656
+SHA1: e1846c572a13910013f2cd42fd0ef38dfec8564c
+SHA256: 98d074e848ab5d68a808cc0093f487f6bbcbf150b9807675ab25d4cb48da562b
+SHA512: 815a0d136fc2bbccdaabd1fd2fd13813a7ef50f303a4de879f1fdfbd88d13f31c01afb3e594493f09013404d09d28cdf04e958890faa60005a8a0a087c8aba80
+Description: Clipboard manager for iOS.
+Name: Kayoko
+Author: Alexandra Aurora Göttlicher
+
 Package: com.foxfort.krashkop
 Architecture: iphoneos-arm64e
 Version: 1.0.2
@@ -7978,26 +7995,6 @@ Author: khanhduytran0
 Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
 SileoDepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
 
-Package: wiki.qaq.trapp.jb
-Architecture: iphoneos-arm64e
-Version: 3.3-613
-Section: Applications
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 58544
-Depends: firmware (>= 15.0), mobilesubstrate, com.opa334.libsandy
-Filename: ./file/arm64e/TrollRecorderJB.3.3-613.arm64e.deb
-Size: 14350572
-MD5sum: 327a3de897c5824851e6361dd8b1c247
-SHA1: cf32e31c74ac59bf8a22eb1fc659fbecf000b329
-SHA256: e11c0056bcbf2309ff61061985b826128558ee8b63df364ea451ad13801b9804
-SHA512: 1f27a07b6d72fa4631502883ee3b65b4a2e7eb723f7f5b4f10d3311bbcc930bbca775e34557f7244a4ee1220eb5987e465e204af6aaa838a82bec5f3ab126a46
-Description: Record your phone calls like never before.
-Name: TrollRecorder JB
-Author: Lessica <82flex@gmail.com>
-Depiction: https://havoc.app/depiction/trollrecorderjb
-SileoDepiction: https://havoc.app/package/trollrecorderjb/depiction.json
-Icon: https://media.havoc.app/6669b3d5f0419252d3535a28
-
 Package: daniel.trustevaluator
 Architecture: iphoneos-arm64e
 Version: 0.0.1
@@ -8476,26 +8473,6 @@ Description: Turns the dock into a customizable outline
 Name: WireDock
 Author: Christian Kosman & CydiaGeek <lucaluca86@aol.com>
 
-Package: wiki.qaq.writenow
-Architecture: iphoneos-arm64e
-Version: 2.1
-Section: Tweaks
-Maintainer: Lessica <82flex@gmail.com>
-Installed-Size: 15168
-Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
-Filename: ./file/arm64e/WriteNow.2.1.arm64e.deb
-Size: 3365128
-MD5sum: 19a7cbfdb9277f9c316463a101949137
-SHA1: 6a1ef604794217055d6e03f0a412f95dc650dd8b
-SHA256: 8dce802e48660fedddbd6b9657a9c6e3c2fc78e11ffd1af24f6704fcc75d30ff
-SHA512: ac60335e25d55469ed77e91c3f8f0e626660a21ab1abeb98bbe3cdf01e145fb6ec219558db1913050f2000d86822e545349f7269aac322a5adc5ab7a6218bef2
-Description: AI tool within your hands.
-Name: Write Now
-Author: Lessica <82flex@gmail.com>
-Depiction: https://havoc.app/depiction/writenow
-SileoDepiction: https://havoc.app/package/writenow/depiction.json
-Icon: https://media.havoc.app/66c5b207000eafa58a451f7b
-
 Package: com.ps.ytdarker
 Architecture: iphoneos-arm64e
 Version: 1.0.3
@@ -8865,6 +8842,24 @@ Tag: role::developer, compatible_min::ios14
 Name: libMiROShared
 Depiction: https://miro92.com/repo/depictions/?p=com.miro.libmiroshared
 Author: MiRO <tweaks_support@miro92.com>
+
+Package: com.82flex.libsandyxpc
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: System
+Maintainer: 82Flex <82flex@gmail.com>
+Installed-Size: 200
+Depends: com.opa334.libsandy
+Filename: ./file/arm64e/libSandyXpc.1.1.arm64e.deb
+Size: 18710
+MD5sum: ace27b92a95e1f97152f796adf684c8a
+SHA1: 8240980af13d9e7768d067d2f7e3fcf7af33f972
+SHA256: d5b228f015a97dbbd806c5dd4c3a1d3be996ed76785e7ad5afb5c39e317038aa
+SHA512: 7911b6a14dc2a9af092b5000f1f49757c0c0c86d968c45f2f4f64c9c08f4ecba35d175da7a8487a66c2fc7673cf9884edc85738d7c8ed826dfaea43313743dfe
+Description: Yet another XPC library for iOS
+Tag: role::developer
+Name: libSandyXpc
+Author: 82Flex <82flex@gmail.com>
 
 Package: com.spark.libsparkapplist
 Architecture: iphoneos-arm64e
