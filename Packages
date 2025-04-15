@@ -819,6 +819,23 @@ Description: Modified version of mineeks tweak that lets you specify the minimum
 Name: appstoretroller
 Author: Mineek
 
+Package: dev.mineek.appstoretroller
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm/appstoretroller.0.1.arm.deb
+Size: 16276
+MD5sum: 535092fc7af2eb1da1a5c696637bc6a7
+SHA1: a867ce73c4a4af71000a5d33df8824862019edd0
+SHA256: 620785059ebae65f3db079e95e2eb2ee2456ef73acd8ccb4ca52b4575bbc0469
+SHA512: 8f55cf51b8fd845ac955243eb54897d6bc0f689e25ed10b4ea5ccc783c1dfc1c8f75b88a5576215898788c9f0a7a5acdd7888b12397d7e90d46d4de889468a86
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Name: appstoretroller
+Author: Mineek
+
 Package: com.no5up-kanji.librelic
 Architecture: iphoneos-arm
 Version: 2.1.1
@@ -3332,6 +3349,23 @@ MD5sum: 25dc6e467bfe9d5d4cb7e76734aaabeb
 SHA1: d5ef241cccddf7aa3cf1e423452c653dc031744a
 SHA256: 9cd7c4538e8c5c3f33899955ba775cc24ca1e3fa9dd2c539d10550b1ee45cd0e
 SHA512: 77eb6e71a6af5ffd2506959661c8029e8def5d3028db2ad6999a30ec82b9df1c9b275ddc0a47c9b606b0a0bd0d0c70db05bce100ad3f5ee415b4b73e67eedc01
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Name: appstoretroller
+Author: Mineek
+
+Package: dev.mineek.appstoretroller
+Architecture: iphoneos-arm64
+Version: 0.1
+Section: Tweaks
+Maintainer: Mineek
+Installed-Size: 512
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm64/appstoretroller.0.1.arm64.deb
+Size: 16116
+MD5sum: a97833a09a1d1b040c1e1da8f82b8ce3
+SHA1: df63a66a8f2e139e5aa9e9f66513e876950de2da
+SHA256: 8edba129b5a1521f87447d71480d5a5fec3491e34cbbb93cc97fda304a1ca0af
+SHA512: d0292fab146d731aae95d80b9012f3c322ff6c935e08084576cac6695bf2763fbcbe31ebac3a47736250b1f59fce0bccccf5253d853f30ad17d2a9fc4e418222
 Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
 Name: appstoretroller
 Author: Mineek
@@ -8676,6 +8710,24 @@ MD5sum: 629b9a7a2f27faf2ae672956a58b2d91
 SHA1: b06e8da2b2459f17faf3f1626504835c18613cd1
 SHA256: ec5d5e082afccb67cdaeabe17840dcdf1c21d8806432114db44e8de4038f75e8
 SHA512: 0e7b0b67430f92f9cbf437285726c3b23a3d5004e6ec88f78ffbf75d3ce8fc4b409952cc9dcddac1c95af0bb1efbe7a8d8328fd5669c5b8fa62565f2517b42ea
+Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
+Name: appstoretroller
+Author: Mineek
+
+Package: dev.mineek.appstoretroller
+Architecture: iphoneos-arm64e
+Version: 0.1
+Section: Tweaks
+Maintainer: Mineek
+Installed-Size: 512
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./file/arm64e/appstoretroller.0.1.arm64e.deb
+Size: 22470
+MD5sum: 922da6d4ee69edd78d8045f03a233aab
+SHA1: 258335020084da642ccf39e7546f15d7a34faeb8
+SHA256: 5963879facaef898e8f82fa25b9ea9e0615bf6b13474d133f48e60ace6d7b180
+SHA512: 0a52283035c4b1d4a8cb5a012ab77fef0f65b2271787134452b65223dff6693e20093000595ec53b7a792f2d27a67af4126d6b94074658ad3b60dec91e2f1841
 Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
 Name: appstoretroller
 Author: Mineek
