@@ -2642,6 +2642,26 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/replaykitmax.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/replaykitmax.json
 
+Package: lilliana.reverie
+Architecture: iphoneos-arm64
+Version: 0.0.3
+Section: Tweaks
+Maintainer: Paisseon
+Installed-Size: 788
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
+Filename: ./file/arm64/Reverie.0.0.3.arm64.deb
+Size: 94780
+MD5sum: 63a9404919fe57362b298f65b8fc0f77
+SHA1: a1779f9abcab16797cada545b56711a18174766e
+SHA256: 85183591667b241e79b43c9e75d99c83f92fca253375a9170fa44cceefd957f8
+SHA512: 6f31c566cb9dff6368bda3326646cf14d791d843272230bd227e4e96bec12cf453defd3f2d02ddb17f91cc266fbeb2ea57cf8d9f1a057baff14abe9d78e4008c
+Description: Let your iPhone dream
+Name: Reverie
+Author: Paisseon
+SileoDepiction: https://paisseon.github.io/depictions/Reverie.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Reverie.json&name=Reverie&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Reverie.png
+
 Package: com.roothide.managers
 Architecture: iphoneos-arm64
 Version: 1.1
@@ -7107,6 +7127,27 @@ Author: PoomSmart and kirb <ytdislikesreturn@gmail.com>
 Name: Return YouTube Dislike
 Icon: https://img.chariz.cloud/icon/return-youtube-dislike/icon@3x.png
 Depiction: https://chariz.com/get/return-youtube-dislike
+
+Package: lilliana.reverie
+Architecture: iphoneos-arm64e
+Version: 0.0.3
+Section: Tweaks
+Maintainer: Paisseon
+Installed-Size: 788
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader, com.opa334.ccsupport
+Filename: ./file/arm64e/Reverie.0.0.3.arm64e.deb
+Size: 96956
+MD5sum: be468f71a67600ddb6bd1f5233ac78b1
+SHA1: d5838a3c6454e379795ab328f10d5157d97dd4d7
+SHA256: 5779672435997939e032c1ca5977476515836f6186ff7765dab9024dd3c65914
+SHA512: c4e99b7c9e5de08dbd36939ff63e60d59c909c9fadbba60a7bc1f7a83a8901ff67de62dcb7c839861b5079862a6a603a7cbe08f63f0075b9067eb572e5a9d55a
+Description: Let your iPhone dream
+Name: Reverie
+Author: Paisseon
+SileoDepiction: https://paisseon.github.io/depictions/Reverie.json
+Depiction: https://pinpal.github.io/Sileo-Depiction-WebViews/?json=https://paisseon.github.io/depictions/Reverie.json&name=Reverie&dev=Paisseon
+Icon: https://paisseon.github.io/icons/Reverie.png
 
 Package: me.alfhaily.rocket
 Architecture: iphoneos-arm64e
