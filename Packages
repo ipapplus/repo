@@ -159,6 +159,23 @@ Description: Awesome tweak for Twitter
 Name: BHTwitter
 Author: Bandar Alruwaili
 
+Package: netskao.blockappscreatealbum
+Architecture: iphoneos-arm
+Version: 1.1-2
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 168
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./file/arm/BlockAppsCreateAlbum.1.1-2.arm.deb
+Size: 4532
+MD5sum: 5a3ab35e454da349c1438507ebb4f31b
+SHA1: 30ce9c2ba32b15411b61189f4900e3ed8a121a3b
+SHA256: 09fa7ede94a14078d5ecd52150ce1cf1679ef82bbad27f2f45dca9d90699d98e
+SHA512: 5b17bf6b35386723290abf53e795e76ef4e566fef352eb643e1b03599909cd8c16cde0d5ca1e580125d4af4278650da66b5c5eeaa68fc59bdcba878a8dfaf0ff
+Description: Block applications from creating their own albums
+Name: BlockAppsCreateAlbum
+Author: Netskao
+
 Package: com.cydiaabdullah.cacloud
 Architecture: iphoneos-arm
 Version: 2.1
@@ -1193,6 +1210,23 @@ Description: Add more controls to the expanded brightness CC module
 Name: BetterCCBrightness
 Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.betterccbrightness
 Author: level3tjg
+
+Package: netskao.blockappscreatealbum
+Architecture: iphoneos-arm64
+Version: 1.1-2
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 168
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./file/arm64/BlockAppsCreateAlbum.1.1-2.arm64.deb
+Size: 4568
+MD5sum: c18192e1345ac54a61cebfa1e9ee0c7d
+SHA1: d31ba0080060443e5f909b5d2e3f98ab4273aadb
+SHA256: c1d885824483bf3499e9edab9cafda48120e60d58d795c9d335bcf5b045a896d
+SHA512: a9b8d8965e75380154df7f59b3d8ef679946c56d6d3fd1fa20f6d13c36c8c2fcd9069d5735fbc2a663908d743b5b8263d2fda5231fbc0e2a78a4f3154531056e
+Description: Block applications from creating their own albums
+Name: BlockAppsCreateAlbum
+Author: Netskao
 
 Package: com.cydiaabdullah.cacloud
 Architecture: iphoneos-arm64
@@ -4340,6 +4374,24 @@ Description: Add more controls to the expanded brightness CC module
 Name: BetterCCBrightness
 Depiction: https://level3tjg.me/repo/depictions/?p=com.level3tjg.betterccbrightness
 Author: level3tjg
+
+Package: netskao.blockappscreatealbum
+Architecture: iphoneos-arm64e
+Version: 1.1-2
+Section: Netskao-Tweaks
+Maintainer: Nets
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 13.0), mobilesubstrate
+Filename: ./file/arm64e/BlockAppsCreateAlbum.1.1-2.arm64e.deb
+Size: 5852
+MD5sum: 4a50b839b0b2627b62d50bd5f8d52a1d
+SHA1: e3c64270f1edcdf54eb8a52396a518f3bf5602f1
+SHA256: 3c014a822574d3404685536e16c7ee0d80ae8fc6f5503494d975dab2f1d104e9
+SHA512: 72ff550b4eb9dad21c3b84cf9e8c0e8fa089e041cad463ae194aae2f699bf178005d56f7a99639a8b6bdf94a91ab68b8422cd86299d227b92f851739ebb1b095
+Description: Block applications from creating their own albums
+Name: BlockAppsCreateAlbum
+Author: Netskao
 
 Package: com.0xkuj.blockwaupdates
 Architecture: iphoneos-arm64e
