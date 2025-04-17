@@ -2735,6 +2735,24 @@ Description: An awesome MobileSubstrate tweak!
 Name: Safariii
 Author: dvntm
 
+Package: a7m.saudi.font
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Fonts
+Maintainer: a7m
+Depends: mobilesubstrate
+Filename: ./file/arm64/Saudibold.1.0.arm64.deb
+Size: 74416
+MD5sum: b203c94c147656ab493a6923d10956f0
+SHA1: 8c6ad135c40dd0fcc88c2c3e3caf8963443ecbb3
+SHA256: 2fc20008302386d71a38acb80cf8124daea8324b16790bebf7910ac773280c0c
+SHA512: dcd2f099c2b28d95ce3d8139f1dcd8ab596798bba13e424d7613aa56dd1bdb98d176de03fccad512c2ee68682193fb80cee012eee8933d8834c2e376bb455ae0
+Description: Arabic & English
+Name: Saudi bold
+Author: a7m
+Header: https://i.imgur.com/ekDB2Ht.jpeg
+Icon: https://i.imgur.com/6LVRx1C.jpeg
+
 Package: com.megadev.sentinel
 Architecture: iphoneos-arm64
 Version: 1.3.2
@@ -7300,6 +7318,24 @@ SHA512: 840c097ac2d279eee57c15720ed5318348f0d273a704ac7e21cba6fc3a6826534c951541
 Description: An awesome MobileSubstrate tweak!
 Name: Safariii
 Author: dvntm
+
+Package: a7m.saudi.font
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Fonts
+Maintainer: a7m
+Depends: mobilesubstrate
+Filename: ./file/arm64e/Saudibold.1.0.arm64e.deb
+Size: 74340
+MD5sum: fe81eff8b9e23df0f0b56f06c584ce57
+SHA1: f0649f008ee362b7aa47cb1eb1dbb1fb911d24d5
+SHA256: 662086f2b6e17654e500b1bcf6ccde419a5a3b6023e28a090fe7f77d5a65cbad
+SHA512: 427f26cfe088ab126ced5885de70d3d7bdaed41d05ab1dec363d3944ae670b00c962738c9ceb3da826b10d99f180c56fa53a084efe0b7ccfe54d7cdcfb8371cc
+Description: Arabic & English
+Name: Saudi bold
+Author: a7m
+Header: https://i.imgur.com/ekDB2Ht.jpeg
+Icon: https://i.imgur.com/6LVRx1C.jpeg
 
 Package: com.eamontracey.secretshot
 Architecture: iphoneos-arm64e
