@@ -3132,23 +3132,6 @@ Description: Allows iPhones to use “unsupported” charging accessories
 Name: SupportTheUnsupported Revived
 Author: Jax Roth
 
-Package: com.iky1e.swipeselection
-Architecture: iphoneos-arm64
-Version: 1.5.3
-Section: Tweaks
-Maintainer: Kyle Howells
-Installed-Size: 172
-Depends: mobilesubstrate
-Filename: ./file/arm64/SwipeSelection.1.5.3.arm64.deb
-Size: 13288
-MD5sum: 42b055392e2415f09537b7e49520b858
-SHA1: 2c110c2edcebe9614aad2153cbf2c115847759b0
-SHA256: a166558c341545b260a20511c50c991a23073d43f5935084de0ad20fe2cb8d17
-SHA512: 7d994db5f2617f62e66dd1de9df8b3e8886d2fe6f71a897118e33ed3f96f7c7e0779ef22048ceac45bf088caf98e1ec4a198da04c951c851f5983996d6fe6008
-Description: Swipe along the keyboard to move the cursor and select text.
-Name: SwipeSelection
-Author: Kyle Howells
-
 Package: xyz.xninja.systeminfo
 Architecture: iphoneos-arm64
 Version: 2.7.2-2
@@ -8284,24 +8267,6 @@ SHA512: 0bdb2db06adaf247548655a83258a2a5f636f792b11155cfd0f31beecc69cf0214fd0af4
 Description: Allows iPhones to use “unsupported” charging accessories
 Name: SupportTheUnsupported Revived
 Author: Jax Roth
-
-Package: com.iky1e.swipeselection
-Architecture: iphoneos-arm64e
-Version: 1.5.3
-Section: Tweaks
-Maintainer: Kyle Howells
-Installed-Size: 172
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate
-Filename: ./file/arm64e/SwipeSelection.1.5.3.arm64e.deb
-Size: 17658
-MD5sum: 7df708dfbc914be42c1148028c609146
-SHA1: 22abae21a6c5e85e641907992da588306600c581
-SHA256: 64fc1db7c74145aac6c671f81d860ab09dcb7aaec177a341f03a13adf2cbf605
-SHA512: 71e4bf2461895bdb86227d2537d72fcca37ea87313af83914822186de89dcc0ea5cc76d344f07d77b052ec04c8a0de70ca54c901227527a82203953af83ca2a5
-Description: Swipe along the keyboard to move the cursor and select text.
-Name: SwipeSelection
-Author: Kyle Howells
 
 Package: xyz.xninja.systeminfo
 Architecture: iphoneos-arm64e
