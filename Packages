@@ -585,6 +585,23 @@ Description: An simple telegram tweak!
 Name: TGExtra
 Author: choco
 
+Package: com.fahd00075.arabic
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: fahd00075 <test@gmail.com>
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./file/arm/TGExtraarabic.1.0.arm.deb
+Size: 6452
+MD5sum: f14b48d8c9806bc012d2b7b8f5063849
+SHA1: a3a980a93f9e7bbafc53572a7a518b87dfb22ea9
+SHA256: 7820fc211eedb6b822928a59e70d819f2e68833a8f42810bb386c5914f5fed66
+SHA512: 4b6ce955507cadbd009fcb1ae7424c9b4968cf9d1dd6f97cb571bede1ea87d02bd6d9207ab3f33723f18afab973b584244e6486763f4c421e853b8de49a8de3f
+Description: TGExtra arabic
+Name: TGExtra arabic
+Author: fahd00075 <test@gmail.com>
+
 Package: com.kdt.trollpad
 Architecture: iphoneos-arm
 Version: 1.3
@@ -3078,6 +3095,23 @@ SHA512: b6807ce5df29944764f7628736377a7cb1a80e55808307dc9bbbcd34bf6d94b500a9e167
 Description: An simple telegram tweak!
 Name: TGExtra
 Author: choco
+
+Package: com.fahd00075.arabic
+Architecture: iphoneos-arm64
+Version: 1.0
+Section: Tweaks
+Maintainer: fahd00075 <test@gmail.com>
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./file/arm64/TGExtraarabic.1.0.arm64.deb
+Size: 6188
+MD5sum: d799bff7b52504035d377900d798cb4a
+SHA1: 6c5c45ab853190cb86fceec380f6af6b243e0d78
+SHA256: 56899c91340ecb95fd15add099b94060566c5e8c7fee97d7b62b50c654f7a541
+SHA512: c301f15f1021254a8be483d126a9cc6b50f6b9fe145b2ade977f2ed2a47791772e4bdd68d21af35a7ef641e6c28560e0a1dd5ba04b20fa7dbcef1a36c32f4f53
+Description: TGExtra arabic
+Name: TGExtra arabic
+Author: fahd00075 <test@gmail.com>
 
 Package: com.den.twigalaxy
 Architecture: iphoneos-arm64
@@ -8068,6 +8102,23 @@ SHA512: fc2218755cc51c31cae470db3dfdd1ab08eb3d7bd7f1a7f0e6fbd6bb971155025681d3e4
 Description: An simple telegram tweak!
 Name: TGExtra
 Author: choco
+
+Package: com.fahd00075.arabic
+Architecture: iphoneos-arm64e
+Version: 1.0
+Section: Tweaks
+Maintainer: fahd00075 <test@gmail.com>
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./file/arm64e/TGExtraarabic.1.0.arm64e.deb
+Size: 7228
+MD5sum: d171b142926798aa9d465e1f7ba910c7
+SHA1: 2ec64d1cc8c94ab90858f4e6ad962843ebba8f29
+SHA256: 74fbfa788217f0e48f86306b4bba789a328c29af4584e86afbeb0f621ebf10c9
+SHA512: 01a5a64e62489867a8f7c324c4c02dd24d64ae30891f8c703a256ad1b8d2f86992a34f028475d313aa02e053e6a54c137f5f157b42fded7eaffac1be39669e6e
+Description: TGExtra arabic
+Name: TGExtra arabic
+Author: fahd00075 <test@gmail.com>
 
 Package: com.den.twigalaxy
 Architecture: iphoneos-arm64e
