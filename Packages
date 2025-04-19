@@ -602,6 +602,23 @@ Description: TGExtra arabic
 Name: TGExtra arabic
 Author: fahd00075 <test@gmail.com>
 
+Package: com.fahd00075.arabic
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: fahd00075 <test@gmail.com>
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./file/arm/TGExtraarabic.1.1.arm.deb
+Size: 6466
+MD5sum: 9ad0b2685225dfb461ebb69b9301c261
+SHA1: 6d2e12e4aa300e9e4f2327044851f96f128f0140
+SHA256: 91cd1a39411d5c38ad41e4eed77ee8db6407de89d4fac215cc50e6fc6ed5aa2d
+SHA512: 011fe6982681bc78a7bc8616d31ebffa002b5d1bb3486b364350745b837a490f8cef532ba2bd53f6575496182d011d6c93a2a9f66a163260cfdfefdab798319e
+Description: TGExtra arabic
+Name: TGExtra arabic
+Author: fahd00075 <test@gmail.com>
+
 Package: com.kdt.trollpad
 Architecture: iphoneos-arm
 Version: 1.3
@@ -1207,6 +1224,26 @@ SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx
 Icon: https://i.imgur.com/6nCH3FE.jpeg
 Author: Bandar Alruwaili
 
+Package: com.cpdigitaldarkroom.barmoji
+Architecture: iphoneos-arm64
+Version: 2023.3
+Section: Tweaks
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 444
+Depends: mobilesubstrate, preferenceloader
+Filename: ./file/arm64/Barmoji.2023.3.arm64.deb
+Size: 46784
+MD5sum: c555975f33213317bfe4b132ba28bb83
+SHA1: 1fbbf7bcf2f7dc577cfc7f395afb7cc1003b3656
+SHA256: c3edbe77c7de3aa0284cbbc8f96712dbb91202d08c809b0931f61efedfc80038
+SHA512: 9ede9abfed3bacbab512c0ddc93fc85ec5426a124a145b1c795af2574776cfc2f6ed17a68f346c4ce8e3cb9ebc9af14fbe33b5e1ecf54fb4af2d455ce30306d6
+Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Description: Quick Emoji Access Bar
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios13.3
+Name: Barmoji
+Depiction: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+
 Package: com.ps.batteryhealthenabler
 Architecture: iphoneos-arm64
 Version: 1.0.0
@@ -1312,6 +1349,25 @@ Description: Simple tweak that removes module background and adds a border, just
 Name: CCBorder
 Author: fiore
 Icon: https://raw.githubusercontent.com/donato-fiore/repo/master/assets/com.fiore.ccborder/icon.png
+
+Package: com.gilesgc.cccalc
+Architecture: iphoneos-arm64
+Version: 1.2.2
+Section: Tweaks
+Maintainer: gilesgc
+Installed-Size: 364
+Depends: mobilesubstrate
+Filename: ./file/arm64/CCCalc.1.2.2.arm64.deb
+Size: 74362
+MD5sum: acd320b7776035c6e5b712adb714a73f
+SHA1: e3a50a3989d8df6139c767be31b00d28edf26480
+SHA256: c08c4a86dbc7c60ad98e30519b93d8c94f9b809b6df2c4cb002787c3e54840e2
+SHA512: ee9f3b44de2c57f4872f3b064a8e1a769495e2c37ad5a1f4d81e18c6153523751bdf4f512a28bb3bd3432d6eb13d99c01da61044925693f089b2ac5b5640fcb7
+Description: Turn your control center's calculator module into a real, working calculator
+Name: CCCalc
+Author: gilesgc
+Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.cccalc
+Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
 
 Package: com.jailbreak365.safeccmodules
 Architecture: iphoneos-arm64
@@ -1689,6 +1745,23 @@ Name: Flex To Theos
 Depiction: https://Randy-420.GitHub.io/depic/ftt.html
 Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
 
+Package: org.wuffs.flickplus
+Architecture: iphoneos-arm64
+Version: 0.0.9
+Section: Tweaks
+Maintainer: Ninji <ninji@wuffs.org>
+Installed-Size: 424
+Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
+Filename: ./file/arm64/FlicksForAll.0.0.9.arm64.deb
+Size: 37840
+MD5sum: 4dfab46c51592769b285d69de51fc5e0
+SHA1: bc3c1ab83ea7df70a101b53682e235add43411b0
+SHA256: ce8e39067d902284ef8aebec894c3e530451d9112b3d7124f08a3776c8ebcfdf
+SHA512: e2f1618405ed0193d520d848e3e880d20a54bd439125d53563ddc3cc225fb17cc40c60710e8c7e3e66508c5ce82d148c8e73802607174b273c8de6932aa2d521
+Description: iPad-like key flicks on iPhone (iOS 13)
+Name: FlicksForAll
+Author: Ninji <ninji@wuffs.org>
+
 Package: com.lizynz.folderx.rootless
 Architecture: iphoneos-arm64
 Version: 2.0
@@ -1783,6 +1856,23 @@ Author: julioverne
 Depiction: https://julioverne.github.io/description.html?id=com.julioverne.goodwifi
 Icon: file:///var/jb/Library/PreferenceBundles/GoodWiFiSettings.bundle/icon@2x.png
 Name: GoodWiFi
+
+Package: me.kritanta.gravitation
+Architecture: iphoneos-arm64
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Kritanta
+Installed-Size: 424
+Depends: mobilesubstrate
+Filename: ./file/arm64/Gravitation.0.1.0.arm64.deb
+Size: 59934
+MD5sum: b39e2c949423f209f60a52bf2cc2a101
+SHA1: 1ebb9f138562e7ccad07434ecf89e9e5cd1d883b
+SHA256: fb0884f08860c20c3440e68082cb5e032a896c002ed02a9d5a64df64d9c1c863
+SHA512: 0f5548a19ff17f960a53e6e239b7492fe87901a399987622257b072eb4aaea925d44f744a21a6762976eb2cc378a50f15ee24bdcb1dd78b89c276217381c1938
+Description: Shake your phone to unhinge your icons!
+Name: Gravitation
+Author: Kritanta
 
 Package: cn.zqbb.disupdateapp
 Architecture: iphoneos-arm64
@@ -2534,6 +2624,28 @@ SileoDepiction: https://cydia.ichitaso.com/depiction/powerselector11.json
 
 Package: com.rpetrich.powercuff
 Architecture: iphoneos-arm64
+Version: 0.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 176
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./file/arm64/Powercuff.0.1.arm64.deb
+Size: 14032
+MD5sum: 1c9683a472e1d5370ee3e8544b6fb696
+SHA1: db9ca587c16e1b420f83fd52dd0d44bf1170f349
+SHA256: a8f89348b7dd10bdcbb10a5b56f679e74be54d7304e4b7d481764f3863dcb888
+SHA512: b5bcd4c386736dc06d82cbe7d6fb768f0dfacfb3bb87736fc9871ccf22f50fc2a78bfb30e98504e49827b57799575e75f5d985c15d6975e20d52a576a50ed777
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states
+Tag: purpose::extension
+Name: Powercuff
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+
+Package: com.rpetrich.powercuff
+Architecture: iphoneos-arm64
 Version: 1.0.1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
@@ -3063,6 +3175,23 @@ Description: Allows iPhones to use “unsupported” charging accessories
 Name: SupportTheUnsupported Revived
 Author: Jax Roth
 
+Package: com.iky1e.swipeselection
+Architecture: iphoneos-arm64
+Version: 1.5.3
+Section: Tweaks
+Maintainer: Kyle Howells
+Installed-Size: 172
+Depends: mobilesubstrate
+Filename: ./file/arm64/SwipeSelection.1.5.3.arm64.deb
+Size: 13288
+MD5sum: 42b055392e2415f09537b7e49520b858
+SHA1: 2c110c2edcebe9614aad2153cbf2c115847759b0
+SHA256: a166558c341545b260a20511c50c991a23073d43f5935084de0ad20fe2cb8d17
+SHA512: 7d994db5f2617f62e66dd1de9df8b3e8886d2fe6f71a897118e33ed3f96f7c7e0779ef22048ceac45bf088caf98e1ec4a198da04c951c851f5983996d6fe6008
+Description: Swipe along the keyboard to move the cursor and select text.
+Name: SwipeSelection
+Author: Kyle Howells
+
 Package: xyz.xninja.systeminfo
 Architecture: iphoneos-arm64
 Version: 2.7.2-2
@@ -3109,6 +3238,23 @@ MD5sum: d799bff7b52504035d377900d798cb4a
 SHA1: 6c5c45ab853190cb86fceec380f6af6b243e0d78
 SHA256: 56899c91340ecb95fd15add099b94060566c5e8c7fee97d7b62b50c654f7a541
 SHA512: c301f15f1021254a8be483d126a9cc6b50f6b9fe145b2ade977f2ed2a47791772e4bdd68d21af35a7ef641e6c28560e0a1dd5ba04b20fa7dbcef1a36c32f4f53
+Description: TGExtra arabic
+Name: TGExtra arabic
+Author: fahd00075 <test@gmail.com>
+
+Package: com.fahd00075.arabic
+Architecture: iphoneos-arm64
+Version: 1.1
+Section: Tweaks
+Maintainer: fahd00075 <test@gmail.com>
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./file/arm64/TGExtraarabic.1.1.arm64.deb
+Size: 6208
+MD5sum: b1422afcdd0ec9291851cbae665ad360
+SHA1: 00ff92df5915f6b99e80582f9794db756b8260f2
+SHA256: 5d13a2d758dca7886dee5784d5051c6b33411277615a595d84924546dda8e444
+SHA512: c39a12a193706cf1f9f2525053d6ca3db4049970ad0c04356e667edbcd1b613e4bad092711144414eced03b81a456ee20c82c3a52ba61ea58078be7f60f653e5
 Description: TGExtra arabic
 Name: TGExtra arabic
 Author: fahd00075 <test@gmail.com>
@@ -3186,6 +3332,23 @@ Name: TrollPad
 Author: khanhduytran0
 Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
 SileoDepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
+
+Package: com.ethanrdoesmc.truecuts
+Architecture: iphoneos-arm64
+Version: 1.2.0
+Section: Tweaks
+Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Installed-Size: 168
+Depends: mobilesubstrate, firmware (>=13.0)
+Filename: ./file/arm64/Truecuts.1.2.0.arm64.deb
+Size: 3890
+MD5sum: 2fe2d1a8cf135fc0f4cb054d755ef7c5
+SHA1: c4fc4a246c8809c3e4eda8bc96d9cccafb95f02c
+SHA256: 97c5b0c7fa13f7229323696152c9722767beeed22cc1cfcc95f581f2fc1e0f20
+SHA512: 93a602df8ee48a98b04c43c257330cd6b950de9831e6667469b69eb0d765ba183c124e15b9154fd73a637184e487e0c0547b3801c582deebe318f736dd99f655
+Description: Allow all Shortcuts automations to be run without asking!
+Name: Truecuts
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
 
 Package: daniel.trustevaluator
 Architecture: iphoneos-arm64
@@ -4402,6 +4565,27 @@ Description: Syncs icon badge values when notifications are dismissed from the n
 Name: BadgeSync
 Author: newwares
 
+Package: com.cpdigitaldarkroom.barmoji
+Architecture: iphoneos-arm64e
+Version: 2023.3
+Section: Tweaks
+Maintainer: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+Installed-Size: 444
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader
+Filename: ./file/arm64e/Barmoji.2023.3.arm64e.deb
+Size: 60244
+MD5sum: cceac93ba46c6eae47dbd119db6e746b
+SHA1: 6d26a1c0d73b21c6c8ebc4dce93356335674a90d
+SHA256: 0091c88dec0c2799763f971b90ce8f352a3591a1e37f64e10e0b84a3909b996f
+SHA512: 539d18331fcd4b1b283d635684c6fb9c94e5aa74e781eab3aed1d683e1ac0b8cb52fc5737302ad0365c48468fecb9eef50cd95b4918cb8db461a34aa4f3954b9
+Homepage: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Description: Quick Emoji Access Bar
+Tag: purpose::extension, compatible_min::ios10, compatible_max::ios13.3
+Name: Barmoji
+Depiction: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
+Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
+
 Package: com.ps.batteryhealthenabler
 Architecture: iphoneos-arm64e
 Version: 1.0.0
@@ -4623,6 +4807,26 @@ Description: Simple tweak that removes module background and adds a border, just
 Name: CCBorder
 Author: fiore
 Icon: https://raw.githubusercontent.com/donato-fiore/repo/master/assets/com.fiore.ccborder/icon.png
+
+Package: com.gilesgc.cccalc
+Architecture: iphoneos-arm64e
+Version: 1.2.2
+Section: Tweaks
+Maintainer: gilesgc
+Installed-Size: 364
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./file/arm64e/CCCalc.1.2.2.arm64e.deb
+Size: 86578
+MD5sum: 5b9c7c14f03dfb70c6256c0ce35c2577
+SHA1: 9bdf053613b55a9962eabef5bc5f978b4e67b375
+SHA256: 7c05b3091e970e9409bf920e355e512cb5f003f51affbde07af7034296ba41a8
+SHA512: 8eeeeaab849e12da5f70c09755bf18ffdceddf1a503e9c34ab8095c72d3352278ca0ea889143df73bbf061d0e545ac3ddae2f7f7b9721d6aff6784807c280cb8
+Description: Turn your control center's calculator module into a real, working calculator
+Name: CCCalc
+Author: gilesgc
+Depiction: https://gilesgc.github.io/repo/depictions/?p=com.gilesgc.cccalc
+Icon: https://gilesgc.github.io/repo/depictions/com.gilesgc.cccalc/cccalc-icon.png
 
 Package: com.jailbreak365.safeccmodules
 Architecture: iphoneos-arm64e
@@ -5521,6 +5725,24 @@ Name: Flex To Theos
 Depiction: https://Randy-420.GitHub.io/depic/ftt.html
 Author: ipad_kid_Randy420 <ipadkid358@gmail.com, randy.skinner@hotmail.com>
 
+Package: org.wuffs.flickplus
+Architecture: iphoneos-arm64e
+Version: 0.0.9
+Section: Tweaks
+Maintainer: Ninji <ninji@wuffs.org>
+Installed-Size: 424
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common (>= 1.13)
+Filename: ./file/arm64e/FlicksForAll.0.0.9.arm64e.deb
+Size: 137830
+MD5sum: 5109cc6651e1a4ef4128c6d9807a1f9a
+SHA1: ae66137344385a41a37de6406a441f005396be51
+SHA256: 2c6165e58e893a86b33551ad81844d384eb79df51387fa6219ae2a96efbf1323
+SHA512: e74bd71bb9aaa71eb13b3107d9a29c145cf639c6613e0afe413c1dc99e6c5da7a3735548d41f94adbd3c220a2d4f3cb5dcf1985993a7a51276463d7aba3239f6
+Description: iPad-like key flicks on iPhone (iOS 13)
+Name: FlicksForAll
+Author: Ninji <ninji@wuffs.org>
+
 Package: com.foxfort.foxforttools
 Architecture: iphoneos-arm64e
 Version: 1.4.13
@@ -5680,6 +5902,24 @@ Name: Graphite Library
 Author: Geometric Software
 Depiction: https://store.geometricsoftware.se/packages/se.geometric.graphite
 SileoDepiction: https://apt.geometricsoftware.se/package/se.geometric.graphite/depiction
+
+Package: me.kritanta.gravitation
+Architecture: iphoneos-arm64e
+Version: 0.1.0
+Section: Tweaks
+Maintainer: Kritanta
+Installed-Size: 424
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./file/arm64e/Gravitation.0.1.0.arm64e.deb
+Size: 69996
+MD5sum: 7263bce46ec40b8544c2c3f6c4b24a9a
+SHA1: d1587076c6b28bee1854304c7cf77764590020e1
+SHA256: a7ffa65d89435df5f318b8e58dd27940eda74dc0f83ce2bca77c01cd48055027
+SHA512: 0dff8ba6e4760c77232559e465bfa872d0f0bd7265a45f40930427254ae64e3a2b86df9a2350ad9f03db9a05155cf8bdc14cf33888ce6fea5e5a08750570110a
+Description: Shake your phone to unhinge your icons!
+Name: Gravitation
+Author: Kritanta
 
 Package: com.lclrc.hammerit
 Architecture: iphoneos-arm64e
@@ -7043,6 +7283,29 @@ Icon: https://github.com/NightwindDev/PowerSettings/blob/main/Images/Icon.png?ra
 
 Package: com.rpetrich.powercuff
 Architecture: iphoneos-arm64e
+Version: 0.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 176
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
+Filename: ./file/arm64e/Powercuff.0.1.arm64e.deb
+Size: 17054
+MD5sum: 70dfbf45b2a508b729b3fd4dcbc71302
+SHA1: d50f41f073dcc8a60607b395ef066536f16be0a6
+SHA256: c8b1f26170fe3b68a0d78e92dd7c3e7113d08a2391beb9902e986e8d7ad6ea83
+SHA512: 6ec8334fb6af7aad6103fc54fa74359a9104ba4faeda3d9ea08df567997bda265bded2f4537ab3ff30b1bd01195ee7b69a9e9de924ea5665388a1b07f95be6e7
+Homepage: http://rpetri.ch/cydia/powercuff/
+Description: Select from additional low power device states
+Tag: purpose::extension
+Name: Powercuff
+Depiction: http://rpetri.ch/cydia/powercuff/
+Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rpetrich
+
+Package: com.rpetrich.powercuff
+Architecture: iphoneos-arm64e
 Version: 1.0.1
 Section: Tweaks
 Maintainer: BigBoss <bigboss@thebigboss.org>
@@ -8086,6 +8349,24 @@ Description: Allows iPhones to use “unsupported” charging accessories
 Name: SupportTheUnsupported Revived
 Author: Jax Roth
 
+Package: com.iky1e.swipeselection
+Architecture: iphoneos-arm64e
+Version: 1.5.3
+Section: Tweaks
+Maintainer: Kyle Howells
+Installed-Size: 172
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./file/arm64e/SwipeSelection.1.5.3.arm64e.deb
+Size: 17658
+MD5sum: 7df708dfbc914be42c1148028c609146
+SHA1: 22abae21a6c5e85e641907992da588306600c581
+SHA256: 64fc1db7c74145aac6c671f81d860ab09dcb7aaec177a341f03a13adf2cbf605
+SHA512: 71e4bf2461895bdb86227d2537d72fcca37ea87313af83914822186de89dcc0ea5cc76d344f07d77b052ec04c8a0de70ca54c901227527a82203953af83ca2a5
+Description: Swipe along the keyboard to move the cursor and select text.
+Name: SwipeSelection
+Author: Kyle Howells
+
 Package: xyz.xninja.systeminfo
 Architecture: iphoneos-arm64e
 Version: 2.7.2-2
@@ -8134,6 +8415,23 @@ MD5sum: d171b142926798aa9d465e1f7ba910c7
 SHA1: 2ec64d1cc8c94ab90858f4e6ad962843ebba8f29
 SHA256: 74fbfa788217f0e48f86306b4bba789a328c29af4584e86afbeb0f621ebf10c9
 SHA512: 01a5a64e62489867a8f7c324c4c02dd24d64ae30891f8c703a256ad1b8d2f86992a34f028475d313aa02e053e6a54c137f5f157b42fded7eaffac1be39669e6e
+Description: TGExtra arabic
+Name: TGExtra arabic
+Author: fahd00075 <test@gmail.com>
+
+Package: com.fahd00075.arabic
+Architecture: iphoneos-arm64e
+Version: 1.1
+Section: Tweaks
+Maintainer: fahd00075 <test@gmail.com>
+Installed-Size: 264
+Depends: mobilesubstrate
+Filename: ./file/arm64e/TGExtraarabic.1.1.arm64e.deb
+Size: 7260
+MD5sum: 3c7905c4abd189c929b4437ba96e2b7c
+SHA1: 7faa49b9ec16fba030f935fc8099c20b5a7f6185
+SHA256: 4ee76c77ff08d67679abdfaa5b0eca3dadd2d39206ca92e6070ce8eae3028313
+SHA512: c744d031a9612192fef6a5f1c85d1b4a1afeb65db4043ae181c3b482d9c9c6ad6dcf6c2d5ab3c8654d74c43137df21d33ec399f4daff9ff4529404164f1bc82d
 Description: TGExtra arabic
 Name: TGExtra arabic
 Author: fahd00075 <test@gmail.com>
@@ -8329,6 +8627,24 @@ Name: TrollPad
 Author: khanhduytran0
 Depiction: https://khanhduytran0.github.io/repo/depictions/web/?p=com.kdt.trollpad
 SileoDepiction: https://khanhduytran0.github.io/repo/depictions/native/com.kdt.trollpad/depiction.json
+
+Package: com.ethanrdoesmc.truecuts
+Architecture: iphoneos-arm64e
+Version: 1.2.0
+Section: Tweaks
+Maintainer: EthanRDoesMC <ethanrdoesmc@gmail.com>
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>=13.0)
+Filename: ./file/arm64e/Truecuts.1.2.0.arm64e.deb
+Size: 5512
+MD5sum: 01bf7600dca16fb1e6c1053c88e19182
+SHA1: dddc3b47943f2c7ec56cc1a1006193d877fc6541
+SHA256: 6935e6d5d962817948054a3ecab3fc9f7265cd939ec447a7da4c75f50484cd35
+SHA512: 87b5829090ffdec9ee06cde8484e264a40249f4e49420a7e03b623f53dd3b8b02be5190b0a743329f8fe99b472ae529f05ee7da5ed075740535c77068ed4a801
+Description: Allow all Shortcuts automations to be run without asking!
+Name: Truecuts
+Author: EthanRDoesMC <ethanrdoesmc@gmail.com>
 
 Package: daniel.trustevaluator
 Architecture: iphoneos-arm64e
