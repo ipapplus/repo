@@ -2644,51 +2644,6 @@ Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: rpetrich
 
-Package: com.rpetrich.powercuff
-Architecture: iphoneos-arm64
-Version: 1.0.1
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 156
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
-Filename: ./file/arm64/Powercuff.1.0.1.arm64.deb
-Size: 14024
-MD5sum: a96a4d32a86e27f340a355ecd97f6c91
-SHA1: 35d85654115af1e53b6fdd93a1a523edbc9ba647
-SHA256: 08784efe454454f9b6b383205af343672d8fa27d81e880ac69f2805415de3fab
-SHA512: 567e6a1b0594ee483134d2104998a0de988a8d3bd4756da2f4567d9a394883db145d3ab58f732678e9fcf5afcb170c2cb9765af748c7ebbe871128df3f2eb040
-Homepage: http://rpetri.ch/cydia/powercuff/
-Description: Select from additional low power device states
-Tag: purpose::extension
-Name: Powercuff
-Depiction: http://rpetri.ch/cydia/powercuff/
-Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: rpetrich
-
-Package: com.rpetrich.powercuff
-Architecture: iphoneos-arm64
-Version: 1.1
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 188
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
-Filename: ./file/arm64/Powercuff.1.1.arm64.deb
-Size: 14084
-MD5sum: d899dea71443dd9801723d440984902a
-SHA1: 999343333f999859cf22168cd83a7cf9f964f0bd
-SHA256: 97b0e14adafb168e42de7122daeb604ab4c3a7ae681669a2d2d67d85da1e4fec
-SHA512: 81e0805fbc1e3c283c3502029893b2de7634e88929e0f64e8a459947b614e9a11f6f635bee1289c8f4448e79432cb91fb827425525ee44ddb5b62c761f4f5952
-Homepage: http://rpetri.ch/cydia/powercuff/
-Description: Select from additional low power device states , Supports Dopam1ne2 on iOS15.0 ~ iOS16.5 .
-Tag: purpose::extension
-Name: Powercuff
-Depiction: http://rpetri.ch/cydia/powercuff/
-Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: rpetrich
-Icon: file:///var/jb/Library/PreferenceLoader/Preferences/Powercuff/Powercuff.png
-
 Package: com.mtac.prefs.localizer
 Architecture: iphoneos-arm64
 Version: 1.2
@@ -7295,29 +7250,6 @@ MD5sum: 70dfbf45b2a508b729b3fd4dcbc71302
 SHA1: d50f41f073dcc8a60607b395ef066536f16be0a6
 SHA256: c8b1f26170fe3b68a0d78e92dd7c3e7113d08a2391beb9902e986e8d7ad6ea83
 SHA512: 6ec8334fb6af7aad6103fc54fa74359a9104ba4faeda3d9ea08df567997bda265bded2f4537ab3ff30b1bd01195ee7b69a9e9de924ea5665388a1b07f95be6e7
-Homepage: http://rpetri.ch/cydia/powercuff/
-Description: Select from additional low power device states
-Tag: purpose::extension
-Name: Powercuff
-Depiction: http://rpetri.ch/cydia/powercuff/
-Author: Ryan Petrich <rpetrich+powercuff@gmail.com>
-Sponsor: thebigboss.org <http://thebigboss.org>
-dev: rpetrich
-
-Package: com.rpetrich.powercuff
-Architecture: iphoneos-arm64e
-Version: 1.0.1
-Section: Tweaks
-Maintainer: BigBoss <bigboss@thebigboss.org>
-Installed-Size: 156
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5101), preferenceloader (>= 2.2.2)
-Filename: ./file/arm64e/Powercuff.1.0.1.arm64e.deb
-Size: 15744
-MD5sum: d5215e5291761f0e133157d79f7a98cf
-SHA1: dcc849e07e47d919554d3720dfea2786d9d38b49
-SHA256: 96e335efff62dfaed31299701164b3574bd3fe8fd7236305bc7eecf6d3a34d5d
-SHA512: e154e738f8cb9ea7adb3cafc3fc2507926673d5f0736bba26254da57370568bd4fdc1e095c327036f6eef5ceaae7a3d744c3aa947de62da9012e5e678c4cf01c
 Homepage: http://rpetri.ch/cydia/powercuff/
 Description: Select from additional low power device states
 Tag: purpose::extension
