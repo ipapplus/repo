@@ -576,14 +576,16 @@ Section: Tweaks
 Maintainer: choco
 Installed-Size: 14980
 Filename: ./file/arm/TGExtra.0.0.1-1+debug.arm.deb
-Size: 2293996
-MD5sum: c051f5cf2e82d488d991fc6dd48da832
-SHA1: b554d1ccf9b1bc307f27c1729b9882d9b54156be
-SHA256: 07337b81453e81283c6170a01d3347d025c38f362ca3901b5cd0274e99fca984
-SHA512: 071dbe497a4c67527a68611385a8ca561e1c2397ec811b21d864a645ba765cfcf73f9241026de26acd662815daa820a04a6cd92a377b4428f98e4dd034be99e1
+Size: 2294592
+MD5sum: 56af53fb436821485697be0bf5582d1d
+SHA1: c70962a49d315412541a2d732d4b7de50595c59d
+SHA256: 231dfe97b55d7b53236bf1134316166840349b1dd657f70303d701091ee80363
+SHA512: 93951a990b5b9c43dd0f88a1cae8373249afbeda45246c3b40e289be87a3aa87bf3af294b602660dbf4ffc96fdd3ceb90638e194040d37e112499b70c3553549
 Description: An simple telegram tweak!
 Name: TGExtra
 Author: choco
+Icon: https://arm64.pro/a/TGExtra/x.png
+Sileodepiction: https://arm64.pro/a/TGExtra/a.json
 
 Package: com.fahd00075.arabic
 Architecture: iphoneos-arm
@@ -3171,14 +3173,16 @@ Section: Tweaks
 Maintainer: choco
 Installed-Size: 14980
 Filename: ./file/arm64/TGExtra.0.0.1-1+debug.arm64.deb
-Size: 2290888
-MD5sum: ed16ff5352a13d6799e482e658ff802a
-SHA1: 88abe9817dca86e5c5bc1a2ed1390ade2da62cfe
-SHA256: d399db95fce6c0a7b3acfc24f84790db125cda9e9bd7b384a89e88369bbf1b53
-SHA512: b6807ce5df29944764f7628736377a7cb1a80e55808307dc9bbbcd34bf6d94b500a9e167fcbad1769aad91206d2aa1bd371d35fae7327c50db8850ab3f936f58
+Size: 2293200
+MD5sum: d52c70dcd9996cc72eab704364f972c1
+SHA1: e329ab0a78a81b2930c620f7bf8d470e9ac15217
+SHA256: fc2ca9c24dc313dbf69dd1b811432f5487eb6fbab7ddb5afd1929d144c5d5117
+SHA512: f8b4bd6eb44591fab39e75817c63dc126dfca155c6456e044eca580c80ff58802bcdec6aff83a297f7b0d1beb5acad5605f14eff5256d715cf84821f9303dc9c
 Description: An simple telegram tweak!
 Name: TGExtra
 Author: choco
+Icon: https://arm64.pro/a/TGExtra/x.png
+Sileodepiction: https://arm64.pro/a/TGExtra/a.json
 
 Package: com.fahd00075.arabic
 Architecture: iphoneos-arm64
@@ -8325,14 +8329,16 @@ Maintainer: choco
 Installed-Size: 14980
 Pre-Depends: rootless-compat(>= 0.9)
 Filename: ./file/arm64e/TGExtra.0.0.1-1+debug.arm64e.deb
-Size: 2295792
-MD5sum: d6b25c3be71986fd466bc350d1e6a001
-SHA1: 666f2d99d6362da6d0c369c5aac2e5cb26c6b9bf
-SHA256: 8ac470a02d3f410a1b89199d46d173e0b95709291262058b632be54877670bff
-SHA512: fc2218755cc51c31cae470db3dfdd1ab08eb3d7bd7f1a7f0e6fbd6bb971155025681d3e419f6ff1d665af43e13fd6e09407bdf1803b2fdbb2bcdff5d6c4abd27
+Size: 2292964
+MD5sum: ca7e4f97dd3943d6fd5646ca9ad63d75
+SHA1: b4df56ecb43dbe27f0e3c91fd3daa56f5c7dfe5b
+SHA256: ae39c5bf9b1e7ec0695cd3dc7b5175e7acd7604d8f28f9327503e4bba5ba8189
+SHA512: b114dc690c2061b448dc00d3b160785c957ef20a16851d440d55e5ab95feca0683bbb4dd047dc49a3de795516353eeb0d62724eb7f18f888e69905cc3cbca883
 Description: An simple telegram tweak!
 Name: TGExtra
 Author: choco
+Icon: https://arm64.pro/a/TGExtra/x.png
+Sileodepiction: https://arm64.pro/a/TGExtra/a.json
 
 Package: com.fahd00075.arabic
 Architecture: iphoneos-arm64e
