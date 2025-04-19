@@ -4932,6 +4932,24 @@ Description: Your Copy Vault, Your Pasteboard
 Name: CopyVault
 Author: SquidForce
 
+Package: com.squidforce.copyvault
+Architecture: iphoneos-arm64e
+Version: 1.9.0
+Section: Tweaks
+Maintainer: SquidForce
+Installed-Size: 6304
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./file/arm64e/CopyVault.1.9.0.arm64e.deb
+Size: 4861692
+MD5sum: 671814f07fe8bffc2f52df594435a7f5
+SHA1: cf81f0b31742a4f3d5ae7d82e5c14f8b4d4be67a
+SHA256: 93f9f8493946cda84e2d5549548d9769bdbe38fdbf3bdd72f5733e0f3c14a72c
+SHA512: 98207500b50960fa8e6d2c18cab925e88174909f39368f3ae3dcffe8562b6106fb78203c76773f455e5ceeef9eb4f31f402f6496174c38768773aee3328ff5cc
+Description: Your Copy Vault, Your Pasteboard
+Name: CopyVault
+Author: SquidForce
+
 Package: com.muirey03.cr4shed
 Architecture: iphoneos-arm64e
 Version: 4.3.1-1+debug
