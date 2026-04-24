@@ -55,6 +55,23 @@ SileoDepiction: Jailbreak development tool for XCode
 Depiction: Jailbreak development tool for XCode
 Author: chaoge
 
+Package: com.0xkuj.iparanger
+Architecture: iphoneos-arm
+Version: 2.2
+Section: Applications
+Maintainer: 0xkuj
+Installed-Size: 11496
+Depends: gawk, unzip, plutil
+Filename: ./debs/arm/com.0xkuj.iparanger_2.2_iphoneos-arm.deb
+Size: 3438452
+MD5sum: 423718f476d9b3e5c202fb844a697484
+SHA1: 669738e9074156f65bbe280d232d819f5f1789b3
+SHA256: 29865537f271b439fbe6edf3e4debc8982215123c761e2d3e23604e03c9fb8eb
+SHA512: 40e9e600425099d45f40dee32bf6685aad3d1139cae4e98e521835b8f6e855578ea26024641a624d6ffe515664f0699713543a83c0f520a8983318f01456916b
+Description: GUI Based Application for ipatool
+Name: IPA Ranger
+Author: 0xkuj
+
 Package: com.82flex.libsandyxpc
 Architecture: iphoneos-arm
 Version: 1.1.2
@@ -215,6 +232,44 @@ Description: An awesome tweak for TikTok!
 Name: BHTikTok Plus
 Author: dvntm
 Icon: https://i.imgur.com/PKIhkrt.png
+
+Package: com.bandarhl.bhtwiter
+Architecture: iphoneos-arm
+Version: 5.0-1
+Section: Tweaks
+Maintainer: Bandar Alruwaili & actuallyaridan
+Installed-Size: 24456
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhtwitter
+Filename: ./debs/arm/com.bandarhl.bhtwiter_5.0-1_iphoneos-arm.deb
+Size: 7739884
+MD5sum: 92cd9d2294371235fe4d793137388b81
+SHA1: 2232b9bb724e536c7100c060cea31ef0b3876e7c
+SHA256: 7f96ba0ea1c4e2b085cbc765af551266cdc68cee5da186cbb5141175371c29fb
+SHA512: ea304aa1e8d5191b6f58782d7d2f8ca151805799a3db7f550e0c304dca1667b11d94578cece0091deb4dd3f40d2a173f3f68700cac5aa300d46c3f00ec355bdd
+Description: Awesome tweak for Twitter
+Name: BHTwitter NeoFreeBird
+Author: Bandar Alruwaili & actuallyaridan
+Icon: https://i.imgur.com/d6ywvWb.jpeg
+
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm
+Version: 4.4
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 18344
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/arm/com.bandarhl.bhtwitter_4.4_iphoneos-arm.deb
+Size: 6705712
+MD5sum: f9f5fa81f216d14a359ab3919792ab5f
+SHA1: 1d60fcbe86927c76683e8881f0e6fcc303e22458
+SHA256: 725a77bb6273face7f46bc5891b71efae2cc6e9525b56af22846010217c2748e
+SHA512: cc1c9eaf5d4a54900ba164786b8d74a60aa213d6676f471462d07aec0af349db3143f6268b0d15cc5288261efe476d2d9f7e212329f74e9c09e05d8eb2747e9e
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
+SileoDepiction: https://a7m.dev/file/BHTwitter.json
+Icon: https://i.imgur.com/KHtcJGx.jpeg
 
 Package: com.blatant.aicoversongsmusicgeneratorpatch
 Architecture: iphoneos-arm
@@ -1239,6 +1294,25 @@ Description: Provides legacy WhatsApp version support by spoofing as up-to-date
 Name: WALegacy
 Author: dvntm
 
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm
+Version: 5.2b4
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16732
+Depends: mobilesubstrate
+Filename: ./debs/arm/com.dvntm.ytlite_5.2b4_iphoneos-arm.deb
+Size: 6415384
+MD5sum: 7a61a9424b7bed3731473c51ee512c1b
+SHA1: d4850a0a9313c3c64588c912c38230b408122f18
+SHA256: 93fbda6768a68ea0f38269c167476ab457614b5235764d4d02d6b31e7cd8b123
+SHA512: 9b3566ec17ba0d36fecc943e6ad023d8b4e4432a352d08de0384ab60c79f46804d93dbb4c862b9e6ed3e9003657b665cb5d35e5ddf73eea89b1c3473505be6b0
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
+
 Package: com.f0u4d.onlinenotify
 Architecture: iphoneos-arm
 Version: 3.4.15
@@ -1346,6 +1420,23 @@ SHA512: b4bc221fd7bdbccbd2640178f1690faae6d8b914cd953a6055956e0cf263a3b5d674b91b
 Description: Paid tweak for Jodel
 Name: JodelLRD
 Author: iStorePlus1
+
+Package: com.joshua.volumeflex
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: Joshua Wheeler
+Installed-Size: 5136
+Depends: mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/arm/com.joshua.volumeflex_1.1_iphoneos-arm.deb
+Size: 1110768
+MD5sum: a83082bc1a353acc025f8951def14285
+SHA1: faa1a37c1195e62cd5810a4b3cb972954b9c1e8b
+SHA256: e2da93be0417508169b0a4ace82953c51267fc1eee4458344dc11774ce58c5a1
+SHA512: 64a6a1696dc01295b11cc4328e2ac16784e590772a67fd0629eb11eff3826fb155bc1b34befee525afcd6d9d182a124dabeb3fab6a3575a45e307d7bf43bd17c
+Description: The world does not need another FLEX loader but people with fat fingers do.
+Name: VolumeFLEX
+Author: Joshua Wheeler
 
 Package: com.julioverne.lowerinstall
 Architecture: iphoneos-arm
@@ -1951,6 +2042,24 @@ Description: A CarPlay inspired notifications look!
 Name: ReverseNotifications
 Author: SynnyG_R <synnyg.devjb@gmail.com>
 
+Package: com.wgold.whatsapp
+Architecture: iphoneos-arm
+Version: 1.7
+Section: Tweaks
+Maintainer: WGold Team
+Installed-Size: 3652
+Depends: mobilesubstrate
+Conflicts: com.alilatif.wgold
+Filename: ./debs/arm/com.wgold.whatsapp_1.7_iphoneos-arm.deb
+Size: 2844204
+MD5sum: a40a6c6cfba0329e6048397f1ab16de5
+SHA1: c64a481c4cfc672e7f6714309b2846ed7e734e55
+SHA256: 3f6151cf39362516ad3fd4f17c24a6843ff12303c55488356c8c3662a41b64c7
+SHA512: a7ccca4b33cec0d8db2415344e42fae11bfc1560733c0a4fe77a6c2c1f36bc6653681bc825de1667957fe079485fb7d932cfaa6f556169b0633faa2aa69122d1
+Description: واتساب جولد - تويك للواتساب مع ميزات إضافية
+Name: WGold
+Author: WGold Team
+
 Package: com.yourepo.ibreak.hideseparator
 Architecture: iphoneos-arm
 Version: 1.9.2
@@ -2052,6 +2161,23 @@ Description: Block applications from creating their own albums
 Name: BlockAppsCreateAlbum
 Author: Netskao
 
+Package: org.coolstar.classicfolders2
+Architecture: iphoneos-arm
+Version: 3.0.6
+Section: Tweaks
+Maintainer: CoolStar
+Installed-Size: 4468
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
+Filename: ./debs/arm/org.coolstar.classicfolders2_3.0.6_iphoneos-arm.deb
+Size: 3290260
+MD5sum: 59e20717f2cc0e170b766f8067f15c6c
+SHA1: 749892a2da2df9ed0580bd2ffbed5a294f4edf42
+SHA256: b255ddcff38ec5b21e31e058530c94cc50da7f1adc15953cb27be62c30fce4ac
+SHA512: 89912ac4d813755058ae17783530542dca73d60ed8d5114ebe2ae7d3fc06508acdbe89c5d761928d6a94875946c3531af06193fc6d4b32e4aabdcce4b7806be4
+Description: An awesome MobileSubstrate tweak!
+Name: ClassicFolders 2
+Author: CoolStar
+
 Package: sa.ipapplus.autorepomanager
 Architecture: iphoneos-arm
 Version: 1.1
@@ -2123,6 +2249,25 @@ Name: WAIgnoreCalls
 Author: nowesr1
 Icon: https://raw.githubusercontent.com/nowesr1/WhatsApp-Call-Blocker/refs/heads/main/Sileo/icon.png
 SileoDepiction: https://raw.githubusercontent.com/nowesr1/WhatsApp-Call-Blocker/main/Sileo/depiction.json
+
+Package: xyz.cypwn.appdata
+Architecture: iphoneos-arm
+Version: 1.4.1
+Section: Tweaks
+Maintainer: CyPwn
+Depends: firmware (>= 11.0), mobilesubstrate, preferenceloader
+Filename: ./debs/arm/xyz.cypwn.appdata_1.4.1_iphoneos-arm.deb
+Size: 5072436
+MD5sum: 85965779a33c7fd77408329100bc442e
+SHA1: d1dd937bf588d8ac63fbd09f4a4f14e2bf098c74
+SHA256: 92d3e059ffa274f3ebfabd9bd7fd35db0b2dfe8b86a36d6d5ca1713c4cdb00c0
+SHA512: 49470ae4043d46451d25f1c2a53cbb6a98875c645fc02b7faf7084a64f63a47de9a6df04a2d4eddf8993a3d76e3ba9b7a1689cfda413c03fafffc1900201474c
+Description: View & Manage Applications Data from your Home Screen
+Depiction: https://repo.cypwn.xyz/depiction/1391
+SileoDepiction: https://repo.cypwn.xyz/sileo_depiction/1391
+Name: AppData
+Author: Fouad Raheb
+Icon: https://repo.cypwn.xyz/assets/repo/Featured/appdata.png
 
 Package: a7m.saudi.font
 Architecture: iphoneos-arm64
