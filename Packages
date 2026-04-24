@@ -2712,6 +2712,44 @@ SileoDepiction: https://raw.githubusercontent.com/Qhtx/qhtx/refs/heads/main/Othx
 Icon: https://i.imgur.com/Pyp3fg8.jpeg
 Author: dvntm
 
+Package: com.bandarhl.bhtwiter
+Architecture: iphoneos-arm64
+Version: 5.0-1
+Section: Tweaks
+Maintainer: Bandar Alruwaili & actuallyaridan
+Installed-Size: 24456
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhtwitter
+Filename: ./debs/arm64/com.bandarhl.bhtwiter_5.0-1_iphoneos-arm64.deb
+Size: 7744104
+MD5sum: de74ea414f6930ec891fa9ed572f2290
+SHA1: 4be9bca9e7d044d532f2c36a464c8433e9168328
+SHA256: a8ac4a5e82e09d70efb4369eddd6ee1cd4388f35a5be40d97d2898f36d23fd1f
+SHA512: 93bf0b1a6f26650cfde89ab202748cbb38a7b873f1f1aad6ce5f9b5594d9d7bbb32d5ebbbd815541ff62c7066c6e28ddea3ac4fea6f8f2a848c0ec4e5d957e94
+Description: Awesome tweak for Twitter
+Name: BHTwitter NeoFreeBird
+Author: Bandar Alruwaili & actuallyaridan
+Icon: https://i.imgur.com/d6ywvWb.jpeg
+
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64
+Version: 4.4
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 18344
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/arm64/com.bandarhl.bhtwitter_4.4_iphoneos-arm64.deb
+Size: 6711320
+MD5sum: 25ec355eb827b7a8e3d251c0f8383730
+SHA1: c040835f0e375aec00028bae6526d1822a1cd47c
+SHA256: 4e71d4295fbb36593713c3fe87ba42bb194f865183af63d4d2f3298596abc4d4
+SHA512: 41d07d22c66e324836b6a67c754743d8c08d8ddb74795df02236c8dbfd32bb79562ddb9971127bc7e0419ab60b44c552b94697735db122d50dd0b78d1d846e9e
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
+SileoDepiction: https://a7m.dev/file/BHTwitter.json
+Icon: https://i.imgur.com/KHtcJGx.jpeg
+
 Package: com.blatant.aicoversongsmusicgeneratorpatch
 Architecture: iphoneos-arm64
 Version: 1.3.3.7
@@ -3938,6 +3976,25 @@ Name: WALegacy
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=walegacyDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: dvntm
+
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm64
+Version: 5.2b4
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16732
+Depends: mobilesubstrate
+Filename: ./debs/arm64/com.dvntm.ytlite_5.2b4_iphoneos-arm64.deb
+Size: 6411340
+MD5sum: 9555458e981588e75679c9af747d5d76
+SHA1: 44768a66536d8fb30050d444c05859567e71efbe
+SHA256: d6d865635c7ccb8adeb7ad3fda427d4c5927bb23602cbb66f3dde9d3ed72f61b
+SHA512: 0b1f435267360d0db35b2918db8b2d096553b2b0b2a23c4f2daefbd84d29b8f89026055ffa83fdf7d041844bf80d49feaab529b6dbacba15b11adf4104ee42e3
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
 
 Package: com.ethanrdoesmc.truecuts
 Architecture: iphoneos-arm64
@@ -5326,6 +5383,22 @@ Description: free DLTube no license required best compatible with YouTube V20.42
 Name: DLTube Free
 Author: ZeroDeadBeef
 
+Package: com.nowesr1.dltwitter
+Architecture: iphoneos-arm64
+Version: 2.1.6
+Section: Tweaks
+Maintainer: ZeroDeadBeef
+Depends: mobilesubstrate
+Filename: ./debs/arm64/com.nowesr1.dltwitter_2.1.6_iphoneos-arm64.deb
+Size: 5052344
+MD5sum: 46f906597511d24ed28c57beb22f4508
+SHA1: 304270fcd502998950e49178c3610f8a2562b512
+SHA256: 8510806f1b00bb17c251523e778952fcfd0943571b68965084b968dfdb0a2d6f
+SHA512: c6916ad702523fb5c79c5afc7eb7ce2ac8892836a9ee418673c88c2d32b9247088fedd517e58a01d5de1d0630a2d47dc9e9c6a6a3bf97da464769b2d33090e23
+Description: free DLTwitter no license required best compatible with X V411.48
+Name: DLTwitter Free
+Author: ZeroDeadBeef
+
 Package: com.nscake.noscrollbargrabdelay
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -5734,6 +5807,24 @@ Description: A CarPlay inspired notifications look!
 Name: ReverseNotifications
 Author: SynnyG_R <synnyg.devjb@gmail.com>
 
+Package: com.tigisoftware.filza64bit
+Architecture: iphoneos-arm64
+Version: 4.0.1-4
+Section: Utilities
+Maintainer: TIGI Software
+Installed-Size: 23200
+Recommends: zip, unzip, gzip, p7zip, unrar, xz-utils
+Conflicts: com.tigisoftware.filza, com.tigisoftware.filza39
+Filename: ./debs/arm64/com.tigisoftware.filza64bit_4.0.1-4_iphoneos-arm64.deb
+Size: 6972120
+MD5sum: 992fca59e720e87fcc4017a7e821c41c
+SHA1: 918e32a65d9b0fbc6c29a7b5b281390d1c5f468d
+SHA256: 65ca4cf8ccabd03d8c23d41d93099db18161d759707618e4b8bd7d57c9b0d21f
+SHA512: 2284c15317d9401c08f23860b246ccef86988b1f18b73d893327edbf32aab7979c5940814181e44a49c10bcfba8f6b63c7539c5f4ef14243bb7e43a2d2c6da4f
+Description: File Manager for iPhone, iPad, iPod Touch. Supports iOS 11+. This version only supports 64-bit devices
+Name: Filza File Manager 64-bit
+Author: TIGI Software
+
 Package: com.tonykraft.inosleep
 Architecture: iphoneos-arm64
 Version: 1.2.4
@@ -5807,6 +5898,24 @@ Name: DockX
 Author: udevs
 Icon: https://udevsharold.github.io/repo/depictions/com.udevs.dockx/icon/icon.png
 SileoDepiction: https://lclrc.github.io/repo/depictions/native/com.udevs.dockx/depiction.json
+
+Package: com.wgold.whatsapp
+Architecture: iphoneos-arm64
+Version: 1.8
+Section: Tweaks
+Maintainer: WGold Team
+Installed-Size: 3652
+Depends: mobilesubstrate
+Conflicts: com.alilatif.wgold
+Filename: ./debs/arm64/com.wgold.whatsapp_1.8_iphoneos-arm64.deb
+Size: 6236948
+MD5sum: 8afaca881b354f205f2c52a6fb8df164
+SHA1: 88cb5bf67dfef7e6ec22d45425c64976bf290e79
+SHA256: 0603ffb5a8a6f14b5a7b0faf561cce0748dd03fbbed398165cab2a217d62905c
+SHA512: c8b697b951b8a016cdfb065139a225ed2e80b592657930794e7864a01be4e7facea51b67b2e61a34a15c406a79df4107f173cda41f9dfc695d27ef100d34a37b
+Description: واتساب جولد - تويك للواتساب مع ميزات إضافية
+Name: WGold
+Author: WGold Team
 
 Package: com.wrp1002.nosettingsbadge
 Architecture: iphoneos-arm64
@@ -6209,6 +6318,23 @@ Name: NoSBReload
 Depiction: https://repo.alexia.lol/depictions/net.cadoth.nosbreload
 SileoDepiction: https://repo.alexia.lol/sileo-depictions/net.cadoth.nosbreload
 Author: alexia <me@alexia.lol>
+
+Package: netskao.appdata-rootless
+Architecture: iphoneos-arm64
+Version: 1.4.1
+Section: Tweaks
+Maintainer: Nets
+Installed-Size: 23032
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/arm64/netskao.appdata-rootless_1.4.1_iphoneos-arm64.deb
+Size: 5071788
+MD5sum: 6e9857c4d1bdca8b91fc5e26eaf3fe61
+SHA1: 765e67e82b48e8b6c788a009ff531138960299da
+SHA256: 950349b9547ffb0ffee16ab80ef35fe4c7a63c9ad3e8d4ff2cbfdd6ab670e032
+SHA512: 9321774fa5044262e0df0f847bbc2816b8023eea1560c54011ee5fa9f8a4d7820cfba50d07ec80818d3fe55788c154ecee8278a30899eb70d2b18a762b12cea8
+Description: View & Manage Applications Data from your Home Screen & downgrade
+Author: Fouad Raheb
+Name: AppData-Rootless
 
 Package: netskao.blockappscreatealbum
 Architecture: iphoneos-arm64
