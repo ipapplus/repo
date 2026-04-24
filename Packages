@@ -11853,6 +11853,26 @@ Description: CFBurstTrie keyword index files for iOS 16 and earlier
 Name: EmojiPort Resources — iOS 16 Assets
 Author: PoomSmart
 
+Package: com.ps.emojiport10resources-assets17
+Architecture: iphoneos-arm64e
+Version: 1.9.0
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 29708
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 17.0)
+Conflicts: com.ps.emojiport10resources (<< 1.9.0)
+Replaces: com.ps.emojiport10resources (<< 1.9.0)
+Filename: ./debs/arm64e/com.ps.emojiport10resources-assets17_1.9.0_iphoneos-arm64e.deb
+Size: 31946152
+MD5sum: 16d2bff102d3b16784723f0a0be1eda5
+SHA1: 8b302a52e13d61420192136a486483ea376df061
+SHA256: 0ee8c3e746439813454efac205ba488d2d2d41f2ed239c6ed07a616453ab76f6
+SHA512: 71ebf1aeb8f002098e9371cd5fdc3a12c0c4805971920dbade2543910d4d74ec8d694c8168734d7cba8cd15a3197cf94b980d22807e222a178c6f8815f2f4375
+Description: Marisa LOUDS trie keyword index files for iOS 17+
+Name: EmojiPort Resources — iOS 17+ Assets
+Author: PoomSmart
+
 Package: com.ps.emojiportpe
 Architecture: iphoneos-arm64e
 Version: 1.8.0
@@ -15303,6 +15323,29 @@ SHA512: 24430086398edbe115768ee4af5c98c9b0b16262fe9e2013bc42eed8e38304a719377a72
 Description: hAcx Daemon includes various helper functions for @hAcx tweaks & apps
 Name: hAcx Daemon (roothide)
 Author: Yaniv Danan (hAcx)
+
+Package: org.hacx.superrecorderxplus
+Architecture: iphoneos-arm64e
+Version: 3.32-3
+Section: Tweaks
+Maintainer: hAcx <superrecorder@hacx.org>
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate, org.hacx.hacxdaemon (>= 3.8)
+Conflicts: org.hacx.callrecorder, org.hacx.callrecorder.ios9, org.hacx.superrecorder, org.hacx.callrecorderxplus, org.hacx.superrecorder.ios9
+Replaces: org.hacx.superrecorderxplus.beta
+Filename: ./debs/arm64e/org.hacx.superrecorderxplus_3.32-3_iphoneos-arm64e.deb
+Size: 24049736
+MD5sum: 91a9569298ddc45009d030246ed7d55f
+SHA1: 7a1b48179237fe213814e42024924c7d2b64fb3d
+SHA256: 91721cff7366727ca01775b4b050d14889a22b33931c7353e8261befc0f2f360
+SHA512: 0a949eb74c38db7bfa1589c2c009be1b14e029d50826a577a75e5e1429c0a88dbe1302e894a72090a4c7eb560a58553470d578bb4ba2185bf3a8f6d3309e5b98
+Description: Native Call Recorder & Voice Amplifier for iOS 12,13,14
+Tag: purpose::extension, compatible_min::ios12
+Name: Super Recorder X+ (roothide)
+Icon: file:///var/jb/Applications/SuperRecorder.app/Icon.png
+Author: hAcx <superrecorder@hacx.org>
+Depiction: https://hacx.org/cydia/superrecorderxplus_depiction.php
+SileoDepiction: https://hacx.org/cydia/com.hacx.superrecorderxplus_sileo_depiction.json
 
 Package: org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm64e
