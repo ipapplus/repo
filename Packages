@@ -3521,6 +3521,23 @@ Depiction: https://dtcalabro.github.io/repo/depictions/?p=com.dcproducts.iossecu
 SileoDepiction: https://dtcalabro.github.io/repo/depictions/com.dcproducts.iossecuritysuitebypass/depiction.json
 Icon: https://dtcalabro.github.io/repo/depictions/com.dcproducts.iossecuritysuitebypass/icon.png
 
+Package: com.dell.chesspatch
+Architecture: iphoneos-arm64
+Version: 0.0.1
+Section: Tweaks
+Maintainer: Dell <tranthikimchi2601@gmail.com>
+Installed-Size: 244048
+Depends: mobilesubstrate
+Filename: ./debs/arm64/com.dell.chesspatch_0.0.1_iphoneos-arm64.deb
+Size: 2777928
+MD5sum: 98500d068f8a91c5bbec00371331f7c6
+SHA1: 915d00f65a6e2dcc38f60019f00ac06260c6ecd3
+SHA256: d4c68efa3bbf82f5ee62576b4e26a1e42fb783f3b5c26bb85558b9e9ba5e8bad
+SHA512: 5f482d1f33a2ddbc6b221f7e4aadf69e15edfb56be5dc99cbd581ec4a79c671a044fa3ca9187980dd7b9fa0e99a4ff3dc37c0ebf35f2a143a137fb97b229518d
+Description: Unlock Diamond Membership
+Name: Chess Patch
+Author: Dell <tranthikimchi2601@gmail.com>
+
 Package: com.den.igformat
 Architecture: iphoneos-arm64
 Version: 1.72-191+debug
@@ -4278,6 +4295,27 @@ SHA512: e586e37ff039991326fd0e93544d258b7296ba6faeb6d4c0bf2e1a14a1880ba61c32e876
 Description: Paid tweak for Jodel
 Name: JodelLRD
 Author: iStorePlus1
+
+Package: com.jailbreak365.safeccmodules
+Architecture: iphoneos-arm64
+Version: 1.5-1
+Section: Addons (ControlCenter)
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 5131
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 11.0), com.opa334.ccsupport
+Filename: ./debs/arm64/com.jailbreak365.safeccmodules_1.5-1_iphoneos-arm64.deb
+Size: 1129316
+MD5sum: 60728d7cbbc04d860e7b059d775efdd8
+SHA1: 349c01405ef1d5b9718a8ffed59536353102768d
+SHA256: 9e8be06a6f4cb54f85bc06485e3b0b7fd4b59d4a95100b3a937f04482d3e2cbb
+SHA512: 5febc81641c33018d7cafaa7ae567d1848e39d36021e25cf704febc8b8e340a866c5059956f4e72cf61aaea946fd3841168af579fdb2464d64d1c3050a77d155
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccmodulesDp
+Description: More control center modules for iOS 11/12/13
+Tag: purpose::extension, compatible::ios11, compatible::ios12
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=ccmodulesDp
+Author: jailbreak365 <jailbreak365@mail.com>
+Name: CCModules
+dev: jailbreak365
 
 Package: com.jaxroth.supporttheunsupportedrevived
 Architecture: iphoneos-arm64
@@ -5642,6 +5680,26 @@ Tag: role::developer
 Name: libSparkAppList
 Author: Spark
 
+Package: com.spark.snowboard
+Architecture: iphoneos-arm64
+Version: 1.5.37-Beta4-rootless
+Section: Tweaks
+Maintainer: Spark
+Installed-Size: 3268
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/arm64/com.spark.snowboard_1.5.37-Beta4-rootless_iphoneos-arm64.deb
+Size: 1123980
+MD5sum: 89e6d7e52da34f8ccfb8da63c4069664
+SHA1: cc4e2b39c5084f23843b6bb96dde4a4f57796fac
+SHA256: ec96344068f354ed6099af87a8b756f50ff4f9ef2c8894cb353262178a4fdc08
+SHA512: b3014c791190c7e7c6fd062b56899f7dcb02132d6169adaee1177679e2d65670ed65002ed324ab8b37df349818faa7cb73ac1e7d79547609bf8d98451f8a0319
+Description: Snowboard theming engine
+Name: SnowBoard
+Author: Spark & Dennis D. Bednarz
+
 Package: com.swing.appstorenoads
 Architecture: iphoneos-arm64
 Version: 0.0.1
@@ -6187,6 +6245,23 @@ Name: FreePIP
 Author: Soh Satoh
 SileoDepiction: https://repo.keycap.one/depictions/one.keycap.freepip.json
 
+Package: org.coolstar.classicfolders2
+Architecture: iphoneos-arm64
+Version: 3.0.6
+Section: Tweaks
+Maintainer: CoolStar
+Installed-Size: 4468
+Depends: mobilesubstrate, preferenceloader, firmware(>=15.0), com.ichitaso.iconorder
+Filename: ./debs/arm64/org.coolstar.classicfolders2_3.0.6_iphoneos-arm64.deb
+Size: 3290204
+MD5sum: 1802a1b1cc51790a070cfe0500b62393
+SHA1: 611167346e1fb9881df7bfce64397faf1ac4d83d
+SHA256: d60ef19137eef18dae8edaee0cf6dda863b9f1fbd05d2c769de2772ce1883371
+SHA512: ddfd40d36798c617fdf06ce944ef209cd8b6c50d9f3bef4099bf7dd0029f67b5d25db694ee5cda435a77f994483a65638cf82885b8e2821c7e20edf0eda1838c
+Description: An awesome MobileSubstrate tweak!
+Name: ClassicFolders 2
+Author: CoolStar
+
 Package: org.haxi0.derootifier
 Architecture: iphoneos-arm64
 Version: 1.3
@@ -6298,6 +6373,30 @@ Description: is a collection of scripts for easily managing repositories through
 Name: AutoRepoManager
 Icon: https://i.imgur.com/ZKCJQvf.jpeg
 Author: ipapplus
+
+Package: ws.hbang.newterm3
+Architecture: iphoneos-arm64
+Version: 3.0~beta1-3
+Section: Terminal Support
+Maintainer: HASHBANG Productions <support@hbang.ws>
+Installed-Size: 24244
+Depends: firmware (>= 14.0), zsh | bash | fish, coreutils, ncurses, system-cmds
+Recommends: gettext-localizations, iterm2-shell-integration, zsh-autosuggestions, zsh-syntax-highlighting
+Conflicts: ws.hbang.newterm, ws.hbang.newterm2
+Replaces: ws.hbang.newterm, ws.hbang.newterm2
+Filename: ./debs/arm64/ws.hbang.newterm3_3.0~beta1-3_iphoneos-arm64.deb
+Size: 3943580
+MD5sum: 53ead8a9f090cbe2ce6b5cd0df1ad6a3
+SHA1: c90ecf01ba948faef59f72e3a95eddf60dfa55ed
+SHA256: a2afd974ab6e9852c62057c882cab8edf417d92bc76a6854d815eb6eb5cecd3b
+SHA512: ff5417dac9b9ff8664372932da1b30c230765652a542e02901f99fd19f782434031270ada98b37eb41381b424f4b4961f070457c585d83043cceb5009e81385e
+Description: Powerful terminal app for iOS
+Tag: compatible_min::ios14.0
+Name: NewTerm 3 Beta
+Author: HASHBANG Productions <support@hbang.ws>
+Icon: https://img.chariz.cloud/icon/newterm-beta/icon@3x.png
+Depiction: https://chariz.com/get/newterm-beta
+Support: https://hashbang.productions/support/
 
 Package: xyz.skitty.ersatz
 Architecture: iphoneos-arm64
