@@ -8346,6 +8346,24 @@ Icon: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo.png
 Header: https://github.com/6gr8/IGFormat/raw/main/IGFormatLogo2.jpg
 SileoDepiction: https://raw.githubusercontent.com/6gr8/IGFormat/main/format.json
 
+Package: com.den.ighdmedia
+Architecture: iphoneos-arm64e
+Version: 1.1-2
+Section: Tweaks
+Maintainer: DeNsor
+Installed-Size: 20388
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64e/com.den.ighdmedia_1.1-2_iphoneos-arm64e.deb
+Size: 7066996
+MD5sum: e7c3afe72b015535bd7e844bc6cceaac
+SHA1: cf6ac34ab775ca0685d5dab8ff910152fe44be9e
+SHA256: 18078865cff16874008c5670c5e35ad09f01229b1f38a42c416baeede7a6c44b
+SHA512: 8c38ee1ec0c329bb5749a2780d5ccbe0b68a12bfa9950f461a9b196d5725cec5433169456b2459573270d700e650a9d659380f62ba557960949e7186a2c47dd2
+Description: Download Instagram Reels and Stories in 1080p FHD quality
+Name: IGHDMedia
+Author: DeNsor
+
 Package: com.den.locktouchx
 Architecture: iphoneos-arm64e
 Version: 1.3-18+debug
@@ -11795,6 +11813,25 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/emojilibrary.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/emojilibrary.json
 
+Package: com.ps.emojiport10resources-assets16
+Architecture: iphoneos-arm64e
+Version: 1.9.0
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 47348
+Depends: firmware (<< 17.0)
+Conflicts: com.ps.emojiport10resources (<< 1.9.0)
+Replaces: com.ps.emojiport10resources (<< 1.9.0)
+Filename: ./debs/arm64e/com.ps.emojiport10resources-assets16_1.9.0_iphoneos-arm64e.deb
+Size: 16255052
+MD5sum: 9d4909ff0c9dfc632e6c42382bd44555
+SHA1: 4007720c3fb643d95dc74745bb21502161e19b48
+SHA256: d8f3e70bafba68e57cd766e7898def32adbf15238acb173248cef2907eeadbca
+SHA512: e850b48fbb31a4a57872c36c37405017629415eb6e31f9964ce9ab38f1970de881cfd399047f58d4bae638d2ce67c92029107840357d63ae815dc164b2d9c1cf
+Description: CFBurstTrie keyword index files for iOS 16 and earlier
+Name: EmojiPort Resources — iOS 16 Assets
+Author: PoomSmart
+
 Package: com.ps.emojiportpe
 Architecture: iphoneos-arm64e
 Version: 1.8.0
@@ -14371,6 +14408,23 @@ SHA512: b792b13eccd49e166d07cae0bbcf49d5c2a538279a9a33fedc0e44d2a6fe2992a814fee1
 Description: Modified version of mineeks tweak that lets you specify the minimum version and bypass installd version check
 Name: appstoretroller
 Author: Mineek
+
+Package: dev.objcmsgsend.theta
+Architecture: iphoneos-arm64e
+Version: 5.1
+Section: Tweaks
+Maintainer: objc_msgSend
+Installed-Size: 41992
+Pre-Depends: rootless-compat(>= 0.9)
+Filename: ./debs/arm64e/dev.objcmsgsend.theta_5.1_iphoneos-arm64e.deb
+Size: 15478816
+MD5sum: 6decef736cf8701293841b61be049b74
+SHA1: 1e58bb671fb0b2aeea05faf0cd07674af4d90321
+SHA256: 3a66fd32c5606afe51fc50b2d6bd73ab87f369f98da33a53e66a582c5f7bb6c9
+SHA512: 42271d8314f3e0959efb1636069e8970eff544119ed95d3534fdc573c5cfab4e80df1898fcecb810dc3d309eb6164e90bf89e417485728df91b200fb3ba70b35
+Description: An awesome tweak for Instagram!
+Name: Theta
+Author: objc_msgSend
 
 Package: dev.traurige.eneko
 Architecture: iphoneos-arm64e
