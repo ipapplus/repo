@@ -9046,6 +9046,27 @@ Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
 SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
 Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
 
+Package: com.fouadraheb.regram
+Architecture: iphoneos-arm64e
+Version: 2.8.1
+Section: Tweaks
+Maintainer: Fouad Raheb <support@fouadraheb.com>
+Installed-Size: 47784
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/arm64e/com.fouadraheb.regram_2.8.1_iphoneos-arm64e.deb
+Size: 17173592
+MD5sum: 707cde22d52f96f3545ae6200c68ae6b
+SHA1: 7bff73e12658511772bd47625f14437a16c4ed78
+SHA256: 509fe2c3d5086d9eeb21f1ea2bf480187bb99c2797fb29d94f1edf68ab8b69b7
+SHA512: 3f49800076b208afcb59d21909e9bce6836c9971890e33a51921bd9b3c77005f7635295275e1efdf9751774a4c9d8f5eed9e2c538e29b75acafb1d7beb2beacb
+Description: The all-in-one tweak for Instagram
+Name: Regram for Instagram
+Author: Fouad Raheb <support@fouadraheb.com>
+Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.regram
+Icon: file:///Library/Application Support/Regram/Resources.bundle/logo_filled@3x.png
+
 Package: com.fouadraheb.watusi3
 Architecture: iphoneos-arm64e
 Version: 1.3.9
@@ -14573,6 +14594,27 @@ Description: You can arrange apps on the dock of keyboard ⌨️.
 Name: KBApp
 Author: Dcsyhi
 icon: https://dcsyhi1998.github.io/icons/kbappdock/icon@2x.png
+
+Package: jp.dcsyhi.zetsu
+Architecture: iphoneos-arm64e
+Version: 1.6.2
+Section: Tweaks
+Maintainer: Dcsyhi <dcsyhi1998@gmail.com>
+Installed-Size: 12005
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate,firmware (>=15.0),preferenceloader,com.opa334.ccsupport
+Filename: ./debs/arm64e/jp.dcsyhi.zetsu_1.6.2_iphoneos-arm64e.deb
+Size: 20322644
+MD5sum: 2c9af7980843bc5f34f924d2af755ce8
+SHA1: 9830068fa4a718c5b194aef3dd05d33e694da429
+SHA256: e2ca3e2f993680ddaf2f52fa268fcde7bbdc4547be755821fdea309a818fa785
+SHA512: aba625b269c106aade5453bd82960320aad7a7cfeaba865e81fd27fc26e8e91a69f5a3c51a47b151dc652d25f9d442e3f3f92f5f89981364b9fe86c386f93572
+Description: Multitasking on iOS15 - iOS16.
+Tag: compatible_min::ios15.0
+Author: Dcsyhi <dcsyhi1998@gmail.com>
+Name: Zetsu
+Icon: https://img.chariz.cloud/icon/zetsu/icon@3x.png
+Depiction: https://chariz.com/get/zetsu
 
 Package: jp.r-plus.menusupport
 Architecture: iphoneos-arm64e
