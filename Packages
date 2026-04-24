@@ -10725,6 +10725,24 @@ Description: A Tweak that makes the island look mini when playing music!
 Name: MiniIsland
 Author: Nathan Senter
 
+Package: com.nathan.ngrokios
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Priority: optional
+Section: Networking
+Maintainer: Nathan
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>> 14)
+Filename: ./debs/arm64e/com.nathan.ngrokios_1.0.0_iphoneos-arm64e.deb
+Size: 10511388
+MD5sum: 1d763a6541b56cbcc694baca4999d2fe
+SHA1: ef12e2f93a8b34fc6b02995ae3f540cb9e28e56a
+SHA256: 261bd8c7c978a2fd2a2b55f2a74547f3d1066eb0a1776c679290d1d362d5ec5e
+SHA512: 6c1db7161cf8b24d75ec27acadc6f80dd8f3bd4ed264b4d3be825cc006f1c6a7c0dd36a6fff360875d2298a085fca73766de996c54d655b1c7f8aaaf611bb7bb
+Description: ngrok for iOS
+Name: ngrok
+Author: Nathan
+
 Package: com.nathan.nosirifeedbacklogs
 Architecture: iphoneos-arm64e
 Version: 1.0.1
@@ -11119,6 +11137,23 @@ SHA256: 005743385b9aa613748109ca0f8e9920e4307232db561862ac52efa4245667a7
 SHA512: 697911867261a3d65b1f51f1f96255edf6e213e4acd0c66185d45f34adbfde8b9d65677da19e1687e94b48744c01623432b9fd52f47bc2847f1870125c73c730
 Description: free DLTube no license required best compatible with YouTube V20.42.3
 Name: DLTube Free
+Author: ZeroDeadBeef
+
+Package: com.nowesr1.dltwitter
+Architecture: iphoneos-arm64e
+Version: 2.1.6
+Section: Tweaks
+Maintainer: ZeroDeadBeef
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/com.nowesr1.dltwitter_2.1.6_iphoneos-arm64e.deb
+Size: 10023076
+MD5sum: d54e37fa4552787883fccca92d6d8772
+SHA1: 1fae52034db734d0a1d65410eec0a78eb36c07f7
+SHA256: 889f94e3823636ea758e2c6842ff74888866e4ee3feb6ac4fe5ab9f783903a39
+SHA512: 6ff38c0039f7dbc1bad38b3d7a8ae774ed019f9dc6a250170fcdbf06fbe9b51f6e5085a1feb166f39d32646ca017ca212f4814e011a2cdff42968c153cfd01d7
+Description: free DLTwitter no license required best compatible with X V411.48
+Name: DLTwitter Free
 Author: ZeroDeadBeef
 
 Package: com.nscake.noscrollbargrabdelay
@@ -13850,6 +13885,26 @@ Author: TIGI Software <satashi2009@gmail.com>
 dev: satashi2009
 Icon: file:///Applications/ADManager.app/AppIcon60x60@2x.png
 
+Package: com.titand3v.libtitand3vuniversal
+Architecture: iphoneos-arm64e
+Version: 1.9
+Section: System
+Maintainer: TitanD3v
+Installed-Size: 13120
+Filename: ./debs/arm64e/com.titand3v.libtitand3vuniversal_1.9_iphoneos-arm64e.deb
+Size: 10089440
+MD5sum: bf6fc8fc16253158ae4581dd80e5bf7e
+SHA1: 1aca99d9e2687c12c89d4087c1b4e99b21a3ecbe
+SHA256: 5227bf413f66675b4f2e90f307b72ed294e7d91f0069f5a15652ee1d25641e28
+SHA512: 54c0e23289cef14ba79c1e6670c3e15e3918aa582c3eba3ba73e491832b1d439c8d5c9f8182c10ffce7eebcf3f2ab58b1d5f081b9ffc7bacc30b672c103edd9e
+Description: TitanD3v universal library!
+Tag: role::developer
+Name: libTitanD3vUniversal
+Author: TitanD3v
+Depiction: https://a7m.dev/file/a/titand3vlib/index.html
+Icon: https://a7m.dev/file/a/titand3vlib/assets/icon.png
+SileoDepiction: https://a7m.dev/file/a/titand3vlib/index.json
+
 Package: com.titand3v.speedy
 Architecture: iphoneos-arm64e
 Version: 1.0
@@ -14658,6 +14713,28 @@ Depiction: https://apt.alfhaily.me/depiction/4EYOXC
 SileoDepiction: https://apt.alfhaily.me/depiction/sileo/4EYOXC
 Icon: https://apt.alfhaily.me/cdn/assets/rocket-icon.png
 
+Package: me.ikghd.inkplus
+Architecture: iphoneos-arm64e
+Version: 4.0
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Installed-Size: 26852
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.1)
+Filename: ./debs/arm64e/me.ikghd.inkplus_4.0_iphoneos-arm64e.deb
+Size: 9350916
+MD5sum: cf76098f433509b1890d8b05ccbcad28
+SHA1: 2035096fcd2250e1ded7f4bc2ea1b46e93b021c5
+SHA256: 7af72bb5727f7b70d4db76fe918b35c8205f5f0153874a2b3035960570bd1e08
+SHA512: 7782c5e3801b02d912f645f0524ae8d4f873e9e32bb7995c08a486a55e9a3aa1355fab8e2ad61894f171d931b9dbe01284f7ae28f781da765386ff24c7d822c3
+Description: a whole new Instagram Experience!
+Tag: purpose::extension, compatible_min::ios15.1, compatible_max::ios26.6
+Name: iNKillerPlus
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.inkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.inkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.inkplus.png
+
 Package: me.ikghd.pmp
 Architecture: iphoneos-arm64e
 Version: 1.12
@@ -14703,6 +14780,28 @@ Author: iKarwan <ikghd3@gmail.com>
 Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ttkplus
 SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ttkplus.json
 Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ttkplus.png
+
+Package: me.ikghd.ytkplus
+Architecture: iphoneos-arm64e
+Version: 5.0.1
+Section: Tweaks
+Maintainer: iKarwan <ikghd3@gmail.com>
+Installed-Size: 27048
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 14.3)
+Filename: ./debs/arm64e/me.ikghd.ytkplus_5.0.1_iphoneos-arm64e.deb
+Size: 9379416
+MD5sum: 1ce69f16239bf13eda05fe1a40f7807f
+SHA1: a0706568a1e11ade51eabba1e5b6429dcacdaa9d
+SHA256: aec43f37268f4352eb7a5d742d25c6eb4ec36a7b3bba7a8a38b3fc6d79d178b6
+SHA512: 9558012cc79850ffe14915785b56ca883a3f8f82310583d909db283390b0e6c166ea0239f723547ee2baefb134487e2f9122c32a64ce0f8e79cdc0fe220acb47
+Description: a whole new YouTube Experience!
+Tag: purpose::extension, compatible_min::ios14.3, compatible_max::ios26.6
+Name: YTKillerPlus
+Author: iKarwan <ikghd3@gmail.com>
+Depiction: https://repo.ikghd.me/depictions/?p=me.ikghd.ytkplus
+SileoDepiction: https://repo.ikghd.me/sileodepictions/me.ikghd.ytkplus.json
+Icon: https://repo.ikghd.me/assets/icons/me.ikghd.ytkplus.png
 
 Package: me.jjolano.fmwk.hookkit
 Architecture: iphoneos-arm64e
