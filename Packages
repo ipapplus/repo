@@ -1,0 +1,57 @@
+Package: com.babylon-vip.adblockpro
+Architecture: iphoneos-arm
+Version: 0.1
+Section: Tweaks
+Maintainer: Haidar_Phantom
+Installed-Size: 216
+Depends: mobilesubstrate
+Filename: ./debs/arm/com.babylon-vip.adblockpro_0.1_iphoneos-arm.deb
+Size: 43876
+MD5sum: 99e08a13d3741d179761fe2a81e41d58
+SHA1: 09e1df94d36995cff0435ab6cbd0c861abade545
+SHA256: 96cb519c9e0432b04260e39ee33b4ceade2a4ae792a5df850f8600a333e69418
+SHA512: 612c9a3fa0945e051c34c4d282807a92eacc2c2d18f162a58bcc1753663dd9641e5435a22a6ca841952314d507c23b18ccf31478634e00d25845a9aa869f4990
+Description: Enable Premium Subscription
+Name: AdBlock Pro
+Author: Haidar_Phantom
+Icon: https://i.imgur.com/91cYYdn.jpeg
+
+Package: com.randy420.tools
+Architecture: iphoneos-arm64
+Version: 2.3.9
+Section: System
+Maintainer: Randy420 <randy.skinner@hotmail.com>
+Installed-Size: 2392
+Depends: firmware (<= 15.0) | cy+cpu.arm64v8 | oldabi-xina | oldabi
+Replaces: com.randy420.encrypt
+Filename: ./debs/arm64/com.randy420.tools_2.3.9_iphoneos-arm64.deb
+Size: 548012
+MD5sum: 97a99a5adec809445984f7d739788903
+SHA1: 37ddc599dbb0fdcee322f329113f26d587e65983
+SHA256: 0249beee02f3ff7fae57abba136cb96fe4c14bc4a60b0ce4d1e1509c95b53e6d
+SHA512: 2832d9ca91761e5d951bd689c30e30ca03094ebc414b659e411f8aedcb5acd87a6486508fa64b2a5e4f01614533c369c4fe9899d62cae3a5f9edc6e95867642e
+Homepage: https://theemeraldisle.family
+Description: 420Tools holds the preferences for all my tweaks as well as shared files for my tweaks.
+Tag: role::hacker
+Name: 420 Tools
+Depiction: https://Randy-420.GitHub.io/depic/420Tools.html
+Author: Randy420 <randy.skinner@hotmail.com>
+
+Package: com.0xkuj.3dappversionspoofer
+Architecture: iphoneos-arm64e
+Version: 2.1.1
+Section: Tweaks
+Maintainer: 0xkuj
+Installed-Size: 408
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: com.opa334.altlist
+Filename: ./debs/arm64e/com.0xkuj.3dappversionspoofer_2.1.1_iphoneos-arm64e.deb
+Size: 59244
+MD5sum: 30495134927d56228ce3f9ad9c30c323
+SHA1: 1247dd47071b3d76f43892dc5b7a974e23e83cb3
+SHA256: 441dbbe1feed6656149879e6e93f40b7beab3d86815b278e025d9d84796dcf1b
+SHA512: 2134d8b8619ca9b7ad7615c20a57f69d3efc603b3031b086cf74559eaddb734ab96f3b6d368c108a8e596ac1db6d01ac677b4c9cc4a3ca1e6ad8ec5749e01228
+Description: A tweak to add app spoofing capabilities right from your 3D menu and prefs
+Author: 0xkuj
+Name: 3DAppVersionSpoofer
+
