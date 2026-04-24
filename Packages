@@ -7996,6 +7996,31 @@ Name: Barmoji
 Depiction: https://apt.cpdigitaldarkroom.com/depictions/com.cpdigitaldarkroom.barmoji/
 Author: CP Digital Darkroom <admin@cpdigitaldarkroom.com>
 
+Package: com.crazymind90.appeditor
+Architecture: iphoneos-arm64e
+Version: 3.8.10.7
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 58953
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate (>= 0.9.5000), ldid
+Filename: ./debs/arm64e/com.crazymind90.appeditor_3.8.10.7_iphoneos-arm64e.deb
+Size: 40014792
+MD5sum: 6049da04aade45b3a2d4aa3d07ef3fef
+SHA1: 991a5b49db4df697cccd9fec9fb86c68911f8693
+SHA256: 15bb2580b0fd136c394ab2ead7670d04be64910ccf8d06c11dc4afa00b8fc925
+SHA512: 3582c162a3464fbddec8d79f603ab2ba56050767d4fd188691cb0ec79658b941fc6a9888a3ee9ba0f5397f854506e8fc795582fc29e37f089421238c6ad35cfb
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appeditorDp
+Description: Gain Full Access and Control Over Your Applications
+Tag: purpose::extension
+Author: @CrazyMind90 <CvCrazyMind@gmail.com>
+Name: AppEditor
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=appeditorDp
+Sileodepiction: https://crazy90.com/repo/1.json
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: crazymind90
+Icon: https://i.imgur.com/LliWQgV.jpeg
+
 Package: com.creaturecoding.libcspreferences
 Architecture: iphoneos-arm64e
 Version: 1.5.8
