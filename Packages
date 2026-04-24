@@ -2573,44 +2573,6 @@ Author: Ivano Bilenchi <support@ib-soft.net>
 Depiction: http://ib-soft.net/depictions/?pkgId=com.exile90.icleanerpro
 Icon: https://raw.githubusercontent.com/ichitaso/file/refs/heads/main/images/Icons/iCleaner.png
 
-Package: com.f0u4d.onlinenotify
-Architecture: iphoneos-arm64
-Version: 3.4.17
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 668
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.24)
-Filename: ./debs/arm64/com.f0u4d.onlinenotify_3.4.17_iphoneos-arm64.deb
-Size: 185944
-MD5sum: 2ab822cfb977bb4ac2573353aeb76ed6
-SHA1: 409246b3005b4e17c1da01afa1df79ee7e3ea195
-SHA256: a40d33378ee598912036e457e9c803293c41f55194a01dfc2667be33c1012516
-SHA512: 89eb0c25226bddef030aefd776a0c723fe3404565bb21c9ba8b1f5c01ae36384e4ee2858bd2ca56a196e975c8ae993d4d164cbad09ebb1594bab938350365928
-Description: Track your friends on WhatsApp Messenger!
-Name: OnlineNotify
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.onlinenotify
-Icon: file:///Library/Application Support/OnlineNotify/Resources.bundle/OnlineNotify.png
-
-Package: com.f0u4d.stalky
-Architecture: iphoneos-arm64
-Version: 4.2.1
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 2428
-Depends: firmware (>= 14.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.24)
-Enhances: WhatsApp
-Filename: ./debs/arm64/com.f0u4d.stalky_4.2.1_iphoneos-arm64.deb
-Size: 669228
-MD5sum: bbee3449c9ef47668818ddf27dc92277
-SHA1: ad97bef38d6eb2c56bcf2b4121a345c72aa48012
-SHA256: 139cdba839c8cb02c9cec0a0803c50f5125ae6c9417feedbb8d235974167ef86
-SHA512: aae84d64158792090440b7604d1f46c6494a5b61739984e72e769c1227869977601f52a6ff63718e2d59591b743fc75b3f2190286930c1916496782494966f16
-Description: Track & download your contacts latest profile & statuses updates on WhatsApp
-Name: Stalky
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.f0u4d.stalky
-
 Package: com.fiore.ccborder
 Architecture: iphoneos-arm64
 Version: 1.0
@@ -2855,22 +2817,6 @@ Name: Instagram (Arabic Localized)
 Author: ipapplus
 Icon: https://i.postimg.cc/SQ5KCNF0/IMG-7607.jpg
 Header: https://i.postimg.cc/PJNPhPgy/IMG-7790.jpg
-
-Package: com.istore.JodelLRD
-Architecture: iphoneos-arm64
-Version: 2.10
-Section: Applications
-Maintainer: iStorePlus1
-Depends: mobilesubstrate
-Filename: ./debs/arm64/com.istore.JodelLRD_2.10_iphoneos-arm64.deb
-Size: 925900
-MD5sum: 6f847c2f8f413bec1c4e37d5c55687af
-SHA1: 2cee2204b413b53e9d36372822e4395c2bb5315a
-SHA256: 349234f4e85f50d55575ecf6bb6112b472c9766458ec96ffa8ac21743766dd32
-SHA512: e586e37ff039991326fd0e93544d258b7296ba6faeb6d4c0bf2e1a14a1880ba61c32e8764b980243a82b386fb91bad3ebc01802dfa2ae6df154b0c26a9daa049
-Description: Paid tweak for Jodel
-Name: JodelLRD
-Author: iStorePlus1
 
 Package: com.jailbreak365.safeccmodules
 Architecture: iphoneos-arm64
@@ -3963,26 +3909,6 @@ SHA512: e6e72ef5c30a17ac86f9772aee628026e6aa69b9922e8f7c056e4665db644739880ca62e
 Description: An awesome tweak for TikTok!
 Name: BHTikTok++
 Author: raul saeed
-
-Package: com.roothide.managers
-Architecture: iphoneos-arm64
-Version: 1.1
-Section: System
-Maintainer: roothide
-Installed-Size: 896
-Depends: firmware (>= 15.0)
-Filename: ./debs/arm64/com.roothide.managers_1.1_iphoneos-arm64.deb
-Size: 731548
-MD5sum: bdad4580bd0172242a9c295463c405a1
-SHA1: 54bc798a7b1e78b3de4c509e6605ea739e03a886
-SHA256: 7a5f1042ef86815c5208f5cded8575a6d3379ee72b9318437951baffc8dc2068
-SHA512: 30d142c0c07044545d7847106fe9726e2e4934a38d36dffa3baab9c4fb9030d95159f0bda97f7e6027975c0aca3af26e84cfabba7293274d6bff5814aefb65f2
-Description: Configuare RootHide's Features
-Name: RootHide Manager
-Author: roothide
-Icon:
-Depiction: https://github.com/roothide/RootHideManagerApp
-Support: https://github.com/roothide/RootHideManagerApp
 
 Package: com.rpetrich.powercuff
 Architecture: iphoneos-arm64
