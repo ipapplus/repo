@@ -6866,6 +6866,24 @@ Description: Filza Extension To Calculate Folders Inside Your Filesystem
 Name: FilzaDirProbe
 Author: 0xkuj
 
+Package: com.0xkuj.iparanger
+Architecture: iphoneos-arm64e
+Version: 2.2
+Section: Applications
+Maintainer: 0xkuj
+Installed-Size: 11496
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: gawk, unzip, plutil
+Filename: ./debs/arm64e/com.0xkuj.iparanger_2.2_iphoneos-arm64e.deb
+Size: 6863752
+MD5sum: 58353a8b953916cb005077eb78196e11
+SHA1: 02298e00cb872ca039fe36b61de454630139787d
+SHA256: 494fa510c65befa4d4a6311a061b556c598213de6eedf75375005899a1078dd8
+SHA512: e20616c6eb99e3d0c249462bce2baf3356b204ca42d05714842ac4db9310968fc47c3b4c993fce51402ea8ce9df412fef8f5317b8773e6ce57b4a79f72bb5d1d
+Description: GUI Based Application for ipatool
+Name: IPA Ranger
+Author: 0xkuj
+
 Package: com.0xkuj.nopastealerts16
 Architecture: iphoneos-arm64e
 Version: 1.0.0
@@ -7222,6 +7240,46 @@ Description: An awesome tweak for TikTok!
 Name: BHTikTok Plus
 Author: dvntm
 Icon: https://i.imgur.com/PKIhkrt.png
+
+Package: com.bandarhl.bhtwiter
+Architecture: iphoneos-arm64e
+Version: 5.0-1
+Section: Tweaks
+Maintainer: Bandar Alruwaili & actuallyaridan
+Installed-Size: 24456
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Conflicts: com.bandarhl.bhtwitter
+Filename: ./debs/arm64e/com.bandarhl.bhtwiter_5.0-1_iphoneos-arm64e.deb
+Size: 7621968
+MD5sum: a49c16c819ab31e3e7d0c88fd8dc9d6c
+SHA1: fb723b99cc8035e55acea1cf3aa7835c49e2ea84
+SHA256: 5b4ef8c4945e79145b5889c1779e8fbbe5b270b503e5814479e67d140e900ca3
+SHA512: b832a41734e39f4e91664d9c129dbbbf77d1e9782f985dd2d5c1df02bd334c836a3cb9aa1fe17d792c017f0a6a7b6aa213d8a9db09708096b7e443fb06c82270
+Description: Awesome tweak for Twitter
+Name: BHTwitter NeoFreeBird
+Author: Bandar Alruwaili & actuallyaridan
+Icon: https://i.imgur.com/d6ywvWb.jpeg
+
+Package: com.bandarhl.bhtwitter
+Architecture: iphoneos-arm64e
+Version: 4.4
+Section: Tweaks
+Maintainer: Bandar Alruwaili
+Installed-Size: 18344
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/arm64e/com.bandarhl.bhtwitter_4.4_iphoneos-arm64e.deb
+Size: 6615488
+MD5sum: d2fc1cc1ac674f8627fa99ca2c4bb579
+SHA1: 6f0779b4c5b4fa60e0a57f4934634ae962d36d95
+SHA256: 93c79957a37018c5848403f2859dc1f2062d862953f16881509c8f1df1d40d2d
+SHA512: 3ba15e80466213253e2161f6ee59a551af41a934174f2c6416700171390d6da594d3d9d49860353d13d0081477b4b1fcc0d50ee628abbb032aa9fd25e88a22ee
+Description: Awesome tweak for Twitter
+Name: BHTwitter
+Author: Bandar Alruwaili
+SileoDepiction: https://a7m.dev/file/BHTwitter.json
+Icon: https://i.imgur.com/KHtcJGx.jpeg
 
 Package: com.blatant.aicoversongsmusicgeneratorpatch
 Architecture: iphoneos-arm64e
@@ -8753,6 +8811,25 @@ Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=walegacyDp
 Sponsor: thebigboss.org <http://thebigboss.org>
 dev: dvntm
 
+Package: com.dvntm.ytlite
+Architecture: iphoneos-arm64e
+Version: 5.2b4
+Section: Tweaks
+Maintainer: dvntm
+Installed-Size: 16716
+Depends: mobilesubstrate
+Filename: ./debs/arm64e/com.dvntm.ytlite_5.2b4_iphoneos-arm64e.deb
+Size: 6413504
+MD5sum: 478bf566ebba9511c4383ffc68143fea
+SHA1: 9d58b2a5013f7ee6d49d194b37691fe63f6c99ed
+SHA256: 4e628886172724051e3548e35d1734dd4f2005d650acfee06a4377b64aa2eb34
+SHA512: 3ff6dfe3ae698ca31bf1c2959c8be5b5f69eeacff0b2b19b75451801a084975c23b6b3f239f99557901e27915b4b28995ac912a33855b22f7d36f1cf0489e695
+Description: Lightweight YouTube Enhancer
+Name: YTLite
+Author: dvntm
+Icon: https://raw.githubusercontent.com/dayanch96/YTLite/refs/heads/main/Resources/icon.png
+SileoDepiction: https://raw.githubusercontent.com/dayanch96/YTLite/main/Resources/depiction.json
+
 Package: com.eamontracey.secretshot
 Architecture: iphoneos-arm64e
 Version: 1.1.1
@@ -10230,6 +10307,26 @@ SHA512: 7b9cba9d927ac7e7100d5ca5335771b2605362b60ba01900044bae44c544fb693f186447
 Description: Control Center module to view time since boot
 Name: Uptime
 Author: MTAC
+
+Package: com.mtac.vitreux
+Architecture: iphoneos-arm64e
+Version: 1.3
+Section: Tweaks
+Maintainer: MTAC
+Installed-Size: 7028
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/arm64e/com.mtac.vitreux_1.3_iphoneos-arm64e.deb
+Size: 5926964
+MD5sum: 7bb39c7c66680662cab897a474874724
+SHA1: ca633054a7a6a7adad4c629ea39de0fa219cd2c6
+SHA256: 27432dd300f29f7f7e41d5321ba81c58edc6c921ab64372152daa62be60ae66a
+SHA512: c1df62233ee7b99b1f846c421d2dfb8833db46e9795f9abe62ea9297155c4e71b69d658a66a8fd4274d76432e5e65218a61a683e2204ec6f31639c8219763e42
+Description: A recreation of Liquid Glass
+Name: Vitreux
+Author: MTAC
+Icon: https://mtac.app/repo/assets/com.mtac.vitreux/icon-rounded.png
+SileoDepiction: https://mtac.app/repo/depiction/native/com.mtac.vitreux.json
 
 Package: com.muirey03.cr4shed
 Architecture: iphoneos-arm64e
@@ -13713,6 +13810,21 @@ Name: PopOutButtons
 Icon: https://img.chariz.cloud/icon/popoutbuttons/icon@3x.png
 Depiction: https://chariz.com/get/popoutbuttons
 
+Package: com.thenatis.vivacity
+Architecture: iphoneos-arm64e
+Version: 2.0
+Section: Themes
+Maintainer: Thenatis
+Filename: ./debs/arm64e/com.thenatis.vivacity_2.0_iphoneos-arm64e.deb
+Size: 5141472
+MD5sum: 0ab2ed30ed32690b3e989a2980f78716
+SHA1: 6958c7bff798f18904b892c8f6b2de0e887646fa
+SHA256: eefd0181cc985dd64dbdee3c7180190c6692b1f579e1218a62fe72d16adc8864
+SHA512: 6e4f25f478a581fe4ebdf2a7ab9354221fa2f22fe167a43f8e7a0a44a577ebe9376da2b1314bb2aabf937bc1c46c11c5361cfc48b01abd936b55e50f97bfa0ec
+Description: A Vibrant Theme to Light up Your Device!
+Name: Vivacity
+Author: Thenatis
+
 Package: com.tigisoftware.appdatamanager
 Architecture: iphoneos-arm64e
 Version: 1.8.2-5
@@ -13870,6 +13982,25 @@ Name: EmojiSkinPrefs
 Author: PoomSmart & vXBaKeRXv
 Depiction: https://poomsmart.github.io/repo/depictions/emojiskinprefs.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/emojiskinprefs.json
+
+Package: com.wgold.whatsapp
+Architecture: iphoneos-arm64e
+Version: 1.8
+Section: Tweaks
+Maintainer: WGold Team
+Installed-Size: 3652
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Conflicts: com.alilatif.wgold
+Filename: ./debs/arm64e/com.wgold.whatsapp_1.8_iphoneos-arm64e.deb
+Size: 6237120
+MD5sum: bf28efe9878c0b5bc3322b62b106cfc0
+SHA1: d4000b9fa61d5e46270e8cf4eb74928b62f6c156
+SHA256: 5b27cab9cd7752f2dee215c878aae3772de7319d0841c461ee46d589c7772b29
+SHA512: d96bd67eb0227fda5195d00d82c279d744668a243c290c56127fcd1d149ce461aaab4d64a4737f453a16b99f5318488a07330a69ac695915eafe0ea4404f0b31
+Description: واتساب جولد - تويك للواتساب مع ميزات إضافية
+Name: WGold
+Author: WGold Team
 
 Package: com.wrp1002.nosettingsbadge
 Architecture: iphoneos-arm64e
