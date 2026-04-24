@@ -2647,26 +2647,6 @@ Name: Uranium
 Author: FissionDev
 Icon: https://andrewrepo.github.io/Depictions/Icons/Uraniumicon@3x.png
 
-Package: com.fouadraheb.contactsync
-Architecture: iphoneos-arm64
-Version: 1.1.14
-Section: Tweaks
-Maintainer: Fouad Raheb <support@fouadraheb.com>
-Installed-Size: 600
-Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000), com.f0u4d.watusitools (>= 2.5.0)
-Filename: ./debs/arm64/com.fouadraheb.contactsync_1.1.14_iphoneos-arm64.deb
-Size: 117312
-MD5sum: d5f99a30ad7bfa6d403ea4266301b70c
-SHA1: a5e74ece2787841f8bf21da1e1f95e58664badde
-SHA256: add7974e9dad645dbadf655412736898c512765e4679210671539aabc0486763
-SHA512: a3b29946f02f2b0394b9d8e38da40bc0585ebf842ec37c00c027622d9be119a33ee3f22a04eb1a78d7b2690ba2399045a447c2c606a769078ad43781329ee182
-Description: Sync WhatsApp Profile Pictures to your Contacts
-Name: ContactSync
-Author: Fouad Raheb <support@fouadraheb.com>
-Depiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
-SileoDepiction: https://apt.fouadraheb.com/package/com.fouadraheb.contactsync
-Icon: file:///Library/Application Support/ContactSync/Resources.bundle/Logo@3x.png
-
 Package: com.gilesgc.cccalc
 Architecture: iphoneos-arm64
 Version: 1.2.2
