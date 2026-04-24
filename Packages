@@ -11915,6 +11915,26 @@ Description: Marisa LOUDS trie keyword index files for iOS 17+
 Name: EmojiPort Resources — iOS 17+ Assets
 Author: PoomSmart
 
+Package: com.ps.emojiport10resources
+Architecture: iphoneos-arm64e
+Version: 1.9.0
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 237624
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 10.0), com.ps.emojiport10resources-assets17 | com.ps.emojiport10resources-assets16
+Filename: ./debs/arm64e/com.ps.emojiport10resources_1.9.0_iphoneos-arm64e.deb
+Size: 52112368
+MD5sum: 1f65b19a7410c59ec2f66527e1b325ed
+SHA1: c128d7475b54cebc6cd0b48ec16482afd7a13f60
+SHA256: 059017809e7dc0045ca7e7b875b03c7326c03576e89d427e967292c68488dfd9
+SHA512: 68656bb9e2c9b914ba5e2f019ace0083c41d48a99694e074d0a54349bb04013d889ddabda182790dbb5f2b3683c0024d42c390a6961902b73efd7848d87fc642
+Description: Latest emoji localization and metadata for iOS 10+
+Name: EmojiPort Resources (iOS 10+)
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/emojiport10resources.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/emojiport10resources.json
+
 Package: com.ps.emojiportpe
 Architecture: iphoneos-arm64e
 Version: 1.8.0
