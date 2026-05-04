@@ -10738,6 +10738,26 @@ Author: PoomSmart
 Depiction: https://poomsmart.github.io/repo/depictions/ytabgoodies.html
 SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytabgoodies.json
 
+Package: com.ps.ytanotherminiplayer
+Architecture: iphoneos-arm64e
+Version: 1.0.0
+Section: Tweaks
+Maintainer: PoomSmart
+Installed-Size: 72
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000), firmware (>= 15.0)
+Filename: ./debs/arm64e/com.ps.ytanotherminiplayer_1.0.0_iphoneos-arm64e.deb
+Size: 2484
+MD5sum: ac0a47c81e53bdbc6bce28c752275506
+SHA1: f697eeded2f8f5cdac95182f993cb65af37dff30
+SHA256: bfff6af1bdfa1182110bb3fcdbb2b9cbdf07c8ba9d348d0f039b2b48df9569ea
+SHA512: 31ede58a92290150df69c49cf4c16e84a48cdcaaed84f54256a1706de4609a0a989e47b93d055bc2bf4821c95291e5d5820ebcb5a4013971c556b86e60a8793d
+Description: Uses an alternative YouTube miniplayer style.
+Name: YTAnotherMiniplayer
+Author: PoomSmart
+Depiction: https://poomsmart.github.io/repo/depictions/ytanotherminiplayer.html
+SileoDepiction: https://poomsmart.github.io/repo/sileodepictions/ytanotherminiplayer.json
+
 Package: com.ps.ytautofullscreen
 Architecture: iphoneos-arm64e
 Version: 1.0.4
